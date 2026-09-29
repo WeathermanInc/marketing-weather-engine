@@ -1,10 +1,4 @@
 Date,Region,Type,Value,Lat,Lon
-2026-09-22,CAN,sales_revenue,202.51999999999998,,
-2026-09-22,CAN,sales_units,4.0,,
-2026-09-22,UK,sales_revenue,237.57999999999998,,
-2026-09-22,UK,sales_units,3.0,,
-2026-09-22,US,sales_revenue,34076.04,,
-2026-09-22,US,sales_units,1397.0,,
 2026-09-23,CAN,sales_revenue,33.26,,
 2026-09-23,CAN,sales_units,1.0,,
 2026-09-23,UK,sales_revenue,5.0,,
@@ -21,1476 +15,1457 @@ Date,Region,Type,Value,Lat,Lon
 2026-09-25,CAN,sales_units,7.0,,
 2026-09-25,UK,sales_revenue,170.98,,
 2026-09-25,UK,sales_units,1.0,,
-2026-09-25,US,sales_revenue,19234.21,,
-2026-09-25,US,sales_units,478.0,,
+2026-09-25,US,sales_revenue,19151.23,,
+2026-09-25,US,sales_units,477.0,,
 2026-09-26,CAN,sales_revenue,328.65999999999997,,
 2026-09-26,CAN,sales_units,5.0,,
 2026-09-26,UK,sales_revenue,116.58,,
 2026-09-26,UK,sales_units,2.0,,
-2026-09-26,US,sales_revenue,25654.56,,
-2026-09-26,US,sales_units,394.0,,
+2026-09-26,US,sales_revenue,25563.09,,
+2026-09-26,US,sales_units,393.0,,
 2026-09-27,CAN,sales_revenue,177.56,,
 2026-09-27,CAN,sales_units,3.0,,
-2026-09-27,US,sales_revenue,37822.88,,
-2026-09-27,US,sales_units,564.0,,
-2026-09-28,CAN,actual_action,Scale Umbrellas (Residual Demand),,
-2026-09-28,CAN,sales_revenue,66.6,,
-2026-09-28,CAN,sales_units,1.0,,
-2026-09-28,CAN,suggested_strategy,Baseline,51.0501,-114.0853
-2026-09-28,CAN,suggested_strategy,Baseline,53.5501,-113.4687
-2026-09-28,CAN,suggested_strategy,Baseline,53.6334,-113.6353
-2026-09-28,CAN,suggested_strategy,Baseline,52.8348,-110.8534
-2026-09-28,CAN,suggested_strategy,Baseline,54.7502,-113.5688
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,49.2497,-123.1193
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,48.4359,-123.3516
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,49.1063,-122.8251
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,49.2664,-122.9526
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,49.3164,-123.0693
-2026-09-28,CAN,suggested_strategy,Baseline,49.8753,-97.409
-2026-09-28,CAN,suggested_strategy,Baseline,49.8844,-97.147
-2026-09-28,CAN,suggested_strategy,Baseline,49.8469,-99.9531
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,49.5258,-96.6845
-2026-09-28,CAN,suggested_strategy,Baseline,55.7435,-97.8558
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,46.0945,-64.7965
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,45.2708,-66.0562
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,45.9454,-66.6656
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,46.0784,-64.6873
-2026-09-28,CAN,suggested_strategy,Baseline,47.029,-65.5019
-2026-09-28,CAN,suggested_strategy,Baseline,47.5649,-52.7093
-2026-09-28,CAN,suggested_strategy,Baseline,47.5166,-52.7814
-2026-09-28,CAN,suggested_strategy,Baseline,48.95,-57.952
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,44.6427,-63.5769
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,44.6713,-63.5772
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,46.1351,-60.1831
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,45.3668,-63.2654
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,45.5834,-62.6486
-2026-09-28,CAN,suggested_strategy,Baseline,62.4541,-114.3725
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,60.8156,-115.7999
-2026-09-28,CAN,suggested_strategy,Baseline,68.3617,-133.7282
-2026-09-28,CAN,suggested_strategy,Baseline,60.0044,-111.8887
-2026-09-28,CAN,suggested_strategy,Baseline,62.8025,-116.0464
-2026-09-28,CAN,suggested_strategy,Baseline,63.747,-68.5173
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas (Residual Demand),62.8091,-92.0853
-2026-09-28,CAN,suggested_strategy,Baseline,61.1088,-94.0585
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas (Residual Demand),64.3201,-96.0212
-2026-09-28,CAN,suggested_strategy,Baseline,69.1149,-105.0548
-2026-09-28,CAN,suggested_strategy,Baseline,43.7064,-79.3986
-2026-09-28,CAN,suggested_strategy,Baseline,45.4112,-75.6981
-2026-09-28,CAN,suggested_strategy,Baseline,44.2298,-76.481
-2026-09-28,CAN,suggested_strategy,Baseline,43.5459,-80.256
-2026-09-28,CAN,suggested_strategy,Baseline,43.8668,-79.2663
-2026-09-28,CAN,suggested_strategy,Baseline,46.2346,-63.1256
-2026-09-28,CAN,suggested_strategy,Baseline,46.3912,-63.7887
-2026-09-28,CAN,suggested_strategy,Baseline,46.2265,-63.2181
-2026-09-28,CAN,suggested_strategy,Baseline,46.1668,-62.6487
-2026-09-28,CAN,suggested_strategy,Baseline,45.5088,-73.5878
-2026-09-28,CAN,suggested_strategy,Baseline,45.4473,-73.7533
-2026-09-28,CAN,suggested_strategy,Baseline,45.6668,-73.8825
-2026-09-28,CAN,suggested_strategy,Baseline,45.4501,-73.4658
-2026-09-28,CAN,suggested_strategy,Baseline,45.4654,-73.6659
-2026-09-28,CAN,suggested_strategy,Baseline,52.1324,-106.6689
-2026-09-28,CAN,suggested_strategy,Baseline,49.8001,-104.1678
-2026-09-28,CAN,suggested_strategy,Baseline,50.4501,-104.6178
-2026-09-28,CAN,suggested_strategy,Baseline,53.2001,-105.7677
-2026-09-28,CAN,suggested_strategy,Baseline,50.4001,-105.5345
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,60.7161,-135.0538
-2026-09-28,CAN,suggested_strategy,Baseline,64.0601,-139.4333
-2026-09-28,CAN,suggested_strategy,Baseline,60.0635,-128.7089
-2026-09-28,CAN,suggested_strategy,Baseline,60.7522,-137.5108
-2026-09-28,CAN,suggested_strategy,Baseline,63.5927,-135.8998
-2026-09-28,CAN,suggested_strategy,Baseline,48.9332,-55.6649
-2026-09-28,CAN,suggested_strategy,Baseline,47.5333,-52.9667
-2026-09-28,CAN,suggested_strategy,Scale Umbrellas,46.2153,-63.0866
-2026-09-28,CAN,weather_rain,0.0,51.0501,-114.0853
-2026-09-28,CAN,weather_rain,0.0,53.5501,-113.4687
-2026-09-28,CAN,weather_rain,0.0,53.6334,-113.6353
-2026-09-28,CAN,weather_rain,0.0,52.8348,-110.8534
-2026-09-28,CAN,weather_rain,0.02,54.7502,-113.5688
-2026-09-28,CAN,weather_rain,2.012,49.2497,-123.1193
-2026-09-28,CAN,weather_rain,1.098,48.4359,-123.3516
-2026-09-28,CAN,weather_rain,1.461,49.1063,-122.8251
-2026-09-28,CAN,weather_rain,2.169,49.2664,-122.9526
-2026-09-28,CAN,weather_rain,2.197,49.3164,-123.0693
-2026-09-28,CAN,weather_rain,0.0,49.8753,-97.409
-2026-09-28,CAN,weather_rain,0.0,49.8844,-97.147
-2026-09-28,CAN,weather_rain,0.0,49.8469,-99.9531
-2026-09-28,CAN,weather_rain,0.228,49.5258,-96.6845
-2026-09-28,CAN,weather_rain,0.0,55.7435,-97.8558
-2026-09-28,CAN,weather_rain,0.453,46.0945,-64.7965
-2026-09-28,CAN,weather_rain,1.996,45.2708,-66.0562
-2026-09-28,CAN,weather_rain,0.417,45.9454,-66.6656
-2026-09-28,CAN,weather_rain,0.799,46.0784,-64.6873
-2026-09-28,CAN,weather_rain,0.146,47.029,-65.5019
-2026-09-28,CAN,weather_rain,0.0,47.5649,-52.7093
-2026-09-28,CAN,weather_rain,0.012,47.5166,-52.7814
-2026-09-28,CAN,weather_rain,0.012,48.95,-57.952
-2026-09-28,CAN,weather_rain,0.85,44.6427,-63.5769
-2026-09-28,CAN,weather_rain,0.795,44.6713,-63.5772
-2026-09-28,CAN,weather_rain,0.299,46.1351,-60.1831
-2026-09-28,CAN,weather_rain,0.429,45.3668,-63.2654
-2026-09-28,CAN,weather_rain,0.878,45.5834,-62.6486
-2026-09-28,CAN,weather_rain,0.02,62.4541,-114.3725
-2026-09-28,CAN,weather_rain,0.74,60.8156,-115.7999
-2026-09-28,CAN,weather_rain,0.0,68.3617,-133.7282
-2026-09-28,CAN,weather_rain,0.0,60.0044,-111.8887
-2026-09-28,CAN,weather_rain,0.0,62.8025,-116.0464
-2026-09-28,CAN,weather_rain,0.0,63.747,-68.5173
-2026-09-28,CAN,weather_rain,0.0,62.8091,-92.0853
-2026-09-28,CAN,weather_rain,0.0,61.1088,-94.0585
-2026-09-28,CAN,weather_rain,0.0,64.3201,-96.0212
-2026-09-28,CAN,weather_rain,0.0,69.1149,-105.0548
-2026-09-28,CAN,weather_rain,0.0,43.7064,-79.3986
-2026-09-28,CAN,weather_rain,0.0,45.4112,-75.6981
-2026-09-28,CAN,weather_rain,0.0,44.2298,-76.481
-2026-09-28,CAN,weather_rain,0.0,43.5459,-80.256
-2026-09-28,CAN,weather_rain,0.0,43.8668,-79.2663
-2026-09-28,CAN,weather_rain,0.0,46.2346,-63.1256
-2026-09-28,CAN,weather_rain,0.0,46.3912,-63.7887
-2026-09-28,CAN,weather_rain,0.0,46.2265,-63.2181
-2026-09-28,CAN,weather_rain,0.0,46.1668,-62.6487
-2026-09-28,CAN,weather_rain,0.0,45.5088,-73.5878
-2026-09-28,CAN,weather_rain,0.0,45.4473,-73.7533
-2026-09-28,CAN,weather_rain,0.0,45.6668,-73.8825
-2026-09-28,CAN,weather_rain,0.0,45.4501,-73.4658
-2026-09-28,CAN,weather_rain,0.0,45.4654,-73.6659
-2026-09-28,CAN,weather_rain,0.0,52.1324,-106.6689
-2026-09-28,CAN,weather_rain,0.0,49.8001,-104.1678
-2026-09-28,CAN,weather_rain,0.0,50.4501,-104.6178
-2026-09-28,CAN,weather_rain,0.0,53.2001,-105.7677
-2026-09-28,CAN,weather_rain,0.0,50.4001,-105.5345
-2026-09-28,CAN,weather_rain,0.224,60.7161,-135.0538
-2026-09-28,CAN,weather_rain,0.071,64.0601,-139.4333
-2026-09-28,CAN,weather_rain,0.028,60.0635,-128.7089
-2026-09-28,CAN,weather_rain,0.02,60.7522,-137.5108
-2026-09-28,CAN,weather_rain,0.031,63.5927,-135.8998
-2026-09-28,CAN,weather_rain,0.0,48.9332,-55.6649
-2026-09-28,CAN,weather_rain,0.008,47.5333,-52.9667
-2026-09-28,CAN,weather_rain,0.331,46.2153,-63.0866
-2026-09-28,CAN,weather_uv,4.3,51.0501,-114.0853
-2026-09-28,CAN,weather_uv,3.75,53.5501,-113.4687
-2026-09-28,CAN,weather_uv,3.6,53.6334,-113.6353
-2026-09-28,CAN,weather_uv,3.9,52.8348,-110.8534
-2026-09-28,CAN,weather_uv,3.35,54.7502,-113.5688
-2026-09-28,CAN,weather_uv,2.3,49.2497,-123.1193
-2026-09-28,CAN,weather_uv,4.05,48.4359,-123.3516
-2026-09-28,CAN,weather_uv,2.95,49.1063,-122.8251
-2026-09-28,CAN,weather_uv,2.5,49.2664,-122.9526
-2026-09-28,CAN,weather_uv,2.35,49.3164,-123.0693
-2026-09-28,CAN,weather_uv,0.85,49.8753,-97.409
-2026-09-28,CAN,weather_uv,0.95,49.8844,-97.147
-2026-09-28,CAN,weather_uv,1.35,49.8469,-99.9531
-2026-09-28,CAN,weather_uv,1.75,49.5258,-96.6845
-2026-09-28,CAN,weather_uv,0.0,55.7435,-97.8558
-2026-09-28,CAN,weather_uv,0.0,46.0945,-64.7965
-2026-09-28,CAN,weather_uv,0.0,45.2708,-66.0562
-2026-09-28,CAN,weather_uv,0.0,45.9454,-66.6656
-2026-09-28,CAN,weather_uv,0.0,46.0784,-64.6873
-2026-09-28,CAN,weather_uv,0.0,47.029,-65.5019
-2026-09-28,CAN,weather_uv,0.0,47.5649,-52.7093
-2026-09-28,CAN,weather_uv,0.0,47.5166,-52.7814
-2026-09-28,CAN,weather_uv,0.0,48.95,-57.952
-2026-09-28,CAN,weather_uv,0.0,44.6427,-63.5769
-2026-09-28,CAN,weather_uv,0.0,44.6713,-63.5772
-2026-09-28,CAN,weather_uv,0.0,46.1351,-60.1831
-2026-09-28,CAN,weather_uv,0.0,45.3668,-63.2654
-2026-09-28,CAN,weather_uv,0.0,45.5834,-62.6486
-2026-09-28,CAN,weather_uv,0.0,62.4541,-114.3725
-2026-09-28,CAN,weather_uv,0.0,60.8156,-115.7999
-2026-09-28,CAN,weather_uv,0.0,68.3617,-133.7282
-2026-09-28,CAN,weather_uv,0.0,60.0044,-111.8887
-2026-09-28,CAN,weather_uv,0.0,62.8025,-116.0464
-2026-09-28,CAN,weather_uv,0.0,63.747,-68.5173
-2026-09-28,CAN,weather_uv,0.0,62.8091,-92.0853
-2026-09-28,CAN,weather_uv,0.0,61.1088,-94.0585
-2026-09-28,CAN,weather_uv,0.0,64.3201,-96.0212
-2026-09-28,CAN,weather_uv,0.0,69.1149,-105.0548
-2026-09-28,CAN,weather_uv,0.0,43.7064,-79.3986
-2026-09-28,CAN,weather_uv,1.55,45.4112,-75.6981
-2026-09-28,CAN,weather_uv,4.65,44.2298,-76.481
-2026-09-28,CAN,weather_uv,4.4,43.5459,-80.256
-2026-09-28,CAN,weather_uv,4.65,43.8668,-79.2663
-2026-09-28,CAN,weather_uv,4.5,46.2346,-63.1256
-2026-09-28,CAN,weather_uv,4.25,46.3912,-63.7887
-2026-09-28,CAN,weather_uv,4.5,46.2265,-63.2181
-2026-09-28,CAN,weather_uv,4.65,46.1668,-62.6487
-2026-09-28,CAN,weather_uv,0.7,45.5088,-73.5878
-2026-09-28,CAN,weather_uv,0.75,45.4473,-73.7533
-2026-09-28,CAN,weather_uv,0.7,45.6668,-73.8825
-2026-09-28,CAN,weather_uv,0.95,45.4501,-73.4658
-2026-09-28,CAN,weather_uv,0.75,45.4654,-73.6659
-2026-09-28,CAN,weather_uv,4.05,52.1324,-106.6689
-2026-09-28,CAN,weather_uv,4.0,49.8001,-104.1678
-2026-09-28,CAN,weather_uv,4.3,50.4501,-104.6178
-2026-09-28,CAN,weather_uv,3.85,53.2001,-105.7677
-2026-09-28,CAN,weather_uv,4.3,50.4001,-105.5345
-2026-09-28,CAN,weather_uv,2.2,60.7161,-135.0538
-2026-09-28,CAN,weather_uv,0.8,64.0601,-139.4333
-2026-09-28,CAN,weather_uv,2.5,60.0635,-128.7089
-2026-09-28,CAN,weather_uv,1.0,60.7522,-137.5108
-2026-09-28,CAN,weather_uv,0.65,63.5927,-135.8998
-2026-09-28,CAN,weather_uv,4.5,48.9332,-55.6649
-2026-09-28,CAN,weather_uv,4.7,47.5333,-52.9667
-2026-09-28,CAN,weather_uv,4.55,46.2153,-63.0866
-2026-09-28,CAN,weather_yesterday_rain,0.004,51.0501,-114.0853
-2026-09-28,CAN,weather_yesterday_rain,0.0,53.5501,-113.4687
-2026-09-28,CAN,weather_yesterday_rain,0.0,53.6334,-113.6353
-2026-09-28,CAN,weather_yesterday_rain,0.0,52.8348,-110.8534
-2026-09-28,CAN,weather_yesterday_rain,0.0,54.7502,-113.5688
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.2497,-123.1193
-2026-09-28,CAN,weather_yesterday_rain,0.0,48.4359,-123.3516
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.1063,-122.8251
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.2664,-122.9526
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.3164,-123.0693
-2026-09-28,CAN,weather_yesterday_rain,0.024,49.8753,-97.409
-2026-09-28,CAN,weather_yesterday_rain,0.028,49.8844,-97.147
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.8469,-99.9531
-2026-09-28,CAN,weather_yesterday_rain,0.02,49.5258,-96.6845
-2026-09-28,CAN,weather_yesterday_rain,0.063,55.7435,-97.8558
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.0945,-64.7965
-2026-09-28,CAN,weather_yesterday_rain,0.012,45.2708,-66.0562
-2026-09-28,CAN,weather_yesterday_rain,0.0,45.9454,-66.6656
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.0784,-64.6873
-2026-09-28,CAN,weather_yesterday_rain,0.0,47.029,-65.5019
-2026-09-28,CAN,weather_yesterday_rain,0.0,47.5649,-52.7093
-2026-09-28,CAN,weather_yesterday_rain,0.0,47.5166,-52.7814
-2026-09-28,CAN,weather_yesterday_rain,0.0,48.95,-57.952
-2026-09-28,CAN,weather_yesterday_rain,0.079,44.6427,-63.5769
-2026-09-28,CAN,weather_yesterday_rain,0.063,44.6713,-63.5772
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.1351,-60.1831
-2026-09-28,CAN,weather_yesterday_rain,0.118,45.3668,-63.2654
-2026-09-28,CAN,weather_yesterday_rain,0.0,45.5834,-62.6486
-2026-09-28,CAN,weather_yesterday_rain,0.138,62.4541,-114.3725
-2026-09-28,CAN,weather_yesterday_rain,0.024,60.8156,-115.7999
-2026-09-28,CAN,weather_yesterday_rain,0.0,68.3617,-133.7282
-2026-09-28,CAN,weather_yesterday_rain,0.26,60.0044,-111.8887
-2026-09-28,CAN,weather_yesterday_rain,0.0,62.8025,-116.0464
-2026-09-28,CAN,weather_yesterday_rain,0.0,63.747,-68.5173
-2026-09-28,CAN,weather_yesterday_rain,1.11,62.8091,-92.0853
-2026-09-28,CAN,weather_yesterday_rain,0.386,61.1088,-94.0585
-2026-09-28,CAN,weather_yesterday_rain,1.087,64.3201,-96.0212
-2026-09-28,CAN,weather_yesterday_rain,0.0,69.1149,-105.0548
-2026-09-28,CAN,weather_yesterday_rain,0.0,43.7064,-79.3986
-2026-09-28,CAN,weather_yesterday_rain,0.008,45.4112,-75.6981
-2026-09-28,CAN,weather_yesterday_rain,0.067,44.2298,-76.481
-2026-09-28,CAN,weather_yesterday_rain,0.0,43.5459,-80.256
-2026-09-28,CAN,weather_yesterday_rain,0.0,43.8668,-79.2663
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.2346,-63.1256
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.3912,-63.7887
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.2265,-63.2181
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.1668,-62.6487
-2026-09-28,CAN,weather_yesterday_rain,0.024,45.5088,-73.5878
-2026-09-28,CAN,weather_yesterday_rain,0.024,45.4473,-73.7533
-2026-09-28,CAN,weather_yesterday_rain,0.0,45.6668,-73.8825
-2026-09-28,CAN,weather_yesterday_rain,0.031,45.4501,-73.4658
-2026-09-28,CAN,weather_yesterday_rain,0.035,45.4654,-73.6659
-2026-09-28,CAN,weather_yesterday_rain,0.0,52.1324,-106.6689
-2026-09-28,CAN,weather_yesterday_rain,0.0,49.8001,-104.1678
-2026-09-28,CAN,weather_yesterday_rain,0.0,50.4501,-104.6178
-2026-09-28,CAN,weather_yesterday_rain,0.0,53.2001,-105.7677
-2026-09-28,CAN,weather_yesterday_rain,0.0,50.4001,-105.5345
-2026-09-28,CAN,weather_yesterday_rain,0.051,60.7161,-135.0538
-2026-09-28,CAN,weather_yesterday_rain,0.0,64.0601,-139.4333
-2026-09-28,CAN,weather_yesterday_rain,0.098,60.0635,-128.7089
-2026-09-28,CAN,weather_yesterday_rain,0.028,60.7522,-137.5108
-2026-09-28,CAN,weather_yesterday_rain,0.004,63.5927,-135.8998
-2026-09-28,CAN,weather_yesterday_rain,0.0,48.9332,-55.6649
-2026-09-28,CAN,weather_yesterday_rain,0.0,47.5333,-52.9667
-2026-09-28,CAN,weather_yesterday_rain,0.0,46.2153,-63.0866
-2026-09-28,UK,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-27,US,sales_revenue,37694.8,,
+2026-09-27,US,sales_units,563.0,,
+2026-09-28,CAN,sales_revenue,276.71999999999997,,
+2026-09-28,CAN,sales_units,4.0,,
 2026-09-28,UK,sales_revenue,197.66,,
 2026-09-28,UK,sales_units,1.0,,
-2026-09-28,UK,suggested_strategy,Baseline,51.5085,-0.1257
-2026-09-28,UK,suggested_strategy,Baseline,51.4552,-2.5966
-2026-09-28,UK,suggested_strategy,Baseline,53.383,-1.4659
-2026-09-28,UK,suggested_strategy,Baseline,51.558,-1.7812
-2026-09-28,UK,suggested_strategy,Baseline,52.4814,-1.8998
-2026-09-28,UK,suggested_strategy,Baseline,50.8284,-0.1395
-2026-09-28,UK,suggested_strategy,Baseline,50.8309,-0.1672
-2026-09-28,UK,suggested_strategy,Baseline,53.4809,-2.2374
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),55.8651,-4.2576
-2026-09-28,UK,suggested_strategy,Baseline,55.9521,-3.1965
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),57.1437,-2.0981
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),56.0716,-3.4589
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),57.0755,-2.7802
-2026-09-28,UK,suggested_strategy,Baseline,55.8844,-3.3397
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),57.0517,-2.4882
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),55.7992,-4.3929
-2026-09-28,UK,suggested_strategy,Baseline,51.48,-3.18
-2026-09-28,UK,suggested_strategy,Baseline,51.7144,-3.4492
-2026-09-28,UK,suggested_strategy,Baseline,51.8514,-4.8806
-2026-09-28,UK,suggested_strategy,Baseline,51.6545,-3.0228
-2026-09-28,UK,suggested_strategy,Baseline,52.4498,-3.54
-2026-09-28,UK,suggested_strategy,Baseline,51.7479,-3.3778
-2026-09-28,UK,suggested_strategy,Baseline,51.5924,-3.7802
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.1784,-6.3374
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.5968,-5.9254
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.4471,-6.387
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.3667,-6.0167
-2026-09-28,UK,suggested_strategy,Baseline,54.9981,-7.3093
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.5234,-6.0353
-2026-09-28,UK,suggested_strategy,Scale Umbrellas (Residual Demand),54.6608,-5.668
-2026-09-28,UK,suggested_strategy,Baseline,51.6214,-3.9436
-2026-09-28,UK,weather_rain,0.008,51.5085,-0.1257
-2026-09-28,UK,weather_rain,0.067,51.4552,-2.5966
-2026-09-28,UK,weather_rain,0.0,53.383,-1.4659
-2026-09-28,UK,weather_rain,0.154,51.558,-1.7812
-2026-09-28,UK,weather_rain,0.012,52.4814,-1.8998
-2026-09-28,UK,weather_rain,0.0,50.8284,-0.1395
-2026-09-28,UK,weather_rain,0.0,50.8309,-0.1672
-2026-09-28,UK,weather_rain,0.0,53.4809,-2.2374
-2026-09-28,UK,weather_rain,0.0,55.8651,-4.2576
-2026-09-28,UK,weather_rain,0.0,55.9521,-3.1965
-2026-09-28,UK,weather_rain,0.0,57.1437,-2.0981
-2026-09-28,UK,weather_rain,0.0,56.0716,-3.4589
-2026-09-28,UK,weather_rain,0.0,57.0755,-2.7802
-2026-09-28,UK,weather_rain,0.0,55.8844,-3.3397
-2026-09-28,UK,weather_rain,0.0,57.0517,-2.4882
-2026-09-28,UK,weather_rain,0.0,55.7992,-4.3929
-2026-09-28,UK,weather_rain,0.165,51.48,-3.18
-2026-09-28,UK,weather_rain,0.087,51.7144,-3.4492
-2026-09-28,UK,weather_rain,0.0,51.8514,-4.8806
-2026-09-28,UK,weather_rain,0.161,51.6545,-3.0228
-2026-09-28,UK,weather_rain,0.004,52.4498,-3.54
-2026-09-28,UK,weather_rain,0.063,51.7479,-3.3778
-2026-09-28,UK,weather_rain,0.075,51.5924,-3.7802
-2026-09-28,UK,weather_rain,0.043,54.1784,-6.3374
-2026-09-28,UK,weather_rain,0.02,54.5968,-5.9254
-2026-09-28,UK,weather_rain,0.008,54.4471,-6.387
-2026-09-28,UK,weather_rain,0.094,54.3667,-6.0167
-2026-09-28,UK,weather_rain,0.0,54.9981,-7.3093
-2026-09-28,UK,weather_rain,0.024,54.5234,-6.0353
-2026-09-28,UK,weather_rain,0.028,54.6608,-5.668
-2026-09-28,UK,weather_rain,0.059,51.6214,-3.9436
-2026-09-28,UK,weather_uv,2.75,51.5085,-0.1257
-2026-09-28,UK,weather_uv,2.3,51.4552,-2.5966
-2026-09-28,UK,weather_uv,2.35,53.383,-1.4659
-2026-09-28,UK,weather_uv,2.55,51.558,-1.7812
-2026-09-28,UK,weather_uv,2.5,52.4814,-1.8998
-2026-09-28,UK,weather_uv,2.75,50.8284,-0.1395
-2026-09-28,UK,weather_uv,2.7,50.8309,-0.1672
-2026-09-28,UK,weather_uv,2.55,53.4809,-2.2374
-2026-09-28,UK,weather_uv,2.0,55.8651,-4.2576
-2026-09-28,UK,weather_uv,2.05,55.9521,-3.1965
-2026-09-28,UK,weather_uv,1.85,57.1437,-2.0981
-2026-09-28,UK,weather_uv,1.95,56.0716,-3.4589
-2026-09-28,UK,weather_uv,2.0,57.0755,-2.7802
-2026-09-28,UK,weather_uv,2.05,55.8844,-3.3397
-2026-09-28,UK,weather_uv,1.9,57.0517,-2.4882
-2026-09-28,UK,weather_uv,1.95,55.7992,-4.3929
-2026-09-28,UK,weather_uv,2.8,51.48,-3.18
-2026-09-28,UK,weather_uv,2.4,51.7144,-3.4492
-2026-09-28,UK,weather_uv,2.85,51.8514,-4.8806
-2026-09-28,UK,weather_uv,2.35,51.6545,-3.0228
-2026-09-28,UK,weather_uv,2.5,52.4498,-3.54
-2026-09-28,UK,weather_uv,2.3,51.7479,-3.3778
-2026-09-28,UK,weather_uv,2.15,51.5924,-3.7802
-2026-09-28,UK,weather_uv,2.45,54.1784,-6.3374
-2026-09-28,UK,weather_uv,2.25,54.5968,-5.9254
-2026-09-28,UK,weather_uv,2.4,54.4471,-6.387
-2026-09-28,UK,weather_uv,2.4,54.3667,-6.0167
-2026-09-28,UK,weather_uv,2.05,54.9981,-7.3093
-2026-09-28,UK,weather_uv,2.25,54.5234,-6.0353
-2026-09-28,UK,weather_uv,2.0,54.6608,-5.668
-2026-09-28,UK,weather_uv,2.9,51.6214,-3.9436
-2026-09-28,UK,weather_yesterday_rain,0.039,51.5085,-0.1257
-2026-09-28,UK,weather_yesterday_rain,0.268,51.4552,-2.5966
-2026-09-28,UK,weather_yesterday_rain,0.075,53.383,-1.4659
-2026-09-28,UK,weather_yesterday_rain,0.031,51.558,-1.7812
-2026-09-28,UK,weather_yesterday_rain,0.063,52.4814,-1.8998
-2026-09-28,UK,weather_yesterday_rain,0.169,50.8284,-0.1395
-2026-09-28,UK,weather_yesterday_rain,0.169,50.8309,-0.1672
-2026-09-28,UK,weather_yesterday_rain,0.177,53.4809,-2.2374
-2026-09-28,UK,weather_yesterday_rain,0.728,55.8651,-4.2576
-2026-09-28,UK,weather_yesterday_rain,0.217,55.9521,-3.1965
-2026-09-28,UK,weather_yesterday_rain,0.512,57.1437,-2.0981
-2026-09-28,UK,weather_yesterday_rain,0.642,56.0716,-3.4589
-2026-09-28,UK,weather_yesterday_rain,0.524,57.0755,-2.7802
-2026-09-28,UK,weather_yesterday_rain,0.291,55.8844,-3.3397
-2026-09-28,UK,weather_yesterday_rain,0.705,57.0517,-2.4882
-2026-09-28,UK,weather_yesterday_rain,0.787,55.7992,-4.3929
-2026-09-28,UK,weather_yesterday_rain,0.327,51.48,-3.18
-2026-09-28,UK,weather_yesterday_rain,0.394,51.7144,-3.4492
-2026-09-28,UK,weather_yesterday_rain,0.343,51.8514,-4.8806
-2026-09-28,UK,weather_yesterday_rain,0.189,51.6545,-3.0228
-2026-09-28,UK,weather_yesterday_rain,0.193,52.4498,-3.54
-2026-09-28,UK,weather_yesterday_rain,0.394,51.7479,-3.3778
-2026-09-28,UK,weather_yesterday_rain,0.35,51.5924,-3.7802
-2026-09-28,UK,weather_yesterday_rain,0.937,54.1784,-6.3374
-2026-09-28,UK,weather_yesterday_rain,0.913,54.5968,-5.9254
-2026-09-28,UK,weather_yesterday_rain,0.689,54.4471,-6.387
-2026-09-28,UK,weather_yesterday_rain,0.937,54.3667,-6.0167
-2026-09-28,UK,weather_yesterday_rain,0.327,54.9981,-7.3093
-2026-09-28,UK,weather_yesterday_rain,0.819,54.5234,-6.0353
-2026-09-28,UK,weather_yesterday_rain,0.965,54.6608,-5.668
-2026-09-28,UK,weather_yesterday_rain,0.217,51.6214,-3.9436
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,actual_action,Sun Protection (Hats/Shirts),,
-2026-09-28,US,sales_revenue,16952.29,,
-2026-09-28,US,sales_units,403.0,,
-2026-09-28,US,suggested_strategy,Baseline,61.2181,-149.9003
-2026-09-28,US,suggested_strategy,Baseline,64.8378,-147.7164
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),57.0532,-135.3309
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),60.5432,-145.7587
-2026-09-28,US,suggested_strategy,Baseline,61.5809,-149.4415
-2026-09-28,US,suggested_strategy,Baseline,33.5207,-86.8025
-2026-09-28,US,suggested_strategy,Baseline,34.7304,-86.5859
-2026-09-28,US,suggested_strategy,Baseline,30.6944,-88.043
-2026-09-28,US,suggested_strategy,Baseline,34.6993,-86.7483
-2026-09-28,US,suggested_strategy,Baseline,30.523,-87.9033
-2026-09-28,US,suggested_strategy,Baseline,34.7465,-92.2896
-2026-09-28,US,suggested_strategy,Baseline,35.8423,-90.7043
-2026-09-28,US,suggested_strategy,Baseline,36.3728,-94.2088
-2026-09-28,US,suggested_strategy,Baseline,36.0626,-94.1574
-2026-09-28,US,suggested_strategy,Baseline,36.332,-94.1185
-2026-09-28,US,suggested_strategy,Baseline,33.4484,-112.074
-2026-09-28,US,suggested_strategy,Scale Umbrellas,32.2217,-110.9265
-2026-09-28,US,suggested_strategy,Scale Umbrellas,33.5092,-111.899
-2026-09-28,US,suggested_strategy,Scale Umbrellas,33.3528,-111.789
-2026-09-28,US,suggested_strategy,Scale Umbrellas,33.4223,-111.8226
-2026-09-28,US,suggested_strategy,Baseline,34.0522,-118.2437
-2026-09-28,US,suggested_strategy,Baseline,37.7749,-122.4194
-2026-09-28,US,suggested_strategy,Baseline,32.7157,-117.1647
-2026-09-28,US,suggested_strategy,Baseline,37.3394,-121.895
-2026-09-28,US,suggested_strategy,Baseline,37.8044,-122.2708
-2026-09-28,US,suggested_strategy,Baseline,39.7392,-104.9847
-2026-09-28,US,suggested_strategy,Baseline,38.8339,-104.8214
-2026-09-28,US,suggested_strategy,Baseline,39.6133,-105.0166
-2026-09-28,US,suggested_strategy,Baseline,39.7294,-104.8319
-2026-09-28,US,suggested_strategy,Baseline,40.5853,-105.0844
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1176,-73.4079
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.0265,-73.6285
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.0534,-73.5387
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1412,-73.2637
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1468,-73.4948
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.746,-75.5466
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.6595,-75.5636
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),38.7746,-75.1393
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.6837,-75.7497
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.4496,-75.7163
-2026-09-28,US,suggested_strategy,Scale Umbrellas,25.7743,-80.1937
-2026-09-28,US,suggested_strategy,Baseline,28.5383,-81.3792
-2026-09-28,US,suggested_strategy,Baseline,26.1423,-81.796
-2026-09-28,US,suggested_strategy,Baseline,27.9475,-82.4584
-2026-09-28,US,suggested_strategy,Baseline,26.3587,-80.0831
-2026-09-28,US,suggested_strategy,Baseline,33.749,-84.388
-2026-09-28,US,suggested_strategy,Baseline,33.9526,-84.5499
-2026-09-28,US,suggested_strategy,Baseline,32.0835,-81.0998
-2026-09-28,US,suggested_strategy,Baseline,34.0754,-84.2941
-2026-09-28,US,suggested_strategy,Baseline,33.7748,-84.2963
-2026-09-28,US,suggested_strategy,Sun Protection (Hats/Shirts),21.3069,-157.8583
-2026-09-28,US,suggested_strategy,Sun Protection (Hats/Shirts),21.4504,-158.015
-2026-09-28,US,suggested_strategy,Sun Protection (Hats/Shirts),21.3156,-158.0072
-2026-09-28,US,suggested_strategy,Sun Protection (Hats/Shirts),21.4024,-157.7405
-2026-09-28,US,suggested_strategy,Sun Protection (Hats/Shirts),21.3999,-157.7989
-2026-09-28,US,suggested_strategy,Baseline,42.0083,-91.6441
-2026-09-28,US,suggested_strategy,Baseline,41.6611,-91.5302
-2026-09-28,US,suggested_strategy,Baseline,41.6005,-93.6091
-2026-09-28,US,suggested_strategy,Baseline,42.0347,-93.6199
-2026-09-28,US,suggested_strategy,Baseline,41.5772,-93.7113
-2026-09-28,US,suggested_strategy,Baseline,43.6135,-116.2035
-2026-09-28,US,suggested_strategy,Baseline,43.6121,-116.3915
-2026-09-28,US,suggested_strategy,Baseline,43.6954,-116.354
-2026-09-28,US,suggested_strategy,Baseline,43.4918,-116.4201
-2026-09-28,US,suggested_strategy,Baseline,41.85,-87.65
-2026-09-28,US,suggested_strategy,Baseline,41.7859,-88.1473
-2026-09-28,US,suggested_strategy,Baseline,42.0411,-87.6901
-2026-09-28,US,suggested_strategy,Baseline,42.0722,-87.7228
-2026-09-28,US,suggested_strategy,Baseline,41.8089,-88.0112
-2026-09-28,US,suggested_strategy,Baseline,39.7684,-86.158
-2026-09-28,US,suggested_strategy,Baseline,39.9784,-86.118
-2026-09-28,US,suggested_strategy,Baseline,41.1306,-85.1289
-2026-09-28,US,suggested_strategy,Baseline,39.1653,-86.5264
-2026-09-28,US,suggested_strategy,Baseline,40.4259,-86.9081
-2026-09-28,US,suggested_strategy,Baseline,37.6922,-97.3375
-2026-09-28,US,suggested_strategy,Baseline,38.9822,-94.6708
-2026-09-28,US,suggested_strategy,Baseline,38.8814,-94.8191
-2026-09-28,US,suggested_strategy,Baseline,38.9717,-95.2352
-2026-09-28,US,suggested_strategy,Baseline,38.9667,-94.6169
-2026-09-28,US,suggested_strategy,Baseline,38.2542,-85.7594
-2026-09-28,US,suggested_strategy,Baseline,37.9887,-84.4777
-2026-09-28,US,suggested_strategy,Baseline,36.9903,-86.4436
-2026-09-28,US,suggested_strategy,Baseline,37.0834,-88.6
-2026-09-28,US,suggested_strategy,Baseline,36.6084,-83.7166
-2026-09-28,US,suggested_strategy,Baseline,30.4433,-91.1875
-2026-09-28,US,suggested_strategy,Baseline,29.9547,-90.0751
-2026-09-28,US,suggested_strategy,Baseline,30.2241,-92.0198
-2026-09-28,US,suggested_strategy,Baseline,32.5251,-93.7502
-2026-09-28,US,suggested_strategy,Baseline,29.9841,-90.1529
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.5256,-71.0953
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3584,-71.0598
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3751,-71.1056
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.8459,-71.0828
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3876,-71.0995
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.2904,-76.6122
-2026-09-28,US,suggested_strategy,Baseline,38.9807,-77.1003
-2026-09-28,US,suggested_strategy,Baseline,38.9907,-77.0261
-2026-09-28,US,suggested_strategy,Baseline,39.084,-77.1528
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),38.9786,-76.4918
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.6574,-70.2589
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.5781,-70.3217
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.7295,-70.242
-2026-09-28,US,suggested_strategy,Scale Umbrellas,44.7988,-68.7726
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.1531,-70.8001
-2026-09-28,US,suggested_strategy,Baseline,42.2776,-83.7409
-2026-09-28,US,suggested_strategy,Baseline,42.9634,-85.6681
-2026-09-28,US,suggested_strategy,Baseline,42.5836,-83.2455
-2026-09-28,US,suggested_strategy,Baseline,42.3714,-83.4702
-2026-09-28,US,suggested_strategy,Baseline,42.7009,-82.9591
-2026-09-28,US,suggested_strategy,Baseline,44.98,-93.2638
-2026-09-28,US,suggested_strategy,Baseline,44.9444,-93.0933
-2026-09-28,US,suggested_strategy,Scale Umbrellas,45.0105,-93.4555
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),44.9133,-93.5033
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),44.8547,-93.4708
-2026-09-28,US,suggested_strategy,Baseline,38.6517,-90.2053
-2026-09-28,US,suggested_strategy,Baseline,39.0997,-94.5786
-2026-09-28,US,suggested_strategy,Baseline,38.6631,-90.5771
-2026-09-28,US,suggested_strategy,Baseline,38.7839,-90.4812
-2026-09-28,US,suggested_strategy,Baseline,37.2153,-93.2982
-2026-09-28,US,suggested_strategy,Baseline,32.4618,-90.1154
-2026-09-28,US,suggested_strategy,Baseline,30.3674,-89.0928
-2026-09-28,US,suggested_strategy,Baseline,31.3271,-89.2903
-2026-09-28,US,suggested_strategy,Baseline,32.2988,-90.1848
-2026-09-28,US,suggested_strategy,Baseline,34.989,-90.0126
-2026-09-28,US,suggested_strategy,Baseline,45.6797,-111.0386
-2026-09-28,US,suggested_strategy,Baseline,45.7833,-108.5007
-2026-09-28,US,suggested_strategy,Baseline,47.5002,-111.3008
-2026-09-28,US,suggested_strategy,Baseline,46.8721,-113.994
-2026-09-28,US,suggested_strategy,Baseline,48.1958,-114.3129
-2026-09-28,US,suggested_strategy,Baseline,35.2271,-80.8431
-2026-09-28,US,suggested_strategy,Baseline,35.7721,-78.6386
-2026-09-28,US,suggested_strategy,Baseline,35.994,-78.8986
-2026-09-28,US,suggested_strategy,Baseline,34.2356,-77.946
-2026-09-28,US,suggested_strategy,Baseline,35.9132,-79.0558
-2026-09-28,US,suggested_strategy,Scale Umbrellas,46.8772,-96.7898
-2026-09-28,US,suggested_strategy,Scale Umbrellas,46.875,-96.9004
-2026-09-28,US,suggested_strategy,Scale Umbrellas,46.8083,-100.7837
-2026-09-28,US,suggested_strategy,Baseline,46.8792,-102.7896
-2026-09-28,US,suggested_strategy,Scale Umbrellas,47.9253,-97.0328
-2026-09-28,US,suggested_strategy,Baseline,41.2563,-95.9404
-2026-09-28,US,suggested_strategy,Baseline,40.8,-96.667
-2026-09-28,US,suggested_strategy,Baseline,41.345,-96.256
-2026-09-28,US,suggested_strategy,Baseline,41.1367,-95.8908
-2026-09-28,US,suggested_strategy,Baseline,41.1544,-96.0422
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9956,-71.4548
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.7654,-71.4676
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9376,-70.8389
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.077,-70.7577
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9815,-70.9478
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7282,-74.0776
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.744,-74.0324
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7968,-74.4815
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.659,-74.3474
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.3487,-74.659
-2026-09-28,US,suggested_strategy,Scale Umbrellas,35.0845,-106.6511
-2026-09-28,US,suggested_strategy,Scale Umbrellas,35.687,-105.9378
-2026-09-28,US,suggested_strategy,Scale Umbrellas,32.3123,-106.7783
-2026-09-28,US,suggested_strategy,Scale Umbrellas,35.0809,-106.3881
-2026-09-28,US,suggested_strategy,Scale Umbrellas,35.8881,-106.307
-2026-09-28,US,suggested_strategy,Baseline,36.0397,-114.9819
-2026-09-28,US,suggested_strategy,Baseline,36.175,-115.1372
-2026-09-28,US,suggested_strategy,Baseline,39.5296,-119.8138
-2026-09-28,US,suggested_strategy,Baseline,39.1638,-119.7674
-2026-09-28,US,suggested_strategy,Baseline,36.1989,-115.1175
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7143,-74.006
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.6501,-73.9496
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.8499,-73.8664
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.5623,-74.1399
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7721,-73.9301
-2026-09-28,US,suggested_strategy,Baseline,39.1271,-84.5144
-2026-09-28,US,suggested_strategy,Baseline,39.9612,-82.9988
-2026-09-28,US,suggested_strategy,Baseline,39.7589,-84.1916
-2026-09-28,US,suggested_strategy,Baseline,40.0992,-83.1141
-2026-09-28,US,suggested_strategy,Baseline,41.4995,-81.6954
-2026-09-28,US,suggested_strategy,Baseline,35.6528,-97.4781
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),36.154,-95.9928
-2026-09-28,US,suggested_strategy,Baseline,35.4676,-97.5164
-2026-09-28,US,suggested_strategy,Baseline,35.2226,-97.4395
-2026-09-28,US,suggested_strategy,Baseline,36.0526,-95.7908
-2026-09-28,US,suggested_strategy,Baseline,45.5234,-122.6762
-2026-09-28,US,suggested_strategy,Baseline,45.4207,-122.6706
-2026-09-28,US,suggested_strategy,Baseline,45.4871,-122.8037
-2026-09-28,US,suggested_strategy,Baseline,44.0521,-123.0867
-2026-09-28,US,suggested_strategy,Baseline,44.9429,-123.0351
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.9524,-75.1636
-2026-09-28,US,suggested_strategy,Baseline,40.4406,-79.9959
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.0379,-76.3055
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),39.961,-75.608
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.3101,-75.1299
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.824,-71.4128
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7407,-71.3087
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7798,-71.4373
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7001,-71.4162
-2026-09-28,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.6604,-71.4559
-2026-09-28,US,suggested_strategy,Baseline,34.8526,-82.394
-2026-09-28,US,suggested_strategy,Baseline,32.7763,-79.9327
-2026-09-28,US,suggested_strategy,Baseline,32.7941,-79.8626
-2026-09-28,US,suggested_strategy,Baseline,34.0007,-81.0348
-2026-09-28,US,suggested_strategy,Baseline,33.6891,-78.8867
-2026-09-28,US,suggested_strategy,Scale Umbrellas,43.55,-96.7003
-2026-09-28,US,suggested_strategy,Baseline,44.0805,-103.231
-2026-09-28,US,suggested_strategy,Scale Umbrellas,43.3541,-96.892
-2026-09-28,US,suggested_strategy,Scale Umbrellas,44.0061,-97.114
-2026-09-28,US,suggested_strategy,Scale Umbrellas,45.4647,-98.4865
-2026-09-28,US,suggested_strategy,Baseline,36.1659,-86.7844
-2026-09-28,US,suggested_strategy,Baseline,35.9606,-83.9207
-2026-09-28,US,suggested_strategy,Baseline,35.1495,-90.049
-2026-09-28,US,suggested_strategy,Baseline,35.9251,-86.8689
-2026-09-28,US,suggested_strategy,Baseline,35.0456,-85.3097
-2026-09-28,US,suggested_strategy,Baseline,29.7633,-95.3633
-2026-09-28,US,suggested_strategy,Baseline,30.2672,-97.7431
-2026-09-28,US,suggested_strategy,Baseline,32.7831,-96.8067
-2026-09-28,US,suggested_strategy,Baseline,29.4241,-98.4936
-2026-09-28,US,suggested_strategy,Baseline,32.7254,-97.3208
-2026-09-28,US,suggested_strategy,Baseline,40.7608,-111.8911
-2026-09-28,US,suggested_strategy,Baseline,40.5622,-111.9297
-2026-09-28,US,suggested_strategy,Scale Umbrellas,40.6461,-111.498
-2026-09-28,US,suggested_strategy,Baseline,40.5916,-111.8841
-2026-09-28,US,suggested_strategy,Baseline,38.8048,-77.0469
-2026-09-28,US,suggested_strategy,Baseline,38.881,-77.1043
-2026-09-28,US,suggested_strategy,Baseline,36.8529,-75.978
-2026-09-28,US,suggested_strategy,Baseline,37.5538,-77.4603
-2026-09-28,US,suggested_strategy,Baseline,38.8462,-77.3064
-2026-09-28,US,suggested_strategy,Baseline,44.4759,-73.2121
-2026-09-28,US,suggested_strategy,Baseline,44.4906,-73.111
-2026-09-28,US,suggested_strategy,Baseline,44.5939,-72.6165
-2026-09-28,US,suggested_strategy,Baseline,44.467,-73.171
-2026-09-28,US,suggested_strategy,Baseline,44.4653,-72.6846
-2026-09-28,US,suggested_strategy,Baseline,47.6062,-122.3321
-2026-09-28,US,suggested_strategy,Baseline,47.6104,-122.2007
-2026-09-28,US,suggested_strategy,Baseline,45.6387,-122.6615
-2026-09-28,US,suggested_strategy,Baseline,47.2529,-122.4443
-2026-09-28,US,suggested_strategy,Baseline,43.0389,-87.9065
-2026-09-28,US,suggested_strategy,Baseline,43.0731,-89.4012
-2026-09-28,US,suggested_strategy,Baseline,43.0117,-88.2315
-2026-09-28,US,suggested_strategy,Baseline,43.1133,-87.9001
-2026-09-28,US,suggested_strategy,Baseline,44.2619,-88.4154
-2026-09-28,US,suggested_strategy,Baseline,39.6295,-79.9559
-2026-09-28,US,suggested_strategy,Baseline,38.4192,-82.4451
-2026-09-28,US,suggested_strategy,Baseline,38.3498,-81.6326
-2026-09-28,US,suggested_strategy,Baseline,40.064,-80.7209
-2026-09-28,US,suggested_strategy,Baseline,38.4326,-82.0201
-2026-09-28,US,suggested_strategy,Baseline,41.14,-104.8203
-2026-09-28,US,suggested_strategy,Baseline,44.7972,-106.9562
-2026-09-28,US,suggested_strategy,Baseline,41.5875,-109.2029
-2026-09-28,US,suggested_strategy,Baseline,44.5263,-109.0565
-2026-09-28,US,suggested_strategy,Baseline,42.8666,-106.3131
-2026-09-28,US,suggested_strategy,Baseline,38.8951,-77.0364
-2026-09-28,US,suggested_strategy,Baseline,47.6777,-116.7805
-2026-09-28,US,suggested_strategy,Scale Umbrellas,40.3144,-111.9849
-2026-09-28,US,suggested_strategy,Baseline,47.6569,-117.425
-2026-09-28,US,weather_rain,0.0,61.2181,-149.9003
-2026-09-28,US,weather_rain,0.079,64.8378,-147.7164
-2026-09-28,US,weather_rain,0.76,57.0532,-135.3309
-2026-09-28,US,weather_rain,0.0,60.5432,-145.7587
-2026-09-28,US,weather_rain,0.067,61.5809,-149.4415
-2026-09-28,US,weather_rain,0.0,33.5207,-86.8025
-2026-09-28,US,weather_rain,0.0,34.7304,-86.5859
-2026-09-28,US,weather_rain,0.0,30.6944,-88.043
-2026-09-28,US,weather_rain,0.0,34.6993,-86.7483
-2026-09-28,US,weather_rain,0.0,30.523,-87.9033
-2026-09-28,US,weather_rain,0.0,34.7465,-92.2896
-2026-09-28,US,weather_rain,0.0,35.8423,-90.7043
-2026-09-28,US,weather_rain,0.0,36.3728,-94.2088
-2026-09-28,US,weather_rain,0.0,36.0626,-94.1574
-2026-09-28,US,weather_rain,0.0,36.332,-94.1185
-2026-09-28,US,weather_rain,0.028,33.4484,-112.074
-2026-09-28,US,weather_rain,0.331,32.2217,-110.9265
-2026-09-28,US,weather_rain,0.217,33.5092,-111.899
-2026-09-28,US,weather_rain,2.087,33.3528,-111.789
-2026-09-28,US,weather_rain,0.217,33.4223,-111.8226
-2026-09-28,US,weather_rain,0.0,34.0522,-118.2437
-2026-09-28,US,weather_rain,0.0,37.7749,-122.4194
-2026-09-28,US,weather_rain,0.0,32.7157,-117.1647
-2026-09-28,US,weather_rain,0.0,37.3394,-121.895
-2026-09-28,US,weather_rain,0.0,37.8044,-122.2708
-2026-09-28,US,weather_rain,0.028,39.7392,-104.9847
-2026-09-28,US,weather_rain,0.118,38.8339,-104.8214
-2026-09-28,US,weather_rain,0.087,39.6133,-105.0166
-2026-09-28,US,weather_rain,0.047,39.7294,-104.8319
-2026-09-28,US,weather_rain,0.0,40.5853,-105.0844
-2026-09-28,US,weather_rain,0.016,41.1176,-73.4079
-2026-09-28,US,weather_rain,0.016,41.0265,-73.6285
-2026-09-28,US,weather_rain,0.016,41.0534,-73.5387
-2026-09-28,US,weather_rain,0.016,41.1412,-73.2637
-2026-09-28,US,weather_rain,0.031,41.1468,-73.4948
-2026-09-28,US,weather_rain,0.0,39.746,-75.5466
-2026-09-28,US,weather_rain,0.0,39.6595,-75.5636
-2026-09-28,US,weather_rain,0.0,38.7746,-75.1393
-2026-09-28,US,weather_rain,0.0,39.6837,-75.7497
-2026-09-28,US,weather_rain,0.0,39.4496,-75.7163
-2026-09-28,US,weather_rain,0.268,25.7743,-80.1937
-2026-09-28,US,weather_rain,0.0,28.5383,-81.3792
-2026-09-28,US,weather_rain,0.146,26.1423,-81.796
-2026-09-28,US,weather_rain,0.0,27.9475,-82.4584
-2026-09-28,US,weather_rain,0.059,26.3587,-80.0831
-2026-09-28,US,weather_rain,0.0,33.749,-84.388
-2026-09-28,US,weather_rain,0.0,33.9526,-84.5499
-2026-09-28,US,weather_rain,0.0,32.0835,-81.0998
-2026-09-28,US,weather_rain,0.0,34.0754,-84.2941
-2026-09-28,US,weather_rain,0.0,33.7748,-84.2963
-2026-09-28,US,weather_rain,0.008,21.3069,-157.8583
-2026-09-28,US,weather_rain,0.0,21.4504,-158.015
-2026-09-28,US,weather_rain,0.0,21.3156,-158.0072
-2026-09-28,US,weather_rain,0.008,21.4024,-157.7405
-2026-09-28,US,weather_rain,0.008,21.3999,-157.7989
-2026-09-28,US,weather_rain,0.0,42.0083,-91.6441
-2026-09-28,US,weather_rain,0.0,41.6611,-91.5302
-2026-09-28,US,weather_rain,0.0,41.6005,-93.6091
-2026-09-28,US,weather_rain,0.0,42.0347,-93.6199
-2026-09-28,US,weather_rain,0.0,41.5772,-93.7113
-2026-09-28,US,weather_rain,0.0,43.6135,-116.2035
-2026-09-28,US,weather_rain,0.0,43.6121,-116.3915
-2026-09-28,US,weather_rain,0.0,43.6954,-116.354
-2026-09-28,US,weather_rain,0.0,43.4918,-116.4201
-2026-09-28,US,weather_rain,0.0,41.85,-87.65
-2026-09-28,US,weather_rain,0.0,41.7859,-88.1473
-2026-09-28,US,weather_rain,0.0,42.0411,-87.6901
-2026-09-28,US,weather_rain,0.0,42.0722,-87.7228
-2026-09-28,US,weather_rain,0.0,41.8089,-88.0112
-2026-09-28,US,weather_rain,0.0,39.7684,-86.158
-2026-09-28,US,weather_rain,0.0,39.9784,-86.118
-2026-09-28,US,weather_rain,0.0,41.1306,-85.1289
-2026-09-28,US,weather_rain,0.0,39.1653,-86.5264
-2026-09-28,US,weather_rain,0.0,40.4259,-86.9081
-2026-09-28,US,weather_rain,0.0,37.6922,-97.3375
-2026-09-28,US,weather_rain,0.0,38.9822,-94.6708
-2026-09-28,US,weather_rain,0.0,38.8814,-94.8191
-2026-09-28,US,weather_rain,0.0,38.9717,-95.2352
-2026-09-28,US,weather_rain,0.0,38.9667,-94.6169
-2026-09-28,US,weather_rain,0.0,38.2542,-85.7594
-2026-09-28,US,weather_rain,0.0,37.9887,-84.4777
-2026-09-28,US,weather_rain,0.0,36.9903,-86.4436
-2026-09-28,US,weather_rain,0.0,37.0834,-88.6
-2026-09-28,US,weather_rain,0.0,36.6084,-83.7166
-2026-09-28,US,weather_rain,0.0,30.4433,-91.1875
-2026-09-28,US,weather_rain,0.0,29.9547,-90.0751
-2026-09-28,US,weather_rain,0.0,30.2241,-92.0198
-2026-09-28,US,weather_rain,0.0,32.5251,-93.7502
-2026-09-28,US,weather_rain,0.0,29.9841,-90.1529
-2026-09-28,US,weather_rain,0.327,42.5256,-71.0953
-2026-09-28,US,weather_rain,0.283,42.3584,-71.0598
-2026-09-28,US,weather_rain,0.268,42.3751,-71.1056
-2026-09-28,US,weather_rain,0.087,41.8459,-71.0828
-2026-09-28,US,weather_rain,0.244,42.3876,-71.0995
-2026-09-28,US,weather_rain,0.0,39.2904,-76.6122
-2026-09-28,US,weather_rain,0.0,38.9807,-77.1003
-2026-09-28,US,weather_rain,0.0,38.9907,-77.0261
-2026-09-28,US,weather_rain,0.0,39.084,-77.1528
-2026-09-28,US,weather_rain,0.0,38.9786,-76.4918
-2026-09-28,US,weather_rain,0.315,43.6574,-70.2589
-2026-09-28,US,weather_rain,0.74,43.5781,-70.3217
-2026-09-28,US,weather_rain,0.756,43.7295,-70.242
-2026-09-28,US,weather_rain,0.839,44.7988,-68.7726
-2026-09-28,US,weather_rain,0.28,43.1531,-70.8001
-2026-09-28,US,weather_rain,0.0,42.2776,-83.7409
-2026-09-28,US,weather_rain,0.0,42.9634,-85.6681
-2026-09-28,US,weather_rain,0.0,42.5836,-83.2455
-2026-09-28,US,weather_rain,0.0,42.3714,-83.4702
-2026-09-28,US,weather_rain,0.0,42.7009,-82.9591
-2026-09-28,US,weather_rain,0.071,44.98,-93.2638
-2026-09-28,US,weather_rain,0.0,44.9444,-93.0933
-2026-09-28,US,weather_rain,0.343,45.0105,-93.4555
-2026-09-28,US,weather_rain,0.425,44.9133,-93.5033
-2026-09-28,US,weather_rain,0.087,44.8547,-93.4708
-2026-09-28,US,weather_rain,0.0,38.6517,-90.2053
-2026-09-28,US,weather_rain,0.0,39.0997,-94.5786
-2026-09-28,US,weather_rain,0.0,38.6631,-90.5771
-2026-09-28,US,weather_rain,0.0,38.7839,-90.4812
-2026-09-28,US,weather_rain,0.0,37.2153,-93.2982
-2026-09-28,US,weather_rain,0.0,32.4618,-90.1154
-2026-09-28,US,weather_rain,0.0,30.3674,-89.0928
-2026-09-28,US,weather_rain,0.0,31.3271,-89.2903
-2026-09-28,US,weather_rain,0.0,32.2988,-90.1848
-2026-09-28,US,weather_rain,0.0,34.989,-90.0126
-2026-09-28,US,weather_rain,0.0,45.6797,-111.0386
-2026-09-28,US,weather_rain,0.0,45.7833,-108.5007
-2026-09-28,US,weather_rain,0.0,47.5002,-111.3008
-2026-09-28,US,weather_rain,0.0,46.8721,-113.994
-2026-09-28,US,weather_rain,0.0,48.1958,-114.3129
-2026-09-28,US,weather_rain,0.0,35.2271,-80.8431
-2026-09-28,US,weather_rain,0.0,35.7721,-78.6386
-2026-09-28,US,weather_rain,0.0,35.994,-78.8986
-2026-09-28,US,weather_rain,0.0,34.2356,-77.946
-2026-09-28,US,weather_rain,0.0,35.9132,-79.0558
-2026-09-28,US,weather_rain,2.169,46.8772,-96.7898
-2026-09-28,US,weather_rain,1.728,46.875,-96.9004
-2026-09-28,US,weather_rain,0.283,46.8083,-100.7837
-2026-09-28,US,weather_rain,0.055,46.8792,-102.7896
-2026-09-28,US,weather_rain,1.354,47.9253,-97.0328
-2026-09-28,US,weather_rain,0.028,41.2563,-95.9404
-2026-09-28,US,weather_rain,0.0,40.8,-96.667
-2026-09-28,US,weather_rain,0.0,41.345,-96.256
-2026-09-28,US,weather_rain,0.016,41.1367,-95.8908
-2026-09-28,US,weather_rain,0.0,41.1544,-96.0422
-2026-09-28,US,weather_rain,0.579,42.9956,-71.4548
-2026-09-28,US,weather_rain,0.26,42.7654,-71.4676
-2026-09-28,US,weather_rain,0.689,42.9376,-70.8389
-2026-09-28,US,weather_rain,0.567,43.077,-70.7577
-2026-09-28,US,weather_rain,0.457,42.9815,-70.9478
-2026-09-28,US,weather_rain,0.0,40.7282,-74.0776
-2026-09-28,US,weather_rain,0.0,40.744,-74.0324
-2026-09-28,US,weather_rain,0.0,40.7968,-74.4815
-2026-09-28,US,weather_rain,0.0,40.659,-74.3474
-2026-09-28,US,weather_rain,0.0,40.3487,-74.659
-2026-09-28,US,weather_rain,0.516,35.0845,-106.6511
-2026-09-28,US,weather_rain,0.445,35.687,-105.9378
-2026-09-28,US,weather_rain,0.453,32.3123,-106.7783
-2026-09-28,US,weather_rain,0.811,35.0809,-106.3881
-2026-09-28,US,weather_rain,2.98,35.8881,-106.307
-2026-09-28,US,weather_rain,0.028,36.0397,-114.9819
-2026-09-28,US,weather_rain,0.087,36.175,-115.1372
-2026-09-28,US,weather_rain,0.0,39.5296,-119.8138
-2026-09-28,US,weather_rain,0.0,39.1638,-119.7674
-2026-09-28,US,weather_rain,0.169,36.1989,-115.1175
-2026-09-28,US,weather_rain,0.0,40.7143,-74.006
-2026-09-28,US,weather_rain,0.0,40.6501,-73.9496
-2026-09-28,US,weather_rain,0.0,40.8499,-73.8664
-2026-09-28,US,weather_rain,0.0,40.5623,-74.1399
-2026-09-28,US,weather_rain,0.0,40.7721,-73.9301
-2026-09-28,US,weather_rain,0.0,39.1271,-84.5144
-2026-09-28,US,weather_rain,0.0,39.9612,-82.9988
-2026-09-28,US,weather_rain,0.0,39.7589,-84.1916
-2026-09-28,US,weather_rain,0.0,40.0992,-83.1141
-2026-09-28,US,weather_rain,0.0,41.4995,-81.6954
-2026-09-28,US,weather_rain,0.0,35.6528,-97.4781
-2026-09-28,US,weather_rain,0.0,36.154,-95.9928
-2026-09-28,US,weather_rain,0.0,35.4676,-97.5164
-2026-09-28,US,weather_rain,0.0,35.2226,-97.4395
-2026-09-28,US,weather_rain,0.0,36.0526,-95.7908
-2026-09-28,US,weather_rain,0.016,45.5234,-122.6762
-2026-09-28,US,weather_rain,0.0,45.4207,-122.6706
-2026-09-28,US,weather_rain,0.0,45.4871,-122.8037
-2026-09-28,US,weather_rain,0.0,44.0521,-123.0867
-2026-09-28,US,weather_rain,0.0,44.9429,-123.0351
-2026-09-28,US,weather_rain,0.0,39.9524,-75.1636
-2026-09-28,US,weather_rain,0.0,40.4406,-79.9959
-2026-09-28,US,weather_rain,0.0,40.0379,-76.3055
-2026-09-28,US,weather_rain,0.0,39.961,-75.608
-2026-09-28,US,weather_rain,0.0,40.3101,-75.1299
-2026-09-28,US,weather_rain,0.016,41.824,-71.4128
-2026-09-28,US,weather_rain,0.327,41.7407,-71.3087
-2026-09-28,US,weather_rain,0.059,41.7798,-71.4373
-2026-09-28,US,weather_rain,0.157,41.7001,-71.4162
-2026-09-28,US,weather_rain,0.075,41.6604,-71.4559
-2026-09-28,US,weather_rain,0.0,34.8526,-82.394
-2026-09-28,US,weather_rain,0.0,32.7763,-79.9327
-2026-09-28,US,weather_rain,0.0,32.7941,-79.8626
-2026-09-28,US,weather_rain,0.0,34.0007,-81.0348
-2026-09-28,US,weather_rain,0.0,33.6891,-78.8867
-2026-09-28,US,weather_rain,0.299,43.55,-96.7003
-2026-09-28,US,weather_rain,0.0,44.0805,-103.231
-2026-09-28,US,weather_rain,0.469,43.3541,-96.892
-2026-09-28,US,weather_rain,0.252,44.0061,-97.114
-2026-09-28,US,weather_rain,0.268,45.4647,-98.4865
-2026-09-28,US,weather_rain,0.0,36.1659,-86.7844
-2026-09-28,US,weather_rain,0.0,35.9606,-83.9207
-2026-09-28,US,weather_rain,0.0,35.1495,-90.049
-2026-09-28,US,weather_rain,0.0,35.9251,-86.8689
-2026-09-28,US,weather_rain,0.0,35.0456,-85.3097
-2026-09-28,US,weather_rain,0.0,29.7633,-95.3633
-2026-09-28,US,weather_rain,0.0,30.2672,-97.7431
-2026-09-28,US,weather_rain,0.0,32.7831,-96.8067
-2026-09-28,US,weather_rain,0.0,29.4241,-98.4936
-2026-09-28,US,weather_rain,0.0,32.7254,-97.3208
-2026-09-28,US,weather_rain,0.114,40.7608,-111.8911
-2026-09-28,US,weather_rain,0.142,40.5622,-111.9297
-2026-09-28,US,weather_rain,0.299,40.6461,-111.498
-2026-09-28,US,weather_rain,0.087,40.5916,-111.8841
-2026-09-28,US,weather_rain,0.0,38.8048,-77.0469
-2026-09-28,US,weather_rain,0.0,38.881,-77.1043
-2026-09-28,US,weather_rain,0.0,36.8529,-75.978
-2026-09-28,US,weather_rain,0.0,37.5538,-77.4603
-2026-09-28,US,weather_rain,0.0,38.8462,-77.3064
-2026-09-28,US,weather_rain,0.0,44.4759,-73.2121
-2026-09-28,US,weather_rain,0.0,44.4906,-73.111
-2026-09-28,US,weather_rain,0.0,44.5939,-72.6165
-2026-09-28,US,weather_rain,0.0,44.467,-73.171
-2026-09-28,US,weather_rain,0.0,44.4653,-72.6846
-2026-09-28,US,weather_rain,0.0,47.6062,-122.3321
-2026-09-28,US,weather_rain,0.0,47.6104,-122.2007
-2026-09-28,US,weather_rain,0.0,45.6387,-122.6615
-2026-09-28,US,weather_rain,0.016,47.2529,-122.4443
-2026-09-28,US,weather_rain,0.0,43.0389,-87.9065
-2026-09-28,US,weather_rain,0.0,43.0731,-89.4012
-2026-09-28,US,weather_rain,0.0,43.0117,-88.2315
-2026-09-28,US,weather_rain,0.0,43.1133,-87.9001
-2026-09-28,US,weather_rain,0.0,44.2619,-88.4154
-2026-09-28,US,weather_rain,0.0,39.6295,-79.9559
-2026-09-28,US,weather_rain,0.0,38.4192,-82.4451
-2026-09-28,US,weather_rain,0.0,38.3498,-81.6326
-2026-09-28,US,weather_rain,0.0,40.064,-80.7209
-2026-09-28,US,weather_rain,0.0,38.4326,-82.0201
-2026-09-28,US,weather_rain,0.102,41.14,-104.8203
-2026-09-28,US,weather_rain,0.0,44.7972,-106.9562
-2026-09-28,US,weather_rain,0.126,41.5875,-109.2029
-2026-09-28,US,weather_rain,0.087,44.5263,-109.0565
-2026-09-28,US,weather_rain,0.0,42.8666,-106.3131
-2026-09-28,US,weather_rain,0.0,38.8951,-77.0364
-2026-09-28,US,weather_rain,0.0,47.6777,-116.7805
-2026-09-28,US,weather_rain,0.228,40.3144,-111.9849
-2026-09-28,US,weather_rain,0.0,47.6569,-117.425
-2026-09-28,US,weather_uv,2.5,61.2181,-149.9003
-2026-09-28,US,weather_uv,1.55,64.8378,-147.7164
-2026-09-28,US,weather_uv,2.75,57.0532,-135.3309
-2026-09-28,US,weather_uv,2.55,60.5432,-145.7587
-2026-09-28,US,weather_uv,2.4,61.5809,-149.4415
-2026-09-28,US,weather_uv,6.6,33.5207,-86.8025
-2026-09-28,US,weather_uv,6.4,34.7304,-86.5859
-2026-09-28,US,weather_uv,6.95,30.6944,-88.043
-2026-09-28,US,weather_uv,6.3,34.6993,-86.7483
-2026-09-28,US,weather_uv,7.05,30.523,-87.9033
-2026-09-28,US,weather_uv,6.35,34.7465,-92.2896
-2026-09-28,US,weather_uv,6.1,35.8423,-90.7043
-2026-09-28,US,weather_uv,4.2,36.3728,-94.2088
-2026-09-28,US,weather_uv,3.5,36.0626,-94.1574
-2026-09-28,US,weather_uv,4.35,36.332,-94.1185
-2026-09-28,US,weather_uv,3.8,33.4484,-112.074
-2026-09-28,US,weather_uv,7.25,32.2217,-110.9265
-2026-09-28,US,weather_uv,4.2,33.5092,-111.899
-2026-09-28,US,weather_uv,3.45,33.3528,-111.789
-2026-09-28,US,weather_uv,3.5,33.4223,-111.8226
-2026-09-28,US,weather_uv,6.65,34.0522,-118.2437
-2026-09-28,US,weather_uv,6.05,37.7749,-122.4194
-2026-09-28,US,weather_uv,6.9,32.7157,-117.1647
-2026-09-28,US,weather_uv,6.15,37.3394,-121.895
-2026-09-28,US,weather_uv,6.05,37.8044,-122.2708
-2026-09-28,US,weather_uv,4.5,39.7392,-104.9847
-2026-09-28,US,weather_uv,4.0,38.8339,-104.8214
-2026-09-28,US,weather_uv,3.65,39.6133,-105.0166
-2026-09-28,US,weather_uv,4.35,39.7294,-104.8319
-2026-09-28,US,weather_uv,4.25,40.5853,-105.0844
-2026-09-28,US,weather_uv,0.85,41.1176,-73.4079
-2026-09-28,US,weather_uv,0.8,41.0265,-73.6285
-2026-09-28,US,weather_uv,0.8,41.0534,-73.5387
-2026-09-28,US,weather_uv,0.75,41.1412,-73.2637
-2026-09-28,US,weather_uv,0.6,41.1468,-73.4948
-2026-09-28,US,weather_uv,2.7,39.746,-75.5466
-2026-09-28,US,weather_uv,2.3,39.6595,-75.5636
-2026-09-28,US,weather_uv,2.1,38.7746,-75.1393
-2026-09-28,US,weather_uv,2.3,39.6837,-75.7497
-2026-09-28,US,weather_uv,2.2,39.4496,-75.7163
-2026-09-28,US,weather_uv,7.05,25.7743,-80.1937
-2026-09-28,US,weather_uv,7.25,28.5383,-81.3792
-2026-09-28,US,weather_uv,7.3,26.1423,-81.796
-2026-09-28,US,weather_uv,6.85,27.9475,-82.4584
-2026-09-28,US,weather_uv,6.8,26.3587,-80.0831
-2026-09-28,US,weather_uv,6.65,33.749,-84.388
-2026-09-28,US,weather_uv,6.6,33.9526,-84.5499
-2026-09-28,US,weather_uv,6.8,32.0835,-81.0998
-2026-09-28,US,weather_uv,6.6,34.0754,-84.2941
-2026-09-28,US,weather_uv,6.65,33.7748,-84.2963
-2026-09-28,US,weather_uv,8.3,21.3069,-157.8583
-2026-09-28,US,weather_uv,8.35,21.4504,-158.015
-2026-09-28,US,weather_uv,8.3,21.3156,-158.0072
-2026-09-28,US,weather_uv,8.3,21.4024,-157.7405
-2026-09-28,US,weather_uv,8.3,21.3999,-157.7989
-2026-09-28,US,weather_uv,5.3,42.0083,-91.6441
-2026-09-28,US,weather_uv,5.35,41.6611,-91.5302
-2026-09-28,US,weather_uv,5.45,41.6005,-93.6091
-2026-09-28,US,weather_uv,5.4,42.0347,-93.6199
-2026-09-28,US,weather_uv,5.45,41.5772,-93.7113
-2026-09-28,US,weather_uv,5.4,43.6135,-116.2035
-2026-09-28,US,weather_uv,5.35,43.6121,-116.3915
-2026-09-28,US,weather_uv,5.35,43.6954,-116.354
-2026-09-28,US,weather_uv,5.4,43.4918,-116.4201
-2026-09-28,US,weather_uv,5.3,41.85,-87.65
-2026-09-28,US,weather_uv,5.3,41.7859,-88.1473
-2026-09-28,US,weather_uv,5.25,42.0411,-87.6901
-2026-09-28,US,weather_uv,5.25,42.0722,-87.7228
-2026-09-28,US,weather_uv,5.3,41.8089,-88.0112
-2026-09-28,US,weather_uv,5.55,39.7684,-86.158
-2026-09-28,US,weather_uv,5.55,39.9784,-86.118
-2026-09-28,US,weather_uv,5.35,41.1306,-85.1289
-2026-09-28,US,weather_uv,5.6,39.1653,-86.5264
-2026-09-28,US,weather_uv,5.5,40.4259,-86.9081
-2026-09-28,US,weather_uv,4.65,37.6922,-97.3375
-2026-09-28,US,weather_uv,3.9,38.9822,-94.6708
-2026-09-28,US,weather_uv,3.75,38.8814,-94.8191
-2026-09-28,US,weather_uv,2.8,38.9717,-95.2352
-2026-09-28,US,weather_uv,4.45,38.9667,-94.6169
-2026-09-28,US,weather_uv,5.8,38.2542,-85.7594
-2026-09-28,US,weather_uv,5.8,37.9887,-84.4777
-2026-09-28,US,weather_uv,5.95,36.9903,-86.4436
-2026-09-28,US,weather_uv,5.8,37.0834,-88.6
-2026-09-28,US,weather_uv,6.05,36.6084,-83.7166
-2026-09-28,US,weather_uv,7.0,30.4433,-91.1875
-2026-09-28,US,weather_uv,7.15,29.9547,-90.0751
-2026-09-28,US,weather_uv,7.0,30.2241,-92.0198
-2026-09-28,US,weather_uv,6.7,32.5251,-93.7502
-2026-09-28,US,weather_uv,7.15,29.9841,-90.1529
-2026-09-28,US,weather_uv,0.4,42.5256,-71.0953
-2026-09-28,US,weather_uv,0.35,42.3584,-71.0598
-2026-09-28,US,weather_uv,0.4,42.3751,-71.1056
-2026-09-28,US,weather_uv,1.15,41.8459,-71.0828
-2026-09-28,US,weather_uv,0.4,42.3876,-71.0995
-2026-09-28,US,weather_uv,2.3,39.2904,-76.6122
-2026-09-28,US,weather_uv,2.6,38.9807,-77.1003
-2026-09-28,US,weather_uv,2.75,38.9907,-77.0261
-2026-09-28,US,weather_uv,2.65,39.084,-77.1528
-2026-09-28,US,weather_uv,2.6,38.9786,-76.4918
-2026-09-28,US,weather_uv,0.65,43.6574,-70.2589
-2026-09-28,US,weather_uv,0.65,43.5781,-70.3217
-2026-09-28,US,weather_uv,0.55,43.7295,-70.242
-2026-09-28,US,weather_uv,0.65,44.7988,-68.7726
-2026-09-28,US,weather_uv,0.5,43.1531,-70.8001
-2026-09-28,US,weather_uv,5.2,42.2776,-83.7409
-2026-09-28,US,weather_uv,5.1,42.9634,-85.6681
-2026-09-28,US,weather_uv,5.15,42.5836,-83.2455
-2026-09-28,US,weather_uv,5.15,42.3714,-83.4702
-2026-09-28,US,weather_uv,5.1,42.7009,-82.9591
-2026-09-28,US,weather_uv,4.1,44.98,-93.2638
-2026-09-28,US,weather_uv,4.25,44.9444,-93.0933
-2026-09-28,US,weather_uv,3.75,45.0105,-93.4555
-2026-09-28,US,weather_uv,3.3,44.9133,-93.5033
-2026-09-28,US,weather_uv,3.55,44.8547,-93.4708
-2026-09-28,US,weather_uv,5.75,38.6517,-90.2053
-2026-09-28,US,weather_uv,5.05,39.0997,-94.5786
-2026-09-28,US,weather_uv,5.75,38.6631,-90.5771
-2026-09-28,US,weather_uv,5.7,38.7839,-90.4812
-2026-09-28,US,weather_uv,5.3,37.2153,-93.2982
-2026-09-28,US,weather_uv,6.7,32.4618,-90.1154
-2026-09-28,US,weather_uv,6.65,30.3674,-89.0928
-2026-09-28,US,weather_uv,6.9,31.3271,-89.2903
-2026-09-28,US,weather_uv,6.75,32.2988,-90.1848
-2026-09-28,US,weather_uv,6.4,34.989,-90.0126
-2026-09-28,US,weather_uv,5.35,45.6797,-111.0386
-2026-09-28,US,weather_uv,4.95,45.7833,-108.5007
-2026-09-28,US,weather_uv,4.95,47.5002,-111.3008
-2026-09-28,US,weather_uv,5.0,46.8721,-113.994
-2026-09-28,US,weather_uv,4.8,48.1958,-114.3129
-2026-09-28,US,weather_uv,6.2,35.2271,-80.8431
-2026-09-28,US,weather_uv,6.25,35.7721,-78.6386
-2026-09-28,US,weather_uv,6.2,35.994,-78.8986
-2026-09-28,US,weather_uv,6.45,34.2356,-77.946
-2026-09-28,US,weather_uv,6.25,35.9132,-79.0558
-2026-09-28,US,weather_uv,2.3,46.8772,-96.7898
-2026-09-28,US,weather_uv,2.05,46.875,-96.9004
-2026-09-28,US,weather_uv,3.0,46.8083,-100.7837
-2026-09-28,US,weather_uv,4.0,46.8792,-102.7896
-2026-09-28,US,weather_uv,1.4,47.9253,-97.0328
-2026-09-28,US,weather_uv,3.15,41.2563,-95.9404
-2026-09-28,US,weather_uv,4.35,40.8,-96.667
-2026-09-28,US,weather_uv,3.2,41.345,-96.256
-2026-09-28,US,weather_uv,3.3,41.1367,-95.8908
-2026-09-28,US,weather_uv,3.0,41.1544,-96.0422
-2026-09-28,US,weather_uv,0.5,42.9956,-71.4548
-2026-09-28,US,weather_uv,0.4,42.7654,-71.4676
-2026-09-28,US,weather_uv,0.6,42.9376,-70.8389
-2026-09-28,US,weather_uv,0.55,43.077,-70.7577
-2026-09-28,US,weather_uv,0.6,42.9815,-70.9478
-2026-09-28,US,weather_uv,1.35,40.7282,-74.0776
-2026-09-28,US,weather_uv,1.35,40.744,-74.0324
-2026-09-28,US,weather_uv,2.7,40.7968,-74.4815
-2026-09-28,US,weather_uv,1.7,40.659,-74.3474
-2026-09-28,US,weather_uv,1.15,40.3487,-74.659
-2026-09-28,US,weather_uv,6.85,35.0845,-106.6511
-2026-09-28,US,weather_uv,6.75,35.687,-105.9378
-2026-09-28,US,weather_uv,7.0,32.3123,-106.7783
-2026-09-28,US,weather_uv,6.85,35.0809,-106.3881
-2026-09-28,US,weather_uv,6.6,35.8881,-106.307
-2026-09-28,US,weather_uv,5.05,36.0397,-114.9819
-2026-09-28,US,weather_uv,5.4,36.175,-115.1372
-2026-09-28,US,weather_uv,6.15,39.5296,-119.8138
-2026-09-28,US,weather_uv,6.2,39.1638,-119.7674
-2026-09-28,US,weather_uv,5.65,36.1989,-115.1175
-2026-09-28,US,weather_uv,1.35,40.7143,-74.006
-2026-09-28,US,weather_uv,1.25,40.6501,-73.9496
-2026-09-28,US,weather_uv,1.2,40.8499,-73.8664
-2026-09-28,US,weather_uv,1.4,40.5623,-74.1399
-2026-09-28,US,weather_uv,1.3,40.7721,-73.9301
-2026-09-28,US,weather_uv,5.6,39.1271,-84.5144
-2026-09-28,US,weather_uv,5.5,39.9612,-82.9988
-2026-09-28,US,weather_uv,5.55,39.7589,-84.1916
-2026-09-28,US,weather_uv,5.5,40.0992,-83.1141
-2026-09-28,US,weather_uv,5.25,41.4995,-81.6954
-2026-09-28,US,weather_uv,6.3,35.6528,-97.4781
-2026-09-28,US,weather_uv,6.05,36.154,-95.9928
-2026-09-28,US,weather_uv,6.3,35.4676,-97.5164
-2026-09-28,US,weather_uv,6.1,35.2226,-97.4395
-2026-09-28,US,weather_uv,5.95,36.0526,-95.7908
-2026-09-28,US,weather_uv,4.6,45.5234,-122.6762
-2026-09-28,US,weather_uv,4.55,45.4207,-122.6706
-2026-09-28,US,weather_uv,4.6,45.4871,-122.8037
-2026-09-28,US,weather_uv,5.1,44.0521,-123.0867
-2026-09-28,US,weather_uv,4.85,44.9429,-123.0351
-2026-09-28,US,weather_uv,1.75,39.9524,-75.1636
-2026-09-28,US,weather_uv,1.7,40.4406,-79.9959
-2026-09-28,US,weather_uv,1.65,40.0379,-76.3055
-2026-09-28,US,weather_uv,2.35,39.961,-75.608
-2026-09-28,US,weather_uv,1.35,40.3101,-75.1299
-2026-09-28,US,weather_uv,0.8,41.824,-71.4128
-2026-09-28,US,weather_uv,0.9,41.7407,-71.3087
-2026-09-28,US,weather_uv,0.9,41.7798,-71.4373
-2026-09-28,US,weather_uv,0.9,41.7001,-71.4162
-2026-09-28,US,weather_uv,1.0,41.6604,-71.4559
-2026-09-28,US,weather_uv,6.5,34.8526,-82.394
-2026-09-28,US,weather_uv,6.65,32.7763,-79.9327
-2026-09-28,US,weather_uv,6.65,32.7941,-79.8626
-2026-09-28,US,weather_uv,6.5,34.0007,-81.0348
-2026-09-28,US,weather_uv,6.55,33.6891,-78.8867
-2026-09-28,US,weather_uv,5.25,43.55,-96.7003
-2026-09-28,US,weather_uv,3.45,44.0805,-103.231
-2026-09-28,US,weather_uv,5.3,43.3541,-96.892
-2026-09-28,US,weather_uv,4.95,44.0061,-97.114
-2026-09-28,US,weather_uv,3.6,45.4647,-98.4865
-2026-09-28,US,weather_uv,6.05,36.1659,-86.7844
-2026-09-28,US,weather_uv,6.15,35.9606,-83.9207
-2026-09-28,US,weather_uv,6.15,35.1495,-90.049
-2026-09-28,US,weather_uv,6.1,35.9251,-86.8689
-2026-09-28,US,weather_uv,6.1,35.0456,-85.3097
-2026-09-28,US,weather_uv,7.15,29.7633,-95.3633
-2026-09-28,US,weather_uv,6.7,30.2672,-97.7431
-2026-09-28,US,weather_uv,6.6,32.7831,-96.8067
-2026-09-28,US,weather_uv,6.95,29.4241,-98.4936
-2026-09-28,US,weather_uv,6.2,32.7254,-97.3208
-2026-09-28,US,weather_uv,6.05,40.7608,-111.8911
-2026-09-28,US,weather_uv,6.05,40.5622,-111.9297
-2026-09-28,US,weather_uv,5.95,40.6461,-111.498
-2026-09-28,US,weather_uv,6.05,40.5916,-111.8841
-2026-09-28,US,weather_uv,3.15,38.8048,-77.0469
-2026-09-28,US,weather_uv,3.35,38.881,-77.1043
-2026-09-28,US,weather_uv,6.0,36.8529,-75.978
-2026-09-28,US,weather_uv,4.65,37.5538,-77.4603
-2026-09-28,US,weather_uv,3.35,38.8462,-77.3064
-2026-09-28,US,weather_uv,1.6,44.4759,-73.2121
-2026-09-28,US,weather_uv,1.6,44.4906,-73.111
-2026-09-28,US,weather_uv,1.6,44.5939,-72.6165
-2026-09-28,US,weather_uv,1.6,44.467,-73.171
-2026-09-28,US,weather_uv,1.45,44.4653,-72.6846
-2026-09-28,US,weather_uv,4.45,47.6062,-122.3321
-2026-09-28,US,weather_uv,4.45,47.6104,-122.2007
-2026-09-28,US,weather_uv,4.45,45.6387,-122.6615
-2026-09-28,US,weather_uv,4.55,47.2529,-122.4443
-2026-09-28,US,weather_uv,5.1,43.0389,-87.9065
-2026-09-28,US,weather_uv,5.05,43.0731,-89.4012
-2026-09-28,US,weather_uv,5.1,43.0117,-88.2315
-2026-09-28,US,weather_uv,5.1,43.1133,-87.9001
-2026-09-28,US,weather_uv,4.9,44.2619,-88.4154
-2026-09-28,US,weather_uv,1.55,39.6295,-79.9559
-2026-09-28,US,weather_uv,5.7,38.4192,-82.4451
-2026-09-28,US,weather_uv,3.75,38.3498,-81.6326
-2026-09-28,US,weather_uv,1.1,40.064,-80.7209
-2026-09-28,US,weather_uv,4.35,38.4326,-82.0201
-2026-09-28,US,weather_uv,3.25,41.14,-104.8203
-2026-09-28,US,weather_uv,5.15,44.7972,-106.9562
-2026-09-28,US,weather_uv,4.5,41.5875,-109.2029
-2026-09-28,US,weather_uv,5.2,44.5263,-109.0565
-2026-09-28,US,weather_uv,3.05,42.8666,-106.3131
-2026-09-28,US,weather_uv,2.75,38.8951,-77.0364
-2026-09-28,US,weather_uv,4.75,47.6777,-116.7805
-2026-09-28,US,weather_uv,6.15,40.3144,-111.9849
-2026-09-28,US,weather_uv,4.7,47.6569,-117.425
-2026-09-28,US,weather_yesterday_rain,0.157,61.2181,-149.9003
-2026-09-28,US,weather_yesterday_rain,0.0,64.8378,-147.7164
-2026-09-28,US,weather_yesterday_rain,1.5,57.0532,-135.3309
-2026-09-28,US,weather_yesterday_rain,0.768,60.5432,-145.7587
-2026-09-28,US,weather_yesterday_rain,0.063,61.5809,-149.4415
-2026-09-28,US,weather_yesterday_rain,0.0,33.5207,-86.8025
-2026-09-28,US,weather_yesterday_rain,0.0,34.7304,-86.5859
-2026-09-28,US,weather_yesterday_rain,0.0,30.6944,-88.043
-2026-09-28,US,weather_yesterday_rain,0.0,34.6993,-86.7483
-2026-09-28,US,weather_yesterday_rain,0.0,30.523,-87.9033
-2026-09-28,US,weather_yesterday_rain,0.008,34.7465,-92.2896
-2026-09-28,US,weather_yesterday_rain,0.0,35.8423,-90.7043
-2026-09-28,US,weather_yesterday_rain,0.087,36.3728,-94.2088
-2026-09-28,US,weather_yesterday_rain,0.362,36.0626,-94.1574
-2026-09-28,US,weather_yesterday_rain,0.106,36.332,-94.1185
-2026-09-28,US,weather_yesterday_rain,0.071,33.4484,-112.074
-2026-09-28,US,weather_yesterday_rain,0.012,32.2217,-110.9265
-2026-09-28,US,weather_yesterday_rain,0.035,33.5092,-111.899
-2026-09-28,US,weather_yesterday_rain,0.0,33.3528,-111.789
-2026-09-28,US,weather_yesterday_rain,0.051,33.4223,-111.8226
-2026-09-28,US,weather_yesterday_rain,0.0,34.0522,-118.2437
-2026-09-28,US,weather_yesterday_rain,0.0,37.7749,-122.4194
-2026-09-28,US,weather_yesterday_rain,0.0,32.7157,-117.1647
-2026-09-28,US,weather_yesterday_rain,0.0,37.3394,-121.895
-2026-09-28,US,weather_yesterday_rain,0.0,37.8044,-122.2708
-2026-09-28,US,weather_yesterday_rain,0.0,39.7392,-104.9847
-2026-09-28,US,weather_yesterday_rain,0.0,38.8339,-104.8214
-2026-09-28,US,weather_yesterday_rain,0.0,39.6133,-105.0166
-2026-09-28,US,weather_yesterday_rain,0.0,39.7294,-104.8319
-2026-09-28,US,weather_yesterday_rain,0.008,40.5853,-105.0844
-2026-09-28,US,weather_yesterday_rain,1.083,41.1176,-73.4079
-2026-09-28,US,weather_yesterday_rain,1.299,41.0265,-73.6285
-2026-09-28,US,weather_yesterday_rain,1.122,41.0534,-73.5387
-2026-09-28,US,weather_yesterday_rain,1.126,41.1412,-73.2637
-2026-09-28,US,weather_yesterday_rain,1.209,41.1468,-73.4948
-2026-09-28,US,weather_yesterday_rain,1.169,39.746,-75.5466
-2026-09-28,US,weather_yesterday_rain,1.28,39.6595,-75.5636
-2026-09-28,US,weather_yesterday_rain,1.173,38.7746,-75.1393
-2026-09-28,US,weather_yesterday_rain,1.079,39.6837,-75.7497
-2026-09-28,US,weather_yesterday_rain,1.417,39.4496,-75.7163
-2026-09-28,US,weather_yesterday_rain,0.047,25.7743,-80.1937
-2026-09-28,US,weather_yesterday_rain,0.0,28.5383,-81.3792
-2026-09-28,US,weather_yesterday_rain,0.0,26.1423,-81.796
-2026-09-28,US,weather_yesterday_rain,0.0,27.9475,-82.4584
-2026-09-28,US,weather_yesterday_rain,0.0,26.3587,-80.0831
-2026-09-28,US,weather_yesterday_rain,0.0,33.749,-84.388
-2026-09-28,US,weather_yesterday_rain,0.0,33.9526,-84.5499
-2026-09-28,US,weather_yesterday_rain,0.0,32.0835,-81.0998
-2026-09-28,US,weather_yesterday_rain,0.0,34.0754,-84.2941
-2026-09-28,US,weather_yesterday_rain,0.0,33.7748,-84.2963
-2026-09-28,US,weather_yesterday_rain,0.035,21.3069,-157.8583
-2026-09-28,US,weather_yesterday_rain,0.02,21.4504,-158.015
-2026-09-28,US,weather_yesterday_rain,0.008,21.3156,-158.0072
-2026-09-28,US,weather_yesterday_rain,0.063,21.4024,-157.7405
-2026-09-28,US,weather_yesterday_rain,0.063,21.3999,-157.7989
-2026-09-28,US,weather_yesterday_rain,0.157,42.0083,-91.6441
-2026-09-28,US,weather_yesterday_rain,0.031,41.6611,-91.5302
-2026-09-28,US,weather_yesterday_rain,0.165,41.6005,-93.6091
-2026-09-28,US,weather_yesterday_rain,0.0,42.0347,-93.6199
-2026-09-28,US,weather_yesterday_rain,0.126,41.5772,-93.7113
-2026-09-28,US,weather_yesterday_rain,0.0,43.6135,-116.2035
-2026-09-28,US,weather_yesterday_rain,0.0,43.6121,-116.3915
-2026-09-28,US,weather_yesterday_rain,0.0,43.6954,-116.354
-2026-09-28,US,weather_yesterday_rain,0.0,43.4918,-116.4201
-2026-09-28,US,weather_yesterday_rain,0.0,41.85,-87.65
-2026-09-28,US,weather_yesterday_rain,0.0,41.7859,-88.1473
-2026-09-28,US,weather_yesterday_rain,0.0,42.0411,-87.6901
-2026-09-28,US,weather_yesterday_rain,0.0,42.0722,-87.7228
-2026-09-28,US,weather_yesterday_rain,0.0,41.8089,-88.0112
-2026-09-28,US,weather_yesterday_rain,0.0,39.7684,-86.158
-2026-09-28,US,weather_yesterday_rain,0.0,39.9784,-86.118
-2026-09-28,US,weather_yesterday_rain,0.0,41.1306,-85.1289
-2026-09-28,US,weather_yesterday_rain,0.0,39.1653,-86.5264
-2026-09-28,US,weather_yesterday_rain,0.0,40.4259,-86.9081
-2026-09-28,US,weather_yesterday_rain,0.012,37.6922,-97.3375
-2026-09-28,US,weather_yesterday_rain,0.098,38.9822,-94.6708
-2026-09-28,US,weather_yesterday_rain,0.134,38.8814,-94.8191
-2026-09-28,US,weather_yesterday_rain,0.094,38.9717,-95.2352
-2026-09-28,US,weather_yesterday_rain,0.11,38.9667,-94.6169
-2026-09-28,US,weather_yesterday_rain,0.0,38.2542,-85.7594
-2026-09-28,US,weather_yesterday_rain,0.0,37.9887,-84.4777
-2026-09-28,US,weather_yesterday_rain,0.0,36.9903,-86.4436
-2026-09-28,US,weather_yesterday_rain,0.0,37.0834,-88.6
-2026-09-28,US,weather_yesterday_rain,0.0,36.6084,-83.7166
-2026-09-28,US,weather_yesterday_rain,0.0,30.4433,-91.1875
-2026-09-28,US,weather_yesterday_rain,0.0,29.9547,-90.0751
-2026-09-28,US,weather_yesterday_rain,0.0,30.2241,-92.0198
-2026-09-28,US,weather_yesterday_rain,0.0,32.5251,-93.7502
-2026-09-28,US,weather_yesterday_rain,0.0,29.9841,-90.1529
-2026-09-28,US,weather_yesterday_rain,1.657,42.5256,-71.0953
-2026-09-28,US,weather_yesterday_rain,2.209,42.3584,-71.0598
-2026-09-28,US,weather_yesterday_rain,2.209,42.3751,-71.1056
-2026-09-28,US,weather_yesterday_rain,1.921,41.8459,-71.0828
-2026-09-28,US,weather_yesterday_rain,1.984,42.3876,-71.0995
-2026-09-28,US,weather_yesterday_rain,0.598,39.2904,-76.6122
-2026-09-28,US,weather_yesterday_rain,0.402,38.9807,-77.1003
-2026-09-28,US,weather_yesterday_rain,0.402,38.9907,-77.0261
-2026-09-28,US,weather_yesterday_rain,0.35,39.084,-77.1528
-2026-09-28,US,weather_yesterday_rain,0.874,38.9786,-76.4918
-2026-09-28,US,weather_yesterday_rain,1.055,43.6574,-70.2589
-2026-09-28,US,weather_yesterday_rain,1.134,43.5781,-70.3217
-2026-09-28,US,weather_yesterday_rain,0.972,43.7295,-70.242
-2026-09-28,US,weather_yesterday_rain,0.224,44.7988,-68.7726
-2026-09-28,US,weather_yesterday_rain,0.78,43.1531,-70.8001
-2026-09-28,US,weather_yesterday_rain,0.0,42.2776,-83.7409
-2026-09-28,US,weather_yesterday_rain,0.0,42.9634,-85.6681
-2026-09-28,US,weather_yesterday_rain,0.0,42.5836,-83.2455
-2026-09-28,US,weather_yesterday_rain,0.0,42.3714,-83.4702
-2026-09-28,US,weather_yesterday_rain,0.0,42.7009,-82.9591
-2026-09-28,US,weather_yesterday_rain,0.177,44.98,-93.2638
-2026-09-28,US,weather_yesterday_rain,0.102,44.9444,-93.0933
-2026-09-28,US,weather_yesterday_rain,0.091,45.0105,-93.4555
-2026-09-28,US,weather_yesterday_rain,0.516,44.9133,-93.5033
-2026-09-28,US,weather_yesterday_rain,0.516,44.8547,-93.4708
-2026-09-28,US,weather_yesterday_rain,0.071,38.6517,-90.2053
-2026-09-28,US,weather_yesterday_rain,0.173,39.0997,-94.5786
-2026-09-28,US,weather_yesterday_rain,0.205,38.6631,-90.5771
-2026-09-28,US,weather_yesterday_rain,0.102,38.7839,-90.4812
-2026-09-28,US,weather_yesterday_rain,0.094,37.2153,-93.2982
-2026-09-28,US,weather_yesterday_rain,0.0,32.4618,-90.1154
-2026-09-28,US,weather_yesterday_rain,0.0,30.3674,-89.0928
-2026-09-28,US,weather_yesterday_rain,0.0,31.3271,-89.2903
-2026-09-28,US,weather_yesterday_rain,0.0,32.2988,-90.1848
-2026-09-28,US,weather_yesterday_rain,0.0,34.989,-90.0126
-2026-09-28,US,weather_yesterday_rain,0.0,45.6797,-111.0386
-2026-09-28,US,weather_yesterday_rain,0.0,45.7833,-108.5007
-2026-09-28,US,weather_yesterday_rain,0.0,47.5002,-111.3008
-2026-09-28,US,weather_yesterday_rain,0.0,46.8721,-113.994
-2026-09-28,US,weather_yesterday_rain,0.0,48.1958,-114.3129
-2026-09-28,US,weather_yesterday_rain,0.0,35.2271,-80.8431
-2026-09-28,US,weather_yesterday_rain,0.0,35.7721,-78.6386
-2026-09-28,US,weather_yesterday_rain,0.0,35.994,-78.8986
-2026-09-28,US,weather_yesterday_rain,0.0,34.2356,-77.946
-2026-09-28,US,weather_yesterday_rain,0.0,35.9132,-79.0558
-2026-09-28,US,weather_yesterday_rain,0.016,46.8772,-96.7898
-2026-09-28,US,weather_yesterday_rain,0.016,46.875,-96.9004
-2026-09-28,US,weather_yesterday_rain,0.0,46.8083,-100.7837
-2026-09-28,US,weather_yesterday_rain,0.0,46.8792,-102.7896
-2026-09-28,US,weather_yesterday_rain,0.004,47.9253,-97.0328
-2026-09-28,US,weather_yesterday_rain,0.024,41.2563,-95.9404
-2026-09-28,US,weather_yesterday_rain,0.031,40.8,-96.667
-2026-09-28,US,weather_yesterday_rain,0.043,41.345,-96.256
-2026-09-28,US,weather_yesterday_rain,0.024,41.1367,-95.8908
-2026-09-28,US,weather_yesterday_rain,0.024,41.1544,-96.0422
-2026-09-28,US,weather_yesterday_rain,0.559,42.9956,-71.4548
-2026-09-28,US,weather_yesterday_rain,0.547,42.7654,-71.4676
-2026-09-28,US,weather_yesterday_rain,0.882,42.9376,-70.8389
-2026-09-28,US,weather_yesterday_rain,0.78,43.077,-70.7577
-2026-09-28,US,weather_yesterday_rain,0.795,42.9815,-70.9478
-2026-09-28,US,weather_yesterday_rain,2.004,40.7282,-74.0776
-2026-09-28,US,weather_yesterday_rain,2.004,40.744,-74.0324
-2026-09-28,US,weather_yesterday_rain,1.146,40.7968,-74.4815
-2026-09-28,US,weather_yesterday_rain,2.016,40.659,-74.3474
-2026-09-28,US,weather_yesterday_rain,1.898,40.3487,-74.659
-2026-09-28,US,weather_yesterday_rain,0.0,35.0845,-106.6511
-2026-09-28,US,weather_yesterday_rain,0.0,35.687,-105.9378
-2026-09-28,US,weather_yesterday_rain,0.0,32.3123,-106.7783
-2026-09-28,US,weather_yesterday_rain,0.0,35.0809,-106.3881
-2026-09-28,US,weather_yesterday_rain,0.004,35.8881,-106.307
-2026-09-28,US,weather_yesterday_rain,0.0,36.0397,-114.9819
-2026-09-28,US,weather_yesterday_rain,0.0,36.175,-115.1372
-2026-09-28,US,weather_yesterday_rain,0.0,39.5296,-119.8138
-2026-09-28,US,weather_yesterday_rain,0.0,39.1638,-119.7674
-2026-09-28,US,weather_yesterday_rain,0.0,36.1989,-115.1175
-2026-09-28,US,weather_yesterday_rain,2.004,40.7143,-74.006
-2026-09-28,US,weather_yesterday_rain,2.457,40.6501,-73.9496
-2026-09-28,US,weather_yesterday_rain,1.343,40.8499,-73.8664
-2026-09-28,US,weather_yesterday_rain,2.453,40.5623,-74.1399
-2026-09-28,US,weather_yesterday_rain,2.138,40.7721,-73.9301
-2026-09-28,US,weather_yesterday_rain,0.0,39.1271,-84.5144
-2026-09-28,US,weather_yesterday_rain,0.0,39.9612,-82.9988
-2026-09-28,US,weather_yesterday_rain,0.0,39.7589,-84.1916
-2026-09-28,US,weather_yesterday_rain,0.0,40.0992,-83.1141
-2026-09-28,US,weather_yesterday_rain,0.0,41.4995,-81.6954
-2026-09-28,US,weather_yesterday_rain,0.031,35.6528,-97.4781
-2026-09-28,US,weather_yesterday_rain,0.606,36.154,-95.9928
-2026-09-28,US,weather_yesterday_rain,0.035,35.4676,-97.5164
-2026-09-28,US,weather_yesterday_rain,0.039,35.2226,-97.4395
-2026-09-28,US,weather_yesterday_rain,0.417,36.0526,-95.7908
-2026-09-28,US,weather_yesterday_rain,0.0,45.5234,-122.6762
-2026-09-28,US,weather_yesterday_rain,0.0,45.4207,-122.6706
-2026-09-28,US,weather_yesterday_rain,0.0,45.4871,-122.8037
-2026-09-28,US,weather_yesterday_rain,0.0,44.0521,-123.0867
-2026-09-28,US,weather_yesterday_rain,0.0,44.9429,-123.0351
-2026-09-28,US,weather_yesterday_rain,1.469,39.9524,-75.1636
-2026-09-28,US,weather_yesterday_rain,0.0,40.4406,-79.9959
-2026-09-28,US,weather_yesterday_rain,0.854,40.0379,-76.3055
-2026-09-28,US,weather_yesterday_rain,1.366,39.961,-75.608
-2026-09-28,US,weather_yesterday_rain,1.476,40.3101,-75.1299
-2026-09-28,US,weather_yesterday_rain,3.063,41.824,-71.4128
-2026-09-28,US,weather_yesterday_rain,2.85,41.7407,-71.3087
-2026-09-28,US,weather_yesterday_rain,3.24,41.7798,-71.4373
-2026-09-28,US,weather_yesterday_rain,2.461,41.7001,-71.4162
-2026-09-28,US,weather_yesterday_rain,2.13,41.6604,-71.4559
-2026-09-28,US,weather_yesterday_rain,0.0,34.8526,-82.394
-2026-09-28,US,weather_yesterday_rain,0.0,32.7763,-79.9327
-2026-09-28,US,weather_yesterday_rain,0.0,32.7941,-79.8626
-2026-09-28,US,weather_yesterday_rain,0.0,34.0007,-81.0348
-2026-09-28,US,weather_yesterday_rain,0.0,33.6891,-78.8867
-2026-09-28,US,weather_yesterday_rain,0.417,43.55,-96.7003
-2026-09-28,US,weather_yesterday_rain,0.004,44.0805,-103.231
-2026-09-28,US,weather_yesterday_rain,0.394,43.3541,-96.892
-2026-09-28,US,weather_yesterday_rain,0.02,44.0061,-97.114
-2026-09-28,US,weather_yesterday_rain,0.071,45.4647,-98.4865
-2026-09-28,US,weather_yesterday_rain,0.0,36.1659,-86.7844
-2026-09-28,US,weather_yesterday_rain,0.0,35.9606,-83.9207
-2026-09-28,US,weather_yesterday_rain,0.008,35.1495,-90.049
-2026-09-28,US,weather_yesterday_rain,0.0,35.9251,-86.8689
-2026-09-28,US,weather_yesterday_rain,0.0,35.0456,-85.3097
-2026-09-28,US,weather_yesterday_rain,0.0,29.7633,-95.3633
-2026-09-28,US,weather_yesterday_rain,0.071,30.2672,-97.7431
-2026-09-28,US,weather_yesterday_rain,0.047,32.7831,-96.8067
-2026-09-28,US,weather_yesterday_rain,0.0,29.4241,-98.4936
-2026-09-28,US,weather_yesterday_rain,0.157,32.7254,-97.3208
-2026-09-28,US,weather_yesterday_rain,0.0,40.7608,-111.8911
-2026-09-28,US,weather_yesterday_rain,0.0,40.5622,-111.9297
-2026-09-28,US,weather_yesterday_rain,0.0,40.6461,-111.498
-2026-09-28,US,weather_yesterday_rain,0.0,40.5916,-111.8841
-2026-09-28,US,weather_yesterday_rain,0.311,38.8048,-77.0469
-2026-09-28,US,weather_yesterday_rain,0.362,38.881,-77.1043
-2026-09-28,US,weather_yesterday_rain,0.189,36.8529,-75.978
-2026-09-28,US,weather_yesterday_rain,0.154,37.5538,-77.4603
-2026-09-28,US,weather_yesterday_rain,0.252,38.8462,-77.3064
-2026-09-28,US,weather_yesterday_rain,0.283,44.4759,-73.2121
-2026-09-28,US,weather_yesterday_rain,0.22,44.4906,-73.111
-2026-09-28,US,weather_yesterday_rain,0.055,44.5939,-72.6165
-2026-09-28,US,weather_yesterday_rain,0.283,44.467,-73.171
-2026-09-28,US,weather_yesterday_rain,0.268,44.4653,-72.6846
-2026-09-28,US,weather_yesterday_rain,0.0,47.6062,-122.3321
-2026-09-28,US,weather_yesterday_rain,0.0,47.6104,-122.2007
-2026-09-28,US,weather_yesterday_rain,0.0,45.6387,-122.6615
-2026-09-28,US,weather_yesterday_rain,0.0,47.2529,-122.4443
-2026-09-28,US,weather_yesterday_rain,0.0,43.0389,-87.9065
-2026-09-28,US,weather_yesterday_rain,0.0,43.0731,-89.4012
-2026-09-28,US,weather_yesterday_rain,0.0,43.0117,-88.2315
-2026-09-28,US,weather_yesterday_rain,0.0,43.1133,-87.9001
-2026-09-28,US,weather_yesterday_rain,0.0,44.2619,-88.4154
-2026-09-28,US,weather_yesterday_rain,0.0,39.6295,-79.9559
-2026-09-28,US,weather_yesterday_rain,0.0,38.4192,-82.4451
-2026-09-28,US,weather_yesterday_rain,0.0,38.3498,-81.6326
-2026-09-28,US,weather_yesterday_rain,0.0,40.064,-80.7209
-2026-09-28,US,weather_yesterday_rain,0.0,38.4326,-82.0201
-2026-09-28,US,weather_yesterday_rain,0.008,41.14,-104.8203
-2026-09-28,US,weather_yesterday_rain,0.008,44.7972,-106.9562
-2026-09-28,US,weather_yesterday_rain,0.004,41.5875,-109.2029
-2026-09-28,US,weather_yesterday_rain,0.0,44.5263,-109.0565
-2026-09-28,US,weather_yesterday_rain,0.0,42.8666,-106.3131
-2026-09-28,US,weather_yesterday_rain,0.362,38.8951,-77.0364
-2026-09-28,US,weather_yesterday_rain,0.0,47.6777,-116.7805
-2026-09-28,US,weather_yesterday_rain,0.0,40.3144,-111.9849
-2026-09-28,US,weather_yesterday_rain,0.0,47.6569,-117.425
+2026-09-28,US,sales_revenue,35082.05,,
+2026-09-28,US,sales_units,698.0,,
+2026-09-29,CAN,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,CAN,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,CAN,sales_revenue,100.16,,
+2026-09-29,CAN,sales_units,2.0,,
+2026-09-29,CAN,suggested_strategy,Baseline,51.0501,-114.0853
+2026-09-29,CAN,suggested_strategy,Baseline,53.5501,-113.4687
+2026-09-29,CAN,suggested_strategy,Baseline,53.6334,-113.6353
+2026-09-29,CAN,suggested_strategy,Baseline,52.8348,-110.8534
+2026-09-29,CAN,suggested_strategy,Baseline,54.7502,-113.5688
+2026-09-29,CAN,suggested_strategy,Baseline,49.2497,-123.1193
+2026-09-29,CAN,suggested_strategy,Baseline,48.4359,-123.3516
+2026-09-29,CAN,suggested_strategy,Baseline,49.1063,-122.8251
+2026-09-29,CAN,suggested_strategy,Baseline,49.2664,-122.9526
+2026-09-29,CAN,suggested_strategy,Baseline,49.3164,-123.0693
+2026-09-29,CAN,suggested_strategy,Baseline,49.8753,-97.409
+2026-09-29,CAN,suggested_strategy,Baseline,49.8844,-97.147
+2026-09-29,CAN,suggested_strategy,Baseline,49.8469,-99.9531
+2026-09-29,CAN,suggested_strategy,Baseline,49.5258,-96.6845
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas,55.7435,-97.8558
+2026-09-29,CAN,suggested_strategy,Baseline,46.0945,-64.7965
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas (Residual Demand),45.2708,-66.0562
+2026-09-29,CAN,suggested_strategy,Baseline,45.9454,-66.6656
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas,46.0784,-64.6873
+2026-09-29,CAN,suggested_strategy,Baseline,47.029,-65.5019
+2026-09-29,CAN,suggested_strategy,Baseline,47.5649,-52.7093
+2026-09-29,CAN,suggested_strategy,Baseline,47.5166,-52.7814
+2026-09-29,CAN,suggested_strategy,Baseline,48.95,-57.952
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas (Residual Demand),44.6427,-63.5769
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas (Residual Demand),44.6713,-63.5772
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas,46.1351,-60.1831
+2026-09-29,CAN,suggested_strategy,Baseline,45.3668,-63.2654
+2026-09-29,CAN,suggested_strategy,Baseline,45.5834,-62.6486
+2026-09-29,CAN,suggested_strategy,Baseline,62.4541,-114.3725
+2026-09-29,CAN,suggested_strategy,Baseline,60.8156,-115.7999
+2026-09-29,CAN,suggested_strategy,Baseline,68.3617,-133.7282
+2026-09-29,CAN,suggested_strategy,Baseline,60.0044,-111.8887
+2026-09-29,CAN,suggested_strategy,Baseline,62.8025,-116.0464
+2026-09-29,CAN,suggested_strategy,Baseline,63.747,-68.5173
+2026-09-29,CAN,suggested_strategy,Baseline,62.8091,-92.0853
+2026-09-29,CAN,suggested_strategy,Baseline,61.1088,-94.0585
+2026-09-29,CAN,suggested_strategy,Baseline,64.3201,-96.0212
+2026-09-29,CAN,suggested_strategy,Baseline,69.1149,-105.0548
+2026-09-29,CAN,suggested_strategy,Baseline,43.7064,-79.3986
+2026-09-29,CAN,suggested_strategy,Baseline,45.4112,-75.6981
+2026-09-29,CAN,suggested_strategy,Baseline,44.2298,-76.481
+2026-09-29,CAN,suggested_strategy,Baseline,43.5459,-80.256
+2026-09-29,CAN,suggested_strategy,Baseline,43.8668,-79.2663
+2026-09-29,CAN,suggested_strategy,Baseline,46.2346,-63.1256
+2026-09-29,CAN,suggested_strategy,Baseline,46.3912,-63.7887
+2026-09-29,CAN,suggested_strategy,Baseline,46.2265,-63.2181
+2026-09-29,CAN,suggested_strategy,Baseline,46.1668,-62.6487
+2026-09-29,CAN,suggested_strategy,Baseline,45.5088,-73.5878
+2026-09-29,CAN,suggested_strategy,Baseline,45.4473,-73.7533
+2026-09-29,CAN,suggested_strategy,Baseline,45.6668,-73.8825
+2026-09-29,CAN,suggested_strategy,Baseline,45.4501,-73.4658
+2026-09-29,CAN,suggested_strategy,Baseline,45.4654,-73.6659
+2026-09-29,CAN,suggested_strategy,Baseline,52.1324,-106.6689
+2026-09-29,CAN,suggested_strategy,Baseline,49.8001,-104.1678
+2026-09-29,CAN,suggested_strategy,Baseline,50.4501,-104.6178
+2026-09-29,CAN,suggested_strategy,Baseline,53.2001,-105.7677
+2026-09-29,CAN,suggested_strategy,Baseline,50.4001,-105.5345
+2026-09-29,CAN,suggested_strategy,Baseline,60.7161,-135.0538
+2026-09-29,CAN,suggested_strategy,Baseline,64.0601,-139.4333
+2026-09-29,CAN,suggested_strategy,Baseline,60.0635,-128.7089
+2026-09-29,CAN,suggested_strategy,Baseline,60.7522,-137.5108
+2026-09-29,CAN,suggested_strategy,Baseline,63.5927,-135.8998
+2026-09-29,CAN,suggested_strategy,Baseline,48.9332,-55.6649
+2026-09-29,CAN,suggested_strategy,Baseline,47.5333,-52.9667
+2026-09-29,CAN,suggested_strategy,Scale Umbrellas,46.2153,-63.0866
+2026-09-29,CAN,weather_rain,0.118,51.0501,-114.0853
+2026-09-29,CAN,weather_rain,0.0,53.5501,-113.4687
+2026-09-29,CAN,weather_rain,0.0,53.6334,-113.6353
+2026-09-29,CAN,weather_rain,0.0,52.8348,-110.8534
+2026-09-29,CAN,weather_rain,0.024,54.7502,-113.5688
+2026-09-29,CAN,weather_rain,0.028,49.2497,-123.1193
+2026-09-29,CAN,weather_rain,0.0,48.4359,-123.3516
+2026-09-29,CAN,weather_rain,0.0,49.1063,-122.8251
+2026-09-29,CAN,weather_rain,0.028,49.2664,-122.9526
+2026-09-29,CAN,weather_rain,0.043,49.3164,-123.0693
+2026-09-29,CAN,weather_rain,0.0,49.8753,-97.409
+2026-09-29,CAN,weather_rain,0.0,49.8844,-97.147
+2026-09-29,CAN,weather_rain,0.0,49.8469,-99.9531
+2026-09-29,CAN,weather_rain,0.0,49.5258,-96.6845
+2026-09-29,CAN,weather_rain,0.272,55.7435,-97.8558
+2026-09-29,CAN,weather_rain,0.043,46.0945,-64.7965
+2026-09-29,CAN,weather_rain,0.295,45.2708,-66.0562
+2026-09-29,CAN,weather_rain,0.016,45.9454,-66.6656
+2026-09-29,CAN,weather_rain,0.228,46.0784,-64.6873
+2026-09-29,CAN,weather_rain,0.0,47.029,-65.5019
+2026-09-29,CAN,weather_rain,0.075,47.5649,-52.7093
+2026-09-29,CAN,weather_rain,0.091,47.5166,-52.7814
+2026-09-29,CAN,weather_rain,0.094,48.95,-57.952
+2026-09-29,CAN,weather_rain,0.299,44.6427,-63.5769
+2026-09-29,CAN,weather_rain,0.217,44.6713,-63.5772
+2026-09-29,CAN,weather_rain,0.299,46.1351,-60.1831
+2026-09-29,CAN,weather_rain,0.016,45.3668,-63.2654
+2026-09-29,CAN,weather_rain,0.016,45.5834,-62.6486
+2026-09-29,CAN,weather_rain,0.0,62.4541,-114.3725
+2026-09-29,CAN,weather_rain,0.0,60.8156,-115.7999
+2026-09-29,CAN,weather_rain,0.0,68.3617,-133.7282
+2026-09-29,CAN,weather_rain,0.0,60.0044,-111.8887
+2026-09-29,CAN,weather_rain,0.0,62.8025,-116.0464
+2026-09-29,CAN,weather_rain,0.0,63.747,-68.5173
+2026-09-29,CAN,weather_rain,0.0,62.8091,-92.0853
+2026-09-29,CAN,weather_rain,0.0,61.1088,-94.0585
+2026-09-29,CAN,weather_rain,0.0,64.3201,-96.0212
+2026-09-29,CAN,weather_rain,0.0,69.1149,-105.0548
+2026-09-29,CAN,weather_rain,0.0,43.7064,-79.3986
+2026-09-29,CAN,weather_rain,0.0,45.4112,-75.6981
+2026-09-29,CAN,weather_rain,0.0,44.2298,-76.481
+2026-09-29,CAN,weather_rain,0.0,43.5459,-80.256
+2026-09-29,CAN,weather_rain,0.0,43.8668,-79.2663
+2026-09-29,CAN,weather_rain,0.0,46.2346,-63.1256
+2026-09-29,CAN,weather_rain,0.0,46.3912,-63.7887
+2026-09-29,CAN,weather_rain,0.0,46.2265,-63.2181
+2026-09-29,CAN,weather_rain,0.0,46.1668,-62.6487
+2026-09-29,CAN,weather_rain,0.0,45.5088,-73.5878
+2026-09-29,CAN,weather_rain,0.0,45.4473,-73.7533
+2026-09-29,CAN,weather_rain,0.0,45.6668,-73.8825
+2026-09-29,CAN,weather_rain,0.0,45.4501,-73.4658
+2026-09-29,CAN,weather_rain,0.0,45.4654,-73.6659
+2026-09-29,CAN,weather_rain,0.0,52.1324,-106.6689
+2026-09-29,CAN,weather_rain,0.0,49.8001,-104.1678
+2026-09-29,CAN,weather_rain,0.0,50.4501,-104.6178
+2026-09-29,CAN,weather_rain,0.0,53.2001,-105.7677
+2026-09-29,CAN,weather_rain,0.0,50.4001,-105.5345
+2026-09-29,CAN,weather_rain,0.0,60.7161,-135.0538
+2026-09-29,CAN,weather_rain,0.0,64.0601,-139.4333
+2026-09-29,CAN,weather_rain,0.0,60.0635,-128.7089
+2026-09-29,CAN,weather_rain,0.0,60.7522,-137.5108
+2026-09-29,CAN,weather_rain,0.0,63.5927,-135.8998
+2026-09-29,CAN,weather_rain,0.197,48.9332,-55.6649
+2026-09-29,CAN,weather_rain,0.043,47.5333,-52.9667
+2026-09-29,CAN,weather_rain,1.142,46.2153,-63.0866
+2026-09-29,CAN,weather_uv,3.95,51.0501,-114.0853
+2026-09-29,CAN,weather_uv,3.8,53.5501,-113.4687
+2026-09-29,CAN,weather_uv,3.8,53.6334,-113.6353
+2026-09-29,CAN,weather_uv,3.9,52.8348,-110.8534
+2026-09-29,CAN,weather_uv,3.5,54.7502,-113.5688
+2026-09-29,CAN,weather_uv,0.95,49.2497,-123.1193
+2026-09-29,CAN,weather_uv,1.45,48.4359,-123.3516
+2026-09-29,CAN,weather_uv,2.6,49.1063,-122.8251
+2026-09-29,CAN,weather_uv,0.85,49.2664,-122.9526
+2026-09-29,CAN,weather_uv,0.85,49.3164,-123.0693
+2026-09-29,CAN,weather_uv,4.05,49.8753,-97.409
+2026-09-29,CAN,weather_uv,3.4,49.8844,-97.147
+2026-09-29,CAN,weather_uv,3.7,49.8469,-99.9531
+2026-09-29,CAN,weather_uv,2.3,49.5258,-96.6845
+2026-09-29,CAN,weather_uv,2.75,55.7435,-97.8558
+2026-09-29,CAN,weather_uv,0.6,46.0945,-64.7965
+2026-09-29,CAN,weather_uv,0.0,45.2708,-66.0562
+2026-09-29,CAN,weather_uv,0.0,45.9454,-66.6656
+2026-09-29,CAN,weather_uv,0.0,46.0784,-64.6873
+2026-09-29,CAN,weather_uv,0.0,47.029,-65.5019
+2026-09-29,CAN,weather_uv,0.0,47.5649,-52.7093
+2026-09-29,CAN,weather_uv,0.0,47.5166,-52.7814
+2026-09-29,CAN,weather_uv,0.0,48.95,-57.952
+2026-09-29,CAN,weather_uv,0.0,44.6427,-63.5769
+2026-09-29,CAN,weather_uv,0.0,44.6713,-63.5772
+2026-09-29,CAN,weather_uv,0.0,46.1351,-60.1831
+2026-09-29,CAN,weather_uv,0.0,45.3668,-63.2654
+2026-09-29,CAN,weather_uv,0.0,45.5834,-62.6486
+2026-09-29,CAN,weather_uv,0.0,62.4541,-114.3725
+2026-09-29,CAN,weather_uv,0.0,60.8156,-115.7999
+2026-09-29,CAN,weather_uv,0.0,68.3617,-133.7282
+2026-09-29,CAN,weather_uv,0.0,60.0044,-111.8887
+2026-09-29,CAN,weather_uv,0.0,62.8025,-116.0464
+2026-09-29,CAN,weather_uv,0.0,63.747,-68.5173
+2026-09-29,CAN,weather_uv,0.0,62.8091,-92.0853
+2026-09-29,CAN,weather_uv,0.0,61.1088,-94.0585
+2026-09-29,CAN,weather_uv,0.0,64.3201,-96.0212
+2026-09-29,CAN,weather_uv,0.0,69.1149,-105.0548
+2026-09-29,CAN,weather_uv,0.0,43.7064,-79.3986
+2026-09-29,CAN,weather_uv,0.0,45.4112,-75.6981
+2026-09-29,CAN,weather_uv,0.0,44.2298,-76.481
+2026-09-29,CAN,weather_uv,0.0,43.5459,-80.256
+2026-09-29,CAN,weather_uv,0.0,43.8668,-79.2663
+2026-09-29,CAN,weather_uv,0.0,46.2346,-63.1256
+2026-09-29,CAN,weather_uv,0.0,46.3912,-63.7887
+2026-09-29,CAN,weather_uv,0.0,46.2265,-63.2181
+2026-09-29,CAN,weather_uv,0.0,46.1668,-62.6487
+2026-09-29,CAN,weather_uv,0.0,45.5088,-73.5878
+2026-09-29,CAN,weather_uv,0.0,45.4473,-73.7533
+2026-09-29,CAN,weather_uv,0.0,45.6668,-73.8825
+2026-09-29,CAN,weather_uv,0.0,45.4501,-73.4658
+2026-09-29,CAN,weather_uv,0.0,45.4654,-73.6659
+2026-09-29,CAN,weather_uv,0.0,52.1324,-106.6689
+2026-09-29,CAN,weather_uv,4.0,49.8001,-104.1678
+2026-09-29,CAN,weather_uv,4.0,50.4501,-104.6178
+2026-09-29,CAN,weather_uv,3.3,53.2001,-105.7677
+2026-09-29,CAN,weather_uv,4.05,50.4001,-105.5345
+2026-09-29,CAN,weather_uv,1.9,60.7161,-135.0538
+2026-09-29,CAN,weather_uv,1.35,64.0601,-139.4333
+2026-09-29,CAN,weather_uv,2.25,60.0635,-128.7089
+2026-09-29,CAN,weather_uv,2.55,60.7522,-137.5108
+2026-09-29,CAN,weather_uv,1.0,63.5927,-135.8998
+2026-09-29,CAN,weather_uv,1.0,48.9332,-55.6649
+2026-09-29,CAN,weather_uv,4.4,47.5333,-52.9667
+2026-09-29,CAN,weather_uv,1.05,46.2153,-63.0866
+2026-09-29,CAN,weather_yesterday_rain,0.0,51.0501,-114.0853
+2026-09-29,CAN,weather_yesterday_rain,0.0,53.5501,-113.4687
+2026-09-29,CAN,weather_yesterday_rain,0.0,53.6334,-113.6353
+2026-09-29,CAN,weather_yesterday_rain,0.0,52.8348,-110.8534
+2026-09-29,CAN,weather_yesterday_rain,0.0,54.7502,-113.5688
+2026-09-29,CAN,weather_yesterday_rain,0.02,49.2497,-123.1193
+2026-09-29,CAN,weather_yesterday_rain,0.0,48.4359,-123.3516
+2026-09-29,CAN,weather_yesterday_rain,0.004,49.1063,-122.8251
+2026-09-29,CAN,weather_yesterday_rain,0.016,49.2664,-122.9526
+2026-09-29,CAN,weather_yesterday_rain,0.02,49.3164,-123.0693
+2026-09-29,CAN,weather_yesterday_rain,0.142,49.8753,-97.409
+2026-09-29,CAN,weather_yesterday_rain,0.098,49.8844,-97.147
+2026-09-29,CAN,weather_yesterday_rain,0.004,49.8469,-99.9531
+2026-09-29,CAN,weather_yesterday_rain,0.307,49.5258,-96.6845
+2026-09-29,CAN,weather_yesterday_rain,0.0,55.7435,-97.8558
+2026-09-29,CAN,weather_yesterday_rain,0.272,46.0945,-64.7965
+2026-09-29,CAN,weather_yesterday_rain,0.606,45.2708,-66.0562
+2026-09-29,CAN,weather_yesterday_rain,0.264,45.9454,-66.6656
+2026-09-29,CAN,weather_yesterday_rain,0.283,46.0784,-64.6873
+2026-09-29,CAN,weather_yesterday_rain,0.047,47.029,-65.5019
+2026-09-29,CAN,weather_yesterday_rain,0.0,47.5649,-52.7093
+2026-09-29,CAN,weather_yesterday_rain,0.0,47.5166,-52.7814
+2026-09-29,CAN,weather_yesterday_rain,0.0,48.95,-57.952
+2026-09-29,CAN,weather_yesterday_rain,0.701,44.6427,-63.5769
+2026-09-29,CAN,weather_yesterday_rain,0.65,44.6713,-63.5772
+2026-09-29,CAN,weather_yesterday_rain,0.0,46.1351,-60.1831
+2026-09-29,CAN,weather_yesterday_rain,0.394,45.3668,-63.2654
+2026-09-29,CAN,weather_yesterday_rain,0.264,45.5834,-62.6486
+2026-09-29,CAN,weather_yesterday_rain,0.0,62.4541,-114.3725
+2026-09-29,CAN,weather_yesterday_rain,0.0,60.8156,-115.7999
+2026-09-29,CAN,weather_yesterday_rain,0.012,68.3617,-133.7282
+2026-09-29,CAN,weather_yesterday_rain,0.0,60.0044,-111.8887
+2026-09-29,CAN,weather_yesterday_rain,0.0,62.8025,-116.0464
+2026-09-29,CAN,weather_yesterday_rain,0.5,63.747,-68.5173
+2026-09-29,CAN,weather_yesterday_rain,0.087,62.8091,-92.0853
+2026-09-29,CAN,weather_yesterday_rain,0.043,61.1088,-94.0585
+2026-09-29,CAN,weather_yesterday_rain,0.094,64.3201,-96.0212
+2026-09-29,CAN,weather_yesterday_rain,0.039,69.1149,-105.0548
+2026-09-29,CAN,weather_yesterday_rain,0.004,43.7064,-79.3986
+2026-09-29,CAN,weather_yesterday_rain,0.047,45.4112,-75.6981
+2026-09-29,CAN,weather_yesterday_rain,0.047,44.2298,-76.481
+2026-09-29,CAN,weather_yesterday_rain,0.012,43.5459,-80.256
+2026-09-29,CAN,weather_yesterday_rain,0.098,43.8668,-79.2663
+2026-09-29,CAN,weather_yesterday_rain,0.228,46.2346,-63.1256
+2026-09-29,CAN,weather_yesterday_rain,0.228,46.3912,-63.7887
+2026-09-29,CAN,weather_yesterday_rain,0.228,46.2265,-63.2181
+2026-09-29,CAN,weather_yesterday_rain,0.26,46.1668,-62.6487
+2026-09-29,CAN,weather_yesterday_rain,0.24,45.5088,-73.5878
+2026-09-29,CAN,weather_yesterday_rain,0.047,45.4473,-73.7533
+2026-09-29,CAN,weather_yesterday_rain,0.201,45.6668,-73.8825
+2026-09-29,CAN,weather_yesterday_rain,0.043,45.4501,-73.4658
+2026-09-29,CAN,weather_yesterday_rain,0.047,45.4654,-73.6659
+2026-09-29,CAN,weather_yesterday_rain,0.0,52.1324,-106.6689
+2026-09-29,CAN,weather_yesterday_rain,0.0,49.8001,-104.1678
+2026-09-29,CAN,weather_yesterday_rain,0.0,50.4501,-104.6178
+2026-09-29,CAN,weather_yesterday_rain,0.0,53.2001,-105.7677
+2026-09-29,CAN,weather_yesterday_rain,0.0,50.4001,-105.5345
+2026-09-29,CAN,weather_yesterday_rain,0.004,60.7161,-135.0538
+2026-09-29,CAN,weather_yesterday_rain,0.012,64.0601,-139.4333
+2026-09-29,CAN,weather_yesterday_rain,0.031,60.0635,-128.7089
+2026-09-29,CAN,weather_yesterday_rain,0.028,60.7522,-137.5108
+2026-09-29,CAN,weather_yesterday_rain,0.051,63.5927,-135.8998
+2026-09-29,CAN,weather_yesterday_rain,0.0,48.9332,-55.6649
+2026-09-29,CAN,weather_yesterday_rain,0.008,47.5333,-52.9667
+2026-09-29,CAN,weather_yesterday_rain,0.228,46.2153,-63.0866
+2026-09-29,UK,suggested_strategy,Baseline,51.5085,-0.1257
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.4552,-2.5966
+2026-09-29,UK,suggested_strategy,Baseline,53.383,-1.4659
+2026-09-29,UK,suggested_strategy,Baseline,51.558,-1.7812
+2026-09-29,UK,suggested_strategy,Baseline,52.4814,-1.8998
+2026-09-29,UK,suggested_strategy,Baseline,50.8284,-0.1395
+2026-09-29,UK,suggested_strategy,Baseline,50.8309,-0.1672
+2026-09-29,UK,suggested_strategy,Baseline,53.4809,-2.2374
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,55.8651,-4.2576
+2026-09-29,UK,suggested_strategy,Baseline,55.9521,-3.1965
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,57.1437,-2.0981
+2026-09-29,UK,suggested_strategy,Baseline,56.0716,-3.4589
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,57.0755,-2.7802
+2026-09-29,UK,suggested_strategy,Baseline,55.8844,-3.3397
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,57.0517,-2.4882
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,55.7992,-4.3929
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.48,-3.18
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.7144,-3.4492
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.8514,-4.8806
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.6545,-3.0228
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,52.4498,-3.54
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.7479,-3.3778
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,51.5924,-3.7802
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.1784,-6.3374
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.5968,-5.9254
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.4471,-6.387
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.3667,-6.0167
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.9981,-7.3093
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.5234,-6.0353
+2026-09-29,UK,suggested_strategy,Scale Umbrellas,54.6608,-5.668
+2026-09-29,UK,suggested_strategy,Baseline,51.6214,-3.9436
+2026-09-29,UK,weather_rain,0.02,51.5085,-0.1257
+2026-09-29,UK,weather_rain,0.283,51.4552,-2.5966
+2026-09-29,UK,weather_rain,0.075,53.383,-1.4659
+2026-09-29,UK,weather_rain,0.079,51.558,-1.7812
+2026-09-29,UK,weather_rain,0.122,52.4814,-1.8998
+2026-09-29,UK,weather_rain,0.012,50.8284,-0.1395
+2026-09-29,UK,weather_rain,0.008,50.8309,-0.1672
+2026-09-29,UK,weather_rain,0.126,53.4809,-2.2374
+2026-09-29,UK,weather_rain,0.291,55.8651,-4.2576
+2026-09-29,UK,weather_rain,0.075,55.9521,-3.1965
+2026-09-29,UK,weather_rain,0.232,57.1437,-2.0981
+2026-09-29,UK,weather_rain,0.197,56.0716,-3.4589
+2026-09-29,UK,weather_rain,0.472,57.0755,-2.7802
+2026-09-29,UK,weather_rain,0.197,55.8844,-3.3397
+2026-09-29,UK,weather_rain,0.382,57.0517,-2.4882
+2026-09-29,UK,weather_rain,0.358,55.7992,-4.3929
+2026-09-29,UK,weather_rain,0.622,51.48,-3.18
+2026-09-29,UK,weather_rain,1.63,51.7144,-3.4492
+2026-09-29,UK,weather_rain,1.236,51.8514,-4.8806
+2026-09-29,UK,weather_rain,0.606,51.6545,-3.0228
+2026-09-29,UK,weather_rain,0.606,52.4498,-3.54
+2026-09-29,UK,weather_rain,1.5,51.7479,-3.3778
+2026-09-29,UK,weather_rain,0.839,51.5924,-3.7802
+2026-09-29,UK,weather_rain,0.969,54.1784,-6.3374
+2026-09-29,UK,weather_rain,0.945,54.5968,-5.9254
+2026-09-29,UK,weather_rain,0.555,54.4471,-6.387
+2026-09-29,UK,weather_rain,1.114,54.3667,-6.0167
+2026-09-29,UK,weather_rain,0.307,54.9981,-7.3093
+2026-09-29,UK,weather_rain,0.72,54.5234,-6.0353
+2026-09-29,UK,weather_rain,0.882,54.6608,-5.668
+2026-09-29,UK,weather_rain,0.0,51.6214,-3.9436
+2026-09-29,UK,weather_uv,2.75,51.5085,-0.1257
+2026-09-29,UK,weather_uv,2.4,51.4552,-2.5966
+2026-09-29,UK,weather_uv,1.15,53.383,-1.4659
+2026-09-29,UK,weather_uv,2.5,51.558,-1.7812
+2026-09-29,UK,weather_uv,1.9,52.4814,-1.8998
+2026-09-29,UK,weather_uv,2.75,50.8284,-0.1395
+2026-09-29,UK,weather_uv,2.75,50.8309,-0.1672
+2026-09-29,UK,weather_uv,2.15,53.4809,-2.2374
+2026-09-29,UK,weather_uv,1.65,55.8651,-4.2576
+2026-09-29,UK,weather_uv,1.65,55.9521,-3.1965
+2026-09-29,UK,weather_uv,1.4,57.1437,-2.0981
+2026-09-29,UK,weather_uv,1.7,56.0716,-3.4589
+2026-09-29,UK,weather_uv,1.6,57.0755,-2.7802
+2026-09-29,UK,weather_uv,1.65,55.8844,-3.3397
+2026-09-29,UK,weather_uv,1.4,57.0517,-2.4882
+2026-09-29,UK,weather_uv,1.3,55.7992,-4.3929
+2026-09-29,UK,weather_uv,2.2,51.48,-3.18
+2026-09-29,UK,weather_uv,2.05,51.7144,-3.4492
+2026-09-29,UK,weather_uv,1.95,51.8514,-4.8806
+2026-09-29,UK,weather_uv,2.15,51.6545,-3.0228
+2026-09-29,UK,weather_uv,1.4,52.4498,-3.54
+2026-09-29,UK,weather_uv,2.0,51.7479,-3.3778
+2026-09-29,UK,weather_uv,2.75,51.5924,-3.7802
+2026-09-29,UK,weather_uv,1.5,54.1784,-6.3374
+2026-09-29,UK,weather_uv,1.4,54.5968,-5.9254
+2026-09-29,UK,weather_uv,1.75,54.4471,-6.387
+2026-09-29,UK,weather_uv,1.7,54.3667,-6.0167
+2026-09-29,UK,weather_uv,1.15,54.9981,-7.3093
+2026-09-29,UK,weather_uv,1.8,54.5234,-6.0353
+2026-09-29,UK,weather_uv,1.4,54.6608,-5.668
+2026-09-29,UK,weather_uv,2.7,51.6214,-3.9436
+2026-09-29,UK,weather_yesterday_rain,0.0,51.5085,-0.1257
+2026-09-29,UK,weather_yesterday_rain,0.0,51.4552,-2.5966
+2026-09-29,UK,weather_yesterday_rain,0.0,53.383,-1.4659
+2026-09-29,UK,weather_yesterday_rain,0.0,51.558,-1.7812
+2026-09-29,UK,weather_yesterday_rain,0.0,52.4814,-1.8998
+2026-09-29,UK,weather_yesterday_rain,0.0,50.8284,-0.1395
+2026-09-29,UK,weather_yesterday_rain,0.0,50.8309,-0.1672
+2026-09-29,UK,weather_yesterday_rain,0.0,53.4809,-2.2374
+2026-09-29,UK,weather_yesterday_rain,0.004,55.8651,-4.2576
+2026-09-29,UK,weather_yesterday_rain,0.0,55.9521,-3.1965
+2026-09-29,UK,weather_yesterday_rain,0.0,57.1437,-2.0981
+2026-09-29,UK,weather_yesterday_rain,0.0,56.0716,-3.4589
+2026-09-29,UK,weather_yesterday_rain,0.0,57.0755,-2.7802
+2026-09-29,UK,weather_yesterday_rain,0.0,55.8844,-3.3397
+2026-09-29,UK,weather_yesterday_rain,0.0,57.0517,-2.4882
+2026-09-29,UK,weather_yesterday_rain,0.016,55.7992,-4.3929
+2026-09-29,UK,weather_yesterday_rain,0.0,51.48,-3.18
+2026-09-29,UK,weather_yesterday_rain,0.0,51.7144,-3.4492
+2026-09-29,UK,weather_yesterday_rain,0.0,51.8514,-4.8806
+2026-09-29,UK,weather_yesterday_rain,0.0,51.6545,-3.0228
+2026-09-29,UK,weather_yesterday_rain,0.0,52.4498,-3.54
+2026-09-29,UK,weather_yesterday_rain,0.0,51.7479,-3.3778
+2026-09-29,UK,weather_yesterday_rain,0.0,51.5924,-3.7802
+2026-09-29,UK,weather_yesterday_rain,0.0,54.1784,-6.3374
+2026-09-29,UK,weather_yesterday_rain,0.0,54.5968,-5.9254
+2026-09-29,UK,weather_yesterday_rain,0.0,54.4471,-6.387
+2026-09-29,UK,weather_yesterday_rain,0.0,54.3667,-6.0167
+2026-09-29,UK,weather_yesterday_rain,0.0,54.9981,-7.3093
+2026-09-29,UK,weather_yesterday_rain,0.0,54.5234,-6.0353
+2026-09-29,UK,weather_yesterday_rain,0.0,54.6608,-5.668
+2026-09-29,UK,weather_yesterday_rain,0.008,51.6214,-3.9436
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,actual_action,Scale Umbrellas (Residual Demand),,
+2026-09-29,US,sales_revenue,5353.21,,
+2026-09-29,US,sales_units,88.0,,
+2026-09-29,US,suggested_strategy,Baseline,61.2181,-149.9003
+2026-09-29,US,suggested_strategy,Baseline,64.8378,-147.7164
+2026-09-29,US,suggested_strategy,Scale Umbrellas,57.0532,-135.3309
+2026-09-29,US,suggested_strategy,Scale Umbrellas,60.5432,-145.7587
+2026-09-29,US,suggested_strategy,Baseline,61.5809,-149.4415
+2026-09-29,US,suggested_strategy,Baseline,33.5207,-86.8025
+2026-09-29,US,suggested_strategy,Baseline,34.7304,-86.5859
+2026-09-29,US,suggested_strategy,Baseline,30.6944,-88.043
+2026-09-29,US,suggested_strategy,Baseline,34.6993,-86.7483
+2026-09-29,US,suggested_strategy,Baseline,30.523,-87.9033
+2026-09-29,US,suggested_strategy,Baseline,34.7465,-92.2896
+2026-09-29,US,suggested_strategy,Baseline,35.8423,-90.7043
+2026-09-29,US,suggested_strategy,Baseline,36.3728,-94.2088
+2026-09-29,US,suggested_strategy,Baseline,36.0626,-94.1574
+2026-09-29,US,suggested_strategy,Baseline,36.332,-94.1185
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),33.4484,-112.074
+2026-09-29,US,suggested_strategy,Scale Umbrellas,32.2217,-110.9265
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),33.5092,-111.899
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),33.3528,-111.789
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),33.4223,-111.8226
+2026-09-29,US,suggested_strategy,Baseline,34.0522,-118.2437
+2026-09-29,US,suggested_strategy,Baseline,37.7749,-122.4194
+2026-09-29,US,suggested_strategy,Baseline,32.7157,-117.1647
+2026-09-29,US,suggested_strategy,Baseline,37.3394,-121.895
+2026-09-29,US,suggested_strategy,Baseline,37.8044,-122.2708
+2026-09-29,US,suggested_strategy,Baseline,39.7392,-104.9847
+2026-09-29,US,suggested_strategy,Scale Umbrellas,38.8339,-104.8214
+2026-09-29,US,suggested_strategy,Baseline,39.6133,-105.0166
+2026-09-29,US,suggested_strategy,Baseline,39.7294,-104.8319
+2026-09-29,US,suggested_strategy,Baseline,40.5853,-105.0844
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1176,-73.4079
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.0265,-73.6285
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.0534,-73.5387
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1412,-73.2637
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.1468,-73.4948
+2026-09-29,US,suggested_strategy,Baseline,39.746,-75.5466
+2026-09-29,US,suggested_strategy,Baseline,39.6595,-75.5636
+2026-09-29,US,suggested_strategy,Baseline,38.7746,-75.1393
+2026-09-29,US,suggested_strategy,Baseline,39.6837,-75.7497
+2026-09-29,US,suggested_strategy,Baseline,39.4496,-75.7163
+2026-09-29,US,suggested_strategy,Scale Umbrellas,25.7743,-80.1937
+2026-09-29,US,suggested_strategy,Baseline,28.5383,-81.3792
+2026-09-29,US,suggested_strategy,Baseline,26.1423,-81.796
+2026-09-29,US,suggested_strategy,Baseline,27.9475,-82.4584
+2026-09-29,US,suggested_strategy,Scale Umbrellas,26.3587,-80.0831
+2026-09-29,US,suggested_strategy,Baseline,33.749,-84.388
+2026-09-29,US,suggested_strategy,Baseline,33.9526,-84.5499
+2026-09-29,US,suggested_strategy,Baseline,32.0835,-81.0998
+2026-09-29,US,suggested_strategy,Baseline,34.0754,-84.2941
+2026-09-29,US,suggested_strategy,Baseline,33.7748,-84.2963
+2026-09-29,US,suggested_strategy,Scale Umbrellas,21.3069,-157.8583
+2026-09-29,US,suggested_strategy,Scale Umbrellas,21.4504,-158.015
+2026-09-29,US,suggested_strategy,Scale Umbrellas,21.3156,-158.0072
+2026-09-29,US,suggested_strategy,Scale Umbrellas,21.4024,-157.7405
+2026-09-29,US,suggested_strategy,Scale Umbrellas,21.3999,-157.7989
+2026-09-29,US,suggested_strategy,Scale Umbrellas,42.0083,-91.6441
+2026-09-29,US,suggested_strategy,Scale Umbrellas,41.6611,-91.5302
+2026-09-29,US,suggested_strategy,Scale Umbrellas,41.6005,-93.6091
+2026-09-29,US,suggested_strategy,Scale Umbrellas,42.0347,-93.6199
+2026-09-29,US,suggested_strategy,Scale Umbrellas,41.5772,-93.7113
+2026-09-29,US,suggested_strategy,Baseline,43.6135,-116.2035
+2026-09-29,US,suggested_strategy,Baseline,43.6121,-116.3915
+2026-09-29,US,suggested_strategy,Baseline,43.6954,-116.354
+2026-09-29,US,suggested_strategy,Baseline,43.4918,-116.4201
+2026-09-29,US,suggested_strategy,Baseline,41.85,-87.65
+2026-09-29,US,suggested_strategy,Baseline,41.7859,-88.1473
+2026-09-29,US,suggested_strategy,Baseline,42.0411,-87.6901
+2026-09-29,US,suggested_strategy,Baseline,42.0722,-87.7228
+2026-09-29,US,suggested_strategy,Baseline,41.8089,-88.0112
+2026-09-29,US,suggested_strategy,Baseline,39.7684,-86.158
+2026-09-29,US,suggested_strategy,Baseline,39.9784,-86.118
+2026-09-29,US,suggested_strategy,Baseline,41.1306,-85.1289
+2026-09-29,US,suggested_strategy,Baseline,39.1653,-86.5264
+2026-09-29,US,suggested_strategy,Baseline,40.4259,-86.9081
+2026-09-29,US,suggested_strategy,Baseline,37.6922,-97.3375
+2026-09-29,US,suggested_strategy,Scale Umbrellas,38.9822,-94.6708
+2026-09-29,US,suggested_strategy,Baseline,38.8814,-94.8191
+2026-09-29,US,suggested_strategy,Scale Umbrellas,38.9717,-95.2352
+2026-09-29,US,suggested_strategy,Scale Umbrellas,38.9667,-94.6169
+2026-09-29,US,suggested_strategy,Baseline,38.2542,-85.7594
+2026-09-29,US,suggested_strategy,Baseline,37.9887,-84.4777
+2026-09-29,US,suggested_strategy,Baseline,36.9903,-86.4436
+2026-09-29,US,suggested_strategy,Baseline,37.0834,-88.6
+2026-09-29,US,suggested_strategy,Baseline,36.6084,-83.7166
+2026-09-29,US,suggested_strategy,Baseline,30.4433,-91.1875
+2026-09-29,US,suggested_strategy,Baseline,29.9547,-90.0751
+2026-09-29,US,suggested_strategy,Baseline,30.2241,-92.0198
+2026-09-29,US,suggested_strategy,Baseline,32.5251,-93.7502
+2026-09-29,US,suggested_strategy,Baseline,29.9841,-90.1529
+2026-09-29,US,suggested_strategy,Baseline,42.5256,-71.0953
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3584,-71.0598
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3751,-71.1056
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.8459,-71.0828
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.3876,-71.0995
+2026-09-29,US,suggested_strategy,Baseline,39.2904,-76.6122
+2026-09-29,US,suggested_strategy,Baseline,38.9807,-77.1003
+2026-09-29,US,suggested_strategy,Baseline,38.9907,-77.0261
+2026-09-29,US,suggested_strategy,Baseline,39.084,-77.1528
+2026-09-29,US,suggested_strategy,Baseline,38.9786,-76.4918
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.6574,-70.2589
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.5781,-70.3217
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.7295,-70.242
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),44.7988,-68.7726
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.1531,-70.8001
+2026-09-29,US,suggested_strategy,Baseline,42.2776,-83.7409
+2026-09-29,US,suggested_strategy,Baseline,42.9634,-85.6681
+2026-09-29,US,suggested_strategy,Baseline,42.5836,-83.2455
+2026-09-29,US,suggested_strategy,Baseline,42.3714,-83.4702
+2026-09-29,US,suggested_strategy,Baseline,42.7009,-82.9591
+2026-09-29,US,suggested_strategy,Baseline,44.98,-93.2638
+2026-09-29,US,suggested_strategy,Scale Umbrellas,44.9444,-93.0933
+2026-09-29,US,suggested_strategy,Baseline,45.0105,-93.4555
+2026-09-29,US,suggested_strategy,Scale Umbrellas,44.9133,-93.5033
+2026-09-29,US,suggested_strategy,Baseline,44.8547,-93.4708
+2026-09-29,US,suggested_strategy,Baseline,38.6517,-90.2053
+2026-09-29,US,suggested_strategy,Scale Umbrellas,39.0997,-94.5786
+2026-09-29,US,suggested_strategy,Baseline,38.6631,-90.5771
+2026-09-29,US,suggested_strategy,Baseline,38.7839,-90.4812
+2026-09-29,US,suggested_strategy,Baseline,37.2153,-93.2982
+2026-09-29,US,suggested_strategy,Baseline,32.4618,-90.1154
+2026-09-29,US,suggested_strategy,Baseline,30.3674,-89.0928
+2026-09-29,US,suggested_strategy,Baseline,31.3271,-89.2903
+2026-09-29,US,suggested_strategy,Baseline,32.2988,-90.1848
+2026-09-29,US,suggested_strategy,Baseline,34.989,-90.0126
+2026-09-29,US,suggested_strategy,Baseline,45.6797,-111.0386
+2026-09-29,US,suggested_strategy,Baseline,45.7833,-108.5007
+2026-09-29,US,suggested_strategy,Baseline,47.5002,-111.3008
+2026-09-29,US,suggested_strategy,Baseline,46.8721,-113.994
+2026-09-29,US,suggested_strategy,Baseline,48.1958,-114.3129
+2026-09-29,US,suggested_strategy,Baseline,35.2271,-80.8431
+2026-09-29,US,suggested_strategy,Baseline,35.7721,-78.6386
+2026-09-29,US,suggested_strategy,Baseline,35.994,-78.8986
+2026-09-29,US,suggested_strategy,Baseline,34.2356,-77.946
+2026-09-29,US,suggested_strategy,Baseline,35.9132,-79.0558
+2026-09-29,US,suggested_strategy,Baseline,46.8772,-96.7898
+2026-09-29,US,suggested_strategy,Baseline,46.875,-96.9004
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),46.8083,-100.7837
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),46.8792,-102.7896
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),47.9253,-97.0328
+2026-09-29,US,suggested_strategy,Scale Umbrellas,41.2563,-95.9404
+2026-09-29,US,suggested_strategy,Scale Umbrellas,40.8,-96.667
+2026-09-29,US,suggested_strategy,Baseline,41.345,-96.256
+2026-09-29,US,suggested_strategy,Baseline,41.1367,-95.8908
+2026-09-29,US,suggested_strategy,Baseline,41.1544,-96.0422
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9956,-71.4548
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.7654,-71.4676
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9376,-70.8389
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),43.077,-70.7577
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),42.9815,-70.9478
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7282,-74.0776
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.744,-74.0324
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7968,-74.4815
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.659,-74.3474
+2026-09-29,US,suggested_strategy,Baseline,40.3487,-74.659
+2026-09-29,US,suggested_strategy,Scale Umbrellas,35.0845,-106.6511
+2026-09-29,US,suggested_strategy,Scale Umbrellas,35.687,-105.9378
+2026-09-29,US,suggested_strategy,Scale Umbrellas,32.3123,-106.7783
+2026-09-29,US,suggested_strategy,Scale Umbrellas,35.0809,-106.3881
+2026-09-29,US,suggested_strategy,Scale Umbrellas,35.8881,-106.307
+2026-09-29,US,suggested_strategy,Baseline,36.0397,-114.9819
+2026-09-29,US,suggested_strategy,Baseline,36.175,-115.1372
+2026-09-29,US,suggested_strategy,Baseline,39.5296,-119.8138
+2026-09-29,US,suggested_strategy,Baseline,39.1638,-119.7674
+2026-09-29,US,suggested_strategy,Baseline,36.1989,-115.1175
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7143,-74.006
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.6501,-73.9496
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.8499,-73.8664
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.5623,-74.1399
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7721,-73.9301
+2026-09-29,US,suggested_strategy,Baseline,39.1271,-84.5144
+2026-09-29,US,suggested_strategy,Baseline,39.9612,-82.9988
+2026-09-29,US,suggested_strategy,Baseline,39.7589,-84.1916
+2026-09-29,US,suggested_strategy,Baseline,40.0992,-83.1141
+2026-09-29,US,suggested_strategy,Baseline,41.4995,-81.6954
+2026-09-29,US,suggested_strategy,Baseline,35.6528,-97.4781
+2026-09-29,US,suggested_strategy,Baseline,36.154,-95.9928
+2026-09-29,US,suggested_strategy,Baseline,35.4676,-97.5164
+2026-09-29,US,suggested_strategy,Baseline,35.2226,-97.4395
+2026-09-29,US,suggested_strategy,Baseline,36.0526,-95.7908
+2026-09-29,US,suggested_strategy,Baseline,45.5234,-122.6762
+2026-09-29,US,suggested_strategy,Baseline,45.4207,-122.6706
+2026-09-29,US,suggested_strategy,Baseline,45.4871,-122.8037
+2026-09-29,US,suggested_strategy,Baseline,44.0521,-123.0867
+2026-09-29,US,suggested_strategy,Baseline,44.9429,-123.0351
+2026-09-29,US,suggested_strategy,Baseline,39.9524,-75.1636
+2026-09-29,US,suggested_strategy,Baseline,40.4406,-79.9959
+2026-09-29,US,suggested_strategy,Baseline,40.0379,-76.3055
+2026-09-29,US,suggested_strategy,Baseline,39.961,-75.608
+2026-09-29,US,suggested_strategy,Baseline,40.3101,-75.1299
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.824,-71.4128
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7407,-71.3087
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7798,-71.4373
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.7001,-71.4162
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),41.6604,-71.4559
+2026-09-29,US,suggested_strategy,Baseline,34.8526,-82.394
+2026-09-29,US,suggested_strategy,Baseline,32.7763,-79.9327
+2026-09-29,US,suggested_strategy,Baseline,32.7941,-79.8626
+2026-09-29,US,suggested_strategy,Baseline,34.0007,-81.0348
+2026-09-29,US,suggested_strategy,Baseline,33.6891,-78.8867
+2026-09-29,US,suggested_strategy,Baseline,43.55,-96.7003
+2026-09-29,US,suggested_strategy,Baseline,44.0805,-103.231
+2026-09-29,US,suggested_strategy,Baseline,43.3541,-96.892
+2026-09-29,US,suggested_strategy,Baseline,44.0061,-97.114
+2026-09-29,US,suggested_strategy,Baseline,45.4647,-98.4865
+2026-09-29,US,suggested_strategy,Baseline,36.1659,-86.7844
+2026-09-29,US,suggested_strategy,Baseline,35.9606,-83.9207
+2026-09-29,US,suggested_strategy,Baseline,35.1495,-90.049
+2026-09-29,US,suggested_strategy,Baseline,35.9251,-86.8689
+2026-09-29,US,suggested_strategy,Baseline,35.0456,-85.3097
+2026-09-29,US,suggested_strategy,Baseline,29.7633,-95.3633
+2026-09-29,US,suggested_strategy,Baseline,30.2672,-97.7431
+2026-09-29,US,suggested_strategy,Baseline,32.7831,-96.8067
+2026-09-29,US,suggested_strategy,Baseline,29.4241,-98.4936
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),32.7254,-97.3208
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.7608,-111.8911
+2026-09-29,US,suggested_strategy,Baseline,40.5622,-111.9297
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.6461,-111.498
+2026-09-29,US,suggested_strategy,Baseline,40.5916,-111.8841
+2026-09-29,US,suggested_strategy,Baseline,38.8048,-77.0469
+2026-09-29,US,suggested_strategy,Baseline,38.881,-77.1043
+2026-09-29,US,suggested_strategy,Baseline,36.8529,-75.978
+2026-09-29,US,suggested_strategy,Baseline,37.5538,-77.4603
+2026-09-29,US,suggested_strategy,Baseline,38.8462,-77.3064
+2026-09-29,US,suggested_strategy,Baseline,44.4759,-73.2121
+2026-09-29,US,suggested_strategy,Baseline,44.4906,-73.111
+2026-09-29,US,suggested_strategy,Baseline,44.5939,-72.6165
+2026-09-29,US,suggested_strategy,Baseline,44.467,-73.171
+2026-09-29,US,suggested_strategy,Baseline,44.4653,-72.6846
+2026-09-29,US,suggested_strategy,Baseline,47.6062,-122.3321
+2026-09-29,US,suggested_strategy,Baseline,47.6104,-122.2007
+2026-09-29,US,suggested_strategy,Baseline,45.6387,-122.6615
+2026-09-29,US,suggested_strategy,Baseline,47.2529,-122.4443
+2026-09-29,US,suggested_strategy,Scale Umbrellas,43.0389,-87.9065
+2026-09-29,US,suggested_strategy,Scale Umbrellas,43.0731,-89.4012
+2026-09-29,US,suggested_strategy,Scale Umbrellas,43.0117,-88.2315
+2026-09-29,US,suggested_strategy,Scale Umbrellas,43.1133,-87.9001
+2026-09-29,US,suggested_strategy,Scale Umbrellas,44.2619,-88.4154
+2026-09-29,US,suggested_strategy,Baseline,39.6295,-79.9559
+2026-09-29,US,suggested_strategy,Baseline,38.4192,-82.4451
+2026-09-29,US,suggested_strategy,Baseline,38.3498,-81.6326
+2026-09-29,US,suggested_strategy,Baseline,40.064,-80.7209
+2026-09-29,US,suggested_strategy,Baseline,38.4326,-82.0201
+2026-09-29,US,suggested_strategy,Baseline,41.14,-104.8203
+2026-09-29,US,suggested_strategy,Baseline,44.7972,-106.9562
+2026-09-29,US,suggested_strategy,Baseline,41.5875,-109.2029
+2026-09-29,US,suggested_strategy,Baseline,44.5263,-109.0565
+2026-09-29,US,suggested_strategy,Baseline,42.8666,-106.3131
+2026-09-29,US,suggested_strategy,Baseline,38.8951,-77.0364
+2026-09-29,US,suggested_strategy,Baseline,47.6777,-116.7805
+2026-09-29,US,suggested_strategy,Scale Umbrellas (Residual Demand),40.3144,-111.9849
+2026-09-29,US,suggested_strategy,Baseline,47.6569,-117.425
+2026-09-29,US,weather_rain,0.004,61.2181,-149.9003
+2026-09-29,US,weather_rain,0.012,64.8378,-147.7164
+2026-09-29,US,weather_rain,0.335,57.0532,-135.3309
+2026-09-29,US,weather_rain,0.654,60.5432,-145.7587
+2026-09-29,US,weather_rain,0.016,61.5809,-149.4415
+2026-09-29,US,weather_rain,0.0,33.5207,-86.8025
+2026-09-29,US,weather_rain,0.0,34.7304,-86.5859
+2026-09-29,US,weather_rain,0.0,30.6944,-88.043
+2026-09-29,US,weather_rain,0.0,34.6993,-86.7483
+2026-09-29,US,weather_rain,0.0,30.523,-87.9033
+2026-09-29,US,weather_rain,0.0,34.7465,-92.2896
+2026-09-29,US,weather_rain,0.0,35.8423,-90.7043
+2026-09-29,US,weather_rain,0.0,36.3728,-94.2088
+2026-09-29,US,weather_rain,0.0,36.0626,-94.1574
+2026-09-29,US,weather_rain,0.0,36.332,-94.1185
+2026-09-29,US,weather_rain,0.0,33.4484,-112.074
+2026-09-29,US,weather_rain,0.327,32.2217,-110.9265
+2026-09-29,US,weather_rain,0.0,33.5092,-111.899
+2026-09-29,US,weather_rain,0.043,33.3528,-111.789
+2026-09-29,US,weather_rain,0.0,33.4223,-111.8226
+2026-09-29,US,weather_rain,0.0,34.0522,-118.2437
+2026-09-29,US,weather_rain,0.0,37.7749,-122.4194
+2026-09-29,US,weather_rain,0.0,32.7157,-117.1647
+2026-09-29,US,weather_rain,0.0,37.3394,-121.895
+2026-09-29,US,weather_rain,0.0,37.8044,-122.2708
+2026-09-29,US,weather_rain,0.098,39.7392,-104.9847
+2026-09-29,US,weather_rain,0.528,38.8339,-104.8214
+2026-09-29,US,weather_rain,0.098,39.6133,-105.0166
+2026-09-29,US,weather_rain,0.059,39.7294,-104.8319
+2026-09-29,US,weather_rain,0.016,40.5853,-105.0844
+2026-09-29,US,weather_rain,0.0,41.1176,-73.4079
+2026-09-29,US,weather_rain,0.0,41.0265,-73.6285
+2026-09-29,US,weather_rain,0.0,41.0534,-73.5387
+2026-09-29,US,weather_rain,0.0,41.1412,-73.2637
+2026-09-29,US,weather_rain,0.0,41.1468,-73.4948
+2026-09-29,US,weather_rain,0.0,39.746,-75.5466
+2026-09-29,US,weather_rain,0.0,39.6595,-75.5636
+2026-09-29,US,weather_rain,0.016,38.7746,-75.1393
+2026-09-29,US,weather_rain,0.0,39.6837,-75.7497
+2026-09-29,US,weather_rain,0.0,39.4496,-75.7163
+2026-09-29,US,weather_rain,2.256,25.7743,-80.1937
+2026-09-29,US,weather_rain,0.0,28.5383,-81.3792
+2026-09-29,US,weather_rain,0.134,26.1423,-81.796
+2026-09-29,US,weather_rain,0.016,27.9475,-82.4584
+2026-09-29,US,weather_rain,0.299,26.3587,-80.0831
+2026-09-29,US,weather_rain,0.0,33.749,-84.388
+2026-09-29,US,weather_rain,0.0,33.9526,-84.5499
+2026-09-29,US,weather_rain,0.043,32.0835,-81.0998
+2026-09-29,US,weather_rain,0.0,34.0754,-84.2941
+2026-09-29,US,weather_rain,0.0,33.7748,-84.2963
+2026-09-29,US,weather_rain,0.366,21.3069,-157.8583
+2026-09-29,US,weather_rain,0.484,21.4504,-158.015
+2026-09-29,US,weather_rain,0.728,21.3156,-158.0072
+2026-09-29,US,weather_rain,0.642,21.4024,-157.7405
+2026-09-29,US,weather_rain,0.642,21.3999,-157.7989
+2026-09-29,US,weather_rain,0.535,42.0083,-91.6441
+2026-09-29,US,weather_rain,1.217,41.6611,-91.5302
+2026-09-29,US,weather_rain,0.795,41.6005,-93.6091
+2026-09-29,US,weather_rain,0.311,42.0347,-93.6199
+2026-09-29,US,weather_rain,2.433,41.5772,-93.7113
+2026-09-29,US,weather_rain,0.0,43.6135,-116.2035
+2026-09-29,US,weather_rain,0.0,43.6121,-116.3915
+2026-09-29,US,weather_rain,0.0,43.6954,-116.354
+2026-09-29,US,weather_rain,0.0,43.4918,-116.4201
+2026-09-29,US,weather_rain,0.016,41.85,-87.65
+2026-09-29,US,weather_rain,0.031,41.7859,-88.1473
+2026-09-29,US,weather_rain,0.102,42.0411,-87.6901
+2026-09-29,US,weather_rain,0.098,42.0722,-87.7228
+2026-09-29,US,weather_rain,0.031,41.8089,-88.0112
+2026-09-29,US,weather_rain,0.0,39.7684,-86.158
+2026-09-29,US,weather_rain,0.0,39.9784,-86.118
+2026-09-29,US,weather_rain,0.0,41.1306,-85.1289
+2026-09-29,US,weather_rain,0.0,39.1653,-86.5264
+2026-09-29,US,weather_rain,0.0,40.4259,-86.9081
+2026-09-29,US,weather_rain,0.059,37.6922,-97.3375
+2026-09-29,US,weather_rain,0.283,38.9822,-94.6708
+2026-09-29,US,weather_rain,0.059,38.8814,-94.8191
+2026-09-29,US,weather_rain,0.756,38.9717,-95.2352
+2026-09-29,US,weather_rain,0.37,38.9667,-94.6169
+2026-09-29,US,weather_rain,0.0,38.2542,-85.7594
+2026-09-29,US,weather_rain,0.0,37.9887,-84.4777
+2026-09-29,US,weather_rain,0.0,36.9903,-86.4436
+2026-09-29,US,weather_rain,0.0,37.0834,-88.6
+2026-09-29,US,weather_rain,0.0,36.6084,-83.7166
+2026-09-29,US,weather_rain,0.0,30.4433,-91.1875
+2026-09-29,US,weather_rain,0.0,29.9547,-90.0751
+2026-09-29,US,weather_rain,0.0,30.2241,-92.0198
+2026-09-29,US,weather_rain,0.0,32.5251,-93.7502
+2026-09-29,US,weather_rain,0.0,29.9841,-90.1529
+2026-09-29,US,weather_rain,0.0,42.5256,-71.0953
+2026-09-29,US,weather_rain,0.0,42.3584,-71.0598
+2026-09-29,US,weather_rain,0.0,42.3751,-71.1056
+2026-09-29,US,weather_rain,0.0,41.8459,-71.0828
+2026-09-29,US,weather_rain,0.0,42.3876,-71.0995
+2026-09-29,US,weather_rain,0.0,39.2904,-76.6122
+2026-09-29,US,weather_rain,0.016,38.9807,-77.1003
+2026-09-29,US,weather_rain,0.0,38.9907,-77.0261
+2026-09-29,US,weather_rain,0.016,39.084,-77.1528
+2026-09-29,US,weather_rain,0.0,38.9786,-76.4918
+2026-09-29,US,weather_rain,0.0,43.6574,-70.2589
+2026-09-29,US,weather_rain,0.0,43.5781,-70.3217
+2026-09-29,US,weather_rain,0.0,43.7295,-70.242
+2026-09-29,US,weather_rain,0.016,44.7988,-68.7726
+2026-09-29,US,weather_rain,0.0,43.1531,-70.8001
+2026-09-29,US,weather_rain,0.0,42.2776,-83.7409
+2026-09-29,US,weather_rain,0.043,42.9634,-85.6681
+2026-09-29,US,weather_rain,0.0,42.5836,-83.2455
+2026-09-29,US,weather_rain,0.0,42.3714,-83.4702
+2026-09-29,US,weather_rain,0.0,42.7009,-82.9591
+2026-09-29,US,weather_rain,0.185,44.98,-93.2638
+2026-09-29,US,weather_rain,0.488,44.9444,-93.0933
+2026-09-29,US,weather_rain,0.142,45.0105,-93.4555
+2026-09-29,US,weather_rain,1.248,44.9133,-93.5033
+2026-09-29,US,weather_rain,0.157,44.8547,-93.4708
+2026-09-29,US,weather_rain,0.0,38.6517,-90.2053
+2026-09-29,US,weather_rain,0.287,39.0997,-94.5786
+2026-09-29,US,weather_rain,0.0,38.6631,-90.5771
+2026-09-29,US,weather_rain,0.0,38.7839,-90.4812
+2026-09-29,US,weather_rain,0.0,37.2153,-93.2982
+2026-09-29,US,weather_rain,0.0,32.4618,-90.1154
+2026-09-29,US,weather_rain,0.0,30.3674,-89.0928
+2026-09-29,US,weather_rain,0.0,31.3271,-89.2903
+2026-09-29,US,weather_rain,0.0,32.2988,-90.1848
+2026-09-29,US,weather_rain,0.0,34.989,-90.0126
+2026-09-29,US,weather_rain,0.0,45.6797,-111.0386
+2026-09-29,US,weather_rain,0.0,45.7833,-108.5007
+2026-09-29,US,weather_rain,0.0,47.5002,-111.3008
+2026-09-29,US,weather_rain,0.0,46.8721,-113.994
+2026-09-29,US,weather_rain,0.0,48.1958,-114.3129
+2026-09-29,US,weather_rain,0.0,35.2271,-80.8431
+2026-09-29,US,weather_rain,0.0,35.7721,-78.6386
+2026-09-29,US,weather_rain,0.0,35.994,-78.8986
+2026-09-29,US,weather_rain,0.0,34.2356,-77.946
+2026-09-29,US,weather_rain,0.0,35.9132,-79.0558
+2026-09-29,US,weather_rain,0.0,46.8772,-96.7898
+2026-09-29,US,weather_rain,0.0,46.875,-96.9004
+2026-09-29,US,weather_rain,0.0,46.8083,-100.7837
+2026-09-29,US,weather_rain,0.0,46.8792,-102.7896
+2026-09-29,US,weather_rain,0.0,47.9253,-97.0328
+2026-09-29,US,weather_rain,0.425,41.2563,-95.9404
+2026-09-29,US,weather_rain,0.559,40.8,-96.667
+2026-09-29,US,weather_rain,0.0,41.345,-96.256
+2026-09-29,US,weather_rain,0.087,41.1367,-95.8908
+2026-09-29,US,weather_rain,0.059,41.1544,-96.0422
+2026-09-29,US,weather_rain,0.0,42.9956,-71.4548
+2026-09-29,US,weather_rain,0.0,42.7654,-71.4676
+2026-09-29,US,weather_rain,0.0,42.9376,-70.8389
+2026-09-29,US,weather_rain,0.016,43.077,-70.7577
+2026-09-29,US,weather_rain,0.0,42.9815,-70.9478
+2026-09-29,US,weather_rain,0.0,40.7282,-74.0776
+2026-09-29,US,weather_rain,0.0,40.744,-74.0324
+2026-09-29,US,weather_rain,0.0,40.7968,-74.4815
+2026-09-29,US,weather_rain,0.0,40.659,-74.3474
+2026-09-29,US,weather_rain,0.0,40.3487,-74.659
+2026-09-29,US,weather_rain,0.988,35.0845,-106.6511
+2026-09-29,US,weather_rain,0.937,35.687,-105.9378
+2026-09-29,US,weather_rain,0.78,32.3123,-106.7783
+2026-09-29,US,weather_rain,1.488,35.0809,-106.3881
+2026-09-29,US,weather_rain,1.665,35.8881,-106.307
+2026-09-29,US,weather_rain,0.0,36.0397,-114.9819
+2026-09-29,US,weather_rain,0.0,36.175,-115.1372
+2026-09-29,US,weather_rain,0.0,39.5296,-119.8138
+2026-09-29,US,weather_rain,0.0,39.1638,-119.7674
+2026-09-29,US,weather_rain,0.0,36.1989,-115.1175
+2026-09-29,US,weather_rain,0.0,40.7143,-74.006
+2026-09-29,US,weather_rain,0.0,40.6501,-73.9496
+2026-09-29,US,weather_rain,0.0,40.8499,-73.8664
+2026-09-29,US,weather_rain,0.0,40.5623,-74.1399
+2026-09-29,US,weather_rain,0.0,40.7721,-73.9301
+2026-09-29,US,weather_rain,0.0,39.1271,-84.5144
+2026-09-29,US,weather_rain,0.0,39.9612,-82.9988
+2026-09-29,US,weather_rain,0.0,39.7589,-84.1916
+2026-09-29,US,weather_rain,0.0,40.0992,-83.1141
+2026-09-29,US,weather_rain,0.0,41.4995,-81.6954
+2026-09-29,US,weather_rain,0.0,35.6528,-97.4781
+2026-09-29,US,weather_rain,0.0,36.154,-95.9928
+2026-09-29,US,weather_rain,0.0,35.4676,-97.5164
+2026-09-29,US,weather_rain,0.0,35.2226,-97.4395
+2026-09-29,US,weather_rain,0.0,36.0526,-95.7908
+2026-09-29,US,weather_rain,0.0,45.5234,-122.6762
+2026-09-29,US,weather_rain,0.0,45.4207,-122.6706
+2026-09-29,US,weather_rain,0.0,45.4871,-122.8037
+2026-09-29,US,weather_rain,0.0,44.0521,-123.0867
+2026-09-29,US,weather_rain,0.0,44.9429,-123.0351
+2026-09-29,US,weather_rain,0.0,39.9524,-75.1636
+2026-09-29,US,weather_rain,0.0,40.4406,-79.9959
+2026-09-29,US,weather_rain,0.0,40.0379,-76.3055
+2026-09-29,US,weather_rain,0.0,39.961,-75.608
+2026-09-29,US,weather_rain,0.0,40.3101,-75.1299
+2026-09-29,US,weather_rain,0.0,41.824,-71.4128
+2026-09-29,US,weather_rain,0.0,41.7407,-71.3087
+2026-09-29,US,weather_rain,0.0,41.7798,-71.4373
+2026-09-29,US,weather_rain,0.0,41.7001,-71.4162
+2026-09-29,US,weather_rain,0.0,41.6604,-71.4559
+2026-09-29,US,weather_rain,0.0,34.8526,-82.394
+2026-09-29,US,weather_rain,0.0,32.7763,-79.9327
+2026-09-29,US,weather_rain,0.0,32.7941,-79.8626
+2026-09-29,US,weather_rain,0.0,34.0007,-81.0348
+2026-09-29,US,weather_rain,0.0,33.6891,-78.8867
+2026-09-29,US,weather_rain,0.016,43.55,-96.7003
+2026-09-29,US,weather_rain,0.0,44.0805,-103.231
+2026-09-29,US,weather_rain,0.043,43.3541,-96.892
+2026-09-29,US,weather_rain,0.0,44.0061,-97.114
+2026-09-29,US,weather_rain,0.0,45.4647,-98.4865
+2026-09-29,US,weather_rain,0.0,36.1659,-86.7844
+2026-09-29,US,weather_rain,0.0,35.9606,-83.9207
+2026-09-29,US,weather_rain,0.0,35.1495,-90.049
+2026-09-29,US,weather_rain,0.0,35.9251,-86.8689
+2026-09-29,US,weather_rain,0.0,35.0456,-85.3097
+2026-09-29,US,weather_rain,0.0,29.7633,-95.3633
+2026-09-29,US,weather_rain,0.0,30.2672,-97.7431
+2026-09-29,US,weather_rain,0.0,32.7831,-96.8067
+2026-09-29,US,weather_rain,0.0,29.4241,-98.4936
+2026-09-29,US,weather_rain,0.0,32.7254,-97.3208
+2026-09-29,US,weather_rain,0.0,40.7608,-111.8911
+2026-09-29,US,weather_rain,0.0,40.5622,-111.9297
+2026-09-29,US,weather_rain,0.0,40.6461,-111.498
+2026-09-29,US,weather_rain,0.0,40.5916,-111.8841
+2026-09-29,US,weather_rain,0.0,38.8048,-77.0469
+2026-09-29,US,weather_rain,0.0,38.881,-77.1043
+2026-09-29,US,weather_rain,0.0,36.8529,-75.978
+2026-09-29,US,weather_rain,0.0,37.5538,-77.4603
+2026-09-29,US,weather_rain,0.0,38.8462,-77.3064
+2026-09-29,US,weather_rain,0.0,44.4759,-73.2121
+2026-09-29,US,weather_rain,0.0,44.4906,-73.111
+2026-09-29,US,weather_rain,0.0,44.5939,-72.6165
+2026-09-29,US,weather_rain,0.0,44.467,-73.171
+2026-09-29,US,weather_rain,0.0,44.4653,-72.6846
+2026-09-29,US,weather_rain,0.0,47.6062,-122.3321
+2026-09-29,US,weather_rain,0.016,47.6104,-122.2007
+2026-09-29,US,weather_rain,0.031,45.6387,-122.6615
+2026-09-29,US,weather_rain,0.031,47.2529,-122.4443
+2026-09-29,US,weather_rain,0.535,43.0389,-87.9065
+2026-09-29,US,weather_rain,0.24,43.0731,-89.4012
+2026-09-29,US,weather_rain,0.398,43.0117,-88.2315
+2026-09-29,US,weather_rain,0.697,43.1133,-87.9001
+2026-09-29,US,weather_rain,0.488,44.2619,-88.4154
+2026-09-29,US,weather_rain,0.0,39.6295,-79.9559
+2026-09-29,US,weather_rain,0.0,38.4192,-82.4451
+2026-09-29,US,weather_rain,0.0,38.3498,-81.6326
+2026-09-29,US,weather_rain,0.0,40.064,-80.7209
+2026-09-29,US,weather_rain,0.0,38.4326,-82.0201
+2026-09-29,US,weather_rain,0.0,41.14,-104.8203
+2026-09-29,US,weather_rain,0.0,44.7972,-106.9562
+2026-09-29,US,weather_rain,0.0,41.5875,-109.2029
+2026-09-29,US,weather_rain,0.0,44.5263,-109.0565
+2026-09-29,US,weather_rain,0.0,42.8666,-106.3131
+2026-09-29,US,weather_rain,0.0,38.8951,-77.0364
+2026-09-29,US,weather_rain,0.0,47.6777,-116.7805
+2026-09-29,US,weather_rain,0.0,40.3144,-111.9849
+2026-09-29,US,weather_rain,0.0,47.6569,-117.425
+2026-09-29,US,weather_uv,2.05,61.2181,-149.9003
+2026-09-29,US,weather_uv,1.2,64.8378,-147.7164
+2026-09-29,US,weather_uv,2.45,57.0532,-135.3309
+2026-09-29,US,weather_uv,1.55,60.5432,-145.7587
+2026-09-29,US,weather_uv,1.25,61.5809,-149.4415
+2026-09-29,US,weather_uv,6.6,33.5207,-86.8025
+2026-09-29,US,weather_uv,6.45,34.7304,-86.5859
+2026-09-29,US,weather_uv,6.95,30.6944,-88.043
+2026-09-29,US,weather_uv,6.45,34.6993,-86.7483
+2026-09-29,US,weather_uv,7.05,30.523,-87.9033
+2026-09-29,US,weather_uv,6.35,34.7465,-92.2896
+2026-09-29,US,weather_uv,6.1,35.8423,-90.7043
+2026-09-29,US,weather_uv,5.75,36.3728,-94.2088
+2026-09-29,US,weather_uv,5.95,36.0626,-94.1574
+2026-09-29,US,weather_uv,6.1,36.332,-94.1185
+2026-09-29,US,weather_uv,6.8,33.4484,-112.074
+2026-09-29,US,weather_uv,3.65,32.2217,-110.9265
+2026-09-29,US,weather_uv,6.8,33.5092,-111.899
+2026-09-29,US,weather_uv,6.85,33.3528,-111.789
+2026-09-29,US,weather_uv,6.85,33.4223,-111.8226
+2026-09-29,US,weather_uv,6.6,34.0522,-118.2437
+2026-09-29,US,weather_uv,6.1,37.7749,-122.4194
+2026-09-29,US,weather_uv,6.75,32.7157,-117.1647
+2026-09-29,US,weather_uv,6.2,37.3394,-121.895
+2026-09-29,US,weather_uv,6.1,37.8044,-122.2708
+2026-09-29,US,weather_uv,5.95,39.7392,-104.9847
+2026-09-29,US,weather_uv,3.8,38.8339,-104.8214
+2026-09-29,US,weather_uv,6.0,39.6133,-105.0166
+2026-09-29,US,weather_uv,5.95,39.7294,-104.8319
+2026-09-29,US,weather_uv,5.85,40.5853,-105.0844
+2026-09-29,US,weather_uv,5.3,41.1176,-73.4079
+2026-09-29,US,weather_uv,4.35,41.0265,-73.6285
+2026-09-29,US,weather_uv,4.35,41.0534,-73.5387
+2026-09-29,US,weather_uv,5.35,41.1412,-73.2637
+2026-09-29,US,weather_uv,4.8,41.1468,-73.4948
+2026-09-29,US,weather_uv,3.6,39.746,-75.5466
+2026-09-29,US,weather_uv,3.6,39.6595,-75.5636
+2026-09-29,US,weather_uv,3.2,38.7746,-75.1393
+2026-09-29,US,weather_uv,3.65,39.6837,-75.7497
+2026-09-29,US,weather_uv,4.65,39.4496,-75.7163
+2026-09-29,US,weather_uv,7.2,25.7743,-80.1937
+2026-09-29,US,weather_uv,4.85,28.5383,-81.3792
+2026-09-29,US,weather_uv,2.0,26.1423,-81.796
+2026-09-29,US,weather_uv,5.95,27.9475,-82.4584
+2026-09-29,US,weather_uv,5.35,26.3587,-80.0831
+2026-09-29,US,weather_uv,6.6,33.749,-84.388
+2026-09-29,US,weather_uv,6.6,33.9526,-84.5499
+2026-09-29,US,weather_uv,6.8,32.0835,-81.0998
+2026-09-29,US,weather_uv,6.6,34.0754,-84.2941
+2026-09-29,US,weather_uv,6.6,33.7748,-84.2963
+2026-09-29,US,weather_uv,8.35,21.3069,-157.8583
+2026-09-29,US,weather_uv,7.7,21.4504,-158.015
+2026-09-29,US,weather_uv,8.25,21.3156,-158.0072
+2026-09-29,US,weather_uv,8.3,21.4024,-157.7405
+2026-09-29,US,weather_uv,8.35,21.3999,-157.7989
+2026-09-29,US,weather_uv,4.9,42.0083,-91.6441
+2026-09-29,US,weather_uv,5.05,41.6611,-91.5302
+2026-09-29,US,weather_uv,4.35,41.6005,-93.6091
+2026-09-29,US,weather_uv,2.65,42.0347,-93.6199
+2026-09-29,US,weather_uv,4.0,41.5772,-93.7113
+2026-09-29,US,weather_uv,5.4,43.6135,-116.2035
+2026-09-29,US,weather_uv,5.35,43.6121,-116.3915
+2026-09-29,US,weather_uv,5.35,43.6954,-116.354
+2026-09-29,US,weather_uv,5.4,43.4918,-116.4201
+2026-09-29,US,weather_uv,4.75,41.85,-87.65
+2026-09-29,US,weather_uv,4.6,41.7859,-88.1473
+2026-09-29,US,weather_uv,4.7,42.0411,-87.6901
+2026-09-29,US,weather_uv,4.7,42.0722,-87.7228
+2026-09-29,US,weather_uv,4.85,41.8089,-88.0112
+2026-09-29,US,weather_uv,5.55,39.7684,-86.158
+2026-09-29,US,weather_uv,5.55,39.9784,-86.118
+2026-09-29,US,weather_uv,5.3,41.1306,-85.1289
+2026-09-29,US,weather_uv,5.6,39.1653,-86.5264
+2026-09-29,US,weather_uv,5.45,40.4259,-86.9081
+2026-09-29,US,weather_uv,3.05,37.6922,-97.3375
+2026-09-29,US,weather_uv,4.6,38.9822,-94.6708
+2026-09-29,US,weather_uv,5.05,38.8814,-94.8191
+2026-09-29,US,weather_uv,3.7,38.9717,-95.2352
+2026-09-29,US,weather_uv,4.6,38.9667,-94.6169
+2026-09-29,US,weather_uv,5.75,38.2542,-85.7594
+2026-09-29,US,weather_uv,5.8,37.9887,-84.4777
+2026-09-29,US,weather_uv,5.95,36.9903,-86.4436
+2026-09-29,US,weather_uv,5.9,37.0834,-88.6
+2026-09-29,US,weather_uv,5.95,36.6084,-83.7166
+2026-09-29,US,weather_uv,7.0,30.4433,-91.1875
+2026-09-29,US,weather_uv,7.15,29.9547,-90.0751
+2026-09-29,US,weather_uv,7.0,30.2241,-92.0198
+2026-09-29,US,weather_uv,6.65,32.5251,-93.7502
+2026-09-29,US,weather_uv,7.15,29.9841,-90.1529
+2026-09-29,US,weather_uv,3.15,42.5256,-71.0953
+2026-09-29,US,weather_uv,3.2,42.3584,-71.0598
+2026-09-29,US,weather_uv,3.4,42.3751,-71.1056
+2026-09-29,US,weather_uv,2.8,41.8459,-71.0828
+2026-09-29,US,weather_uv,3.4,42.3876,-71.0995
+2026-09-29,US,weather_uv,4.75,39.2904,-76.6122
+2026-09-29,US,weather_uv,4.05,38.9807,-77.1003
+2026-09-29,US,weather_uv,4.0,38.9907,-77.0261
+2026-09-29,US,weather_uv,4.9,39.084,-77.1528
+2026-09-29,US,weather_uv,3.75,38.9786,-76.4918
+2026-09-29,US,weather_uv,0.75,43.6574,-70.2589
+2026-09-29,US,weather_uv,0.75,43.5781,-70.3217
+2026-09-29,US,weather_uv,0.8,43.7295,-70.242
+2026-09-29,US,weather_uv,0.35,44.7988,-68.7726
+2026-09-29,US,weather_uv,1.85,43.1531,-70.8001
+2026-09-29,US,weather_uv,5.15,42.2776,-83.7409
+2026-09-29,US,weather_uv,5.05,42.9634,-85.6681
+2026-09-29,US,weather_uv,5.1,42.5836,-83.2455
+2026-09-29,US,weather_uv,5.15,42.3714,-83.4702
+2026-09-29,US,weather_uv,5.1,42.7009,-82.9591
+2026-09-29,US,weather_uv,2.15,44.98,-93.2638
+2026-09-29,US,weather_uv,2.25,44.9444,-93.0933
+2026-09-29,US,weather_uv,1.55,45.0105,-93.4555
+2026-09-29,US,weather_uv,1.45,44.9133,-93.5033
+2026-09-29,US,weather_uv,1.45,44.8547,-93.4708
+2026-09-29,US,weather_uv,5.75,38.6517,-90.2053
+2026-09-29,US,weather_uv,4.75,39.0997,-94.5786
+2026-09-29,US,weather_uv,5.7,38.6631,-90.5771
+2026-09-29,US,weather_uv,5.7,38.7839,-90.4812
+2026-09-29,US,weather_uv,5.85,37.2153,-93.2982
+2026-09-29,US,weather_uv,6.75,32.4618,-90.1154
+2026-09-29,US,weather_uv,7.0,30.3674,-89.0928
+2026-09-29,US,weather_uv,6.9,31.3271,-89.2903
+2026-09-29,US,weather_uv,6.75,32.2988,-90.1848
+2026-09-29,US,weather_uv,6.35,34.989,-90.0126
+2026-09-29,US,weather_uv,5.35,45.6797,-111.0386
+2026-09-29,US,weather_uv,5.25,45.7833,-108.5007
+2026-09-29,US,weather_uv,3.65,47.5002,-111.3008
+2026-09-29,US,weather_uv,4.7,46.8721,-113.994
+2026-09-29,US,weather_uv,4.3,48.1958,-114.3129
+2026-09-29,US,weather_uv,6.15,35.2271,-80.8431
+2026-09-29,US,weather_uv,6.2,35.7721,-78.6386
+2026-09-29,US,weather_uv,6.15,35.994,-78.8986
+2026-09-29,US,weather_uv,6.4,34.2356,-77.946
+2026-09-29,US,weather_uv,6.2,35.9132,-79.0558
+2026-09-29,US,weather_uv,1.6,46.8772,-96.7898
+2026-09-29,US,weather_uv,2.15,46.875,-96.9004
+2026-09-29,US,weather_uv,4.95,46.8083,-100.7837
+2026-09-29,US,weather_uv,4.9,46.8792,-102.7896
+2026-09-29,US,weather_uv,3.85,47.9253,-97.0328
+2026-09-29,US,weather_uv,1.3,41.2563,-95.9404
+2026-09-29,US,weather_uv,2.6,40.8,-96.667
+2026-09-29,US,weather_uv,1.25,41.345,-96.256
+2026-09-29,US,weather_uv,1.25,41.1367,-95.8908
+2026-09-29,US,weather_uv,1.35,41.1544,-96.0422
+2026-09-29,US,weather_uv,2.75,42.9956,-71.4548
+2026-09-29,US,weather_uv,3.15,42.7654,-71.4676
+2026-09-29,US,weather_uv,2.85,42.9376,-70.8389
+2026-09-29,US,weather_uv,2.2,43.077,-70.7577
+2026-09-29,US,weather_uv,2.8,42.9815,-70.9478
+2026-09-29,US,weather_uv,4.2,40.7282,-74.0776
+2026-09-29,US,weather_uv,4.2,40.744,-74.0324
+2026-09-29,US,weather_uv,5.1,40.7968,-74.4815
+2026-09-29,US,weather_uv,5.25,40.659,-74.3474
+2026-09-29,US,weather_uv,4.75,40.3487,-74.659
+2026-09-29,US,weather_uv,1.1,35.0845,-106.6511
+2026-09-29,US,weather_uv,3.2,35.687,-105.9378
+2026-09-29,US,weather_uv,2.45,32.3123,-106.7783
+2026-09-29,US,weather_uv,1.35,35.0809,-106.3881
+2026-09-29,US,weather_uv,3.1,35.8881,-106.307
+2026-09-29,US,weather_uv,5.05,36.0397,-114.9819
+2026-09-29,US,weather_uv,6.15,36.175,-115.1372
+2026-09-29,US,weather_uv,6.2,39.5296,-119.8138
+2026-09-29,US,weather_uv,6.3,39.1638,-119.7674
+2026-09-29,US,weather_uv,6.15,36.1989,-115.1175
+2026-09-29,US,weather_uv,4.2,40.7143,-74.006
+2026-09-29,US,weather_uv,4.7,40.6501,-73.9496
+2026-09-29,US,weather_uv,4.1,40.8499,-73.8664
+2026-09-29,US,weather_uv,4.4,40.5623,-74.1399
+2026-09-29,US,weather_uv,3.9,40.7721,-73.9301
+2026-09-29,US,weather_uv,5.6,39.1271,-84.5144
+2026-09-29,US,weather_uv,5.45,39.9612,-82.9988
+2026-09-29,US,weather_uv,5.5,39.7589,-84.1916
+2026-09-29,US,weather_uv,5.45,40.0992,-83.1141
+2026-09-29,US,weather_uv,5.25,41.4995,-81.6954
+2026-09-29,US,weather_uv,4.65,35.6528,-97.4781
+2026-09-29,US,weather_uv,5.1,36.154,-95.9928
+2026-09-29,US,weather_uv,5.8,35.4676,-97.5164
+2026-09-29,US,weather_uv,5.2,35.2226,-97.4395
+2026-09-29,US,weather_uv,5.8,36.0526,-95.7908
+2026-09-29,US,weather_uv,4.35,45.5234,-122.6762
+2026-09-29,US,weather_uv,4.3,45.4207,-122.6706
+2026-09-29,US,weather_uv,4.35,45.4871,-122.8037
+2026-09-29,US,weather_uv,4.6,44.0521,-123.0867
+2026-09-29,US,weather_uv,3.9,44.9429,-123.0351
+2026-09-29,US,weather_uv,4.15,39.9524,-75.1636
+2026-09-29,US,weather_uv,4.8,40.4406,-79.9959
+2026-09-29,US,weather_uv,3.4,40.0379,-76.3055
+2026-09-29,US,weather_uv,3.8,39.961,-75.608
+2026-09-29,US,weather_uv,4.35,40.3101,-75.1299
+2026-09-29,US,weather_uv,2.95,41.824,-71.4128
+2026-09-29,US,weather_uv,3.0,41.7407,-71.3087
+2026-09-29,US,weather_uv,3.6,41.7798,-71.4373
+2026-09-29,US,weather_uv,3.0,41.7001,-71.4162
+2026-09-29,US,weather_uv,3.3,41.6604,-71.4559
+2026-09-29,US,weather_uv,6.45,34.8526,-82.394
+2026-09-29,US,weather_uv,6.65,32.7763,-79.9327
+2026-09-29,US,weather_uv,6.65,32.7941,-79.8626
+2026-09-29,US,weather_uv,6.5,34.0007,-81.0348
+2026-09-29,US,weather_uv,6.5,33.6891,-78.8867
+2026-09-29,US,weather_uv,1.35,43.55,-96.7003
+2026-09-29,US,weather_uv,5.45,44.0805,-103.231
+2026-09-29,US,weather_uv,1.7,43.3541,-96.892
+2026-09-29,US,weather_uv,1.15,44.0061,-97.114
+2026-09-29,US,weather_uv,4.7,45.4647,-98.4865
+2026-09-29,US,weather_uv,6.05,36.1659,-86.7844
+2026-09-29,US,weather_uv,6.1,35.9606,-83.9207
+2026-09-29,US,weather_uv,6.1,35.1495,-90.049
+2026-09-29,US,weather_uv,6.1,35.9251,-86.8689
+2026-09-29,US,weather_uv,6.2,35.0456,-85.3097
+2026-09-29,US,weather_uv,6.45,29.7633,-95.3633
+2026-09-29,US,weather_uv,6.85,30.2672,-97.7431
+2026-09-29,US,weather_uv,6.2,32.7831,-96.8067
+2026-09-29,US,weather_uv,5.45,29.4241,-98.4936
+2026-09-29,US,weather_uv,6.3,32.7254,-97.3208
+2026-09-29,US,weather_uv,5.95,40.7608,-111.8911
+2026-09-29,US,weather_uv,6.0,40.5622,-111.9297
+2026-09-29,US,weather_uv,6.1,40.6461,-111.498
+2026-09-29,US,weather_uv,6.0,40.5916,-111.8841
+2026-09-29,US,weather_uv,3.85,38.8048,-77.0469
+2026-09-29,US,weather_uv,3.55,38.881,-77.1043
+2026-09-29,US,weather_uv,4.35,36.8529,-75.978
+2026-09-29,US,weather_uv,3.4,37.5538,-77.4603
+2026-09-29,US,weather_uv,3.6,38.8462,-77.3064
+2026-09-29,US,weather_uv,1.5,44.4759,-73.2121
+2026-09-29,US,weather_uv,1.5,44.4906,-73.111
+2026-09-29,US,weather_uv,1.05,44.5939,-72.6165
+2026-09-29,US,weather_uv,1.5,44.467,-73.171
+2026-09-29,US,weather_uv,0.85,44.4653,-72.6846
+2026-09-29,US,weather_uv,0.85,47.6062,-122.3321
+2026-09-29,US,weather_uv,0.55,47.6104,-122.2007
+2026-09-29,US,weather_uv,4.2,45.6387,-122.6615
+2026-09-29,US,weather_uv,0.35,47.2529,-122.4443
+2026-09-29,US,weather_uv,4.3,43.0389,-87.9065
+2026-09-29,US,weather_uv,4.5,43.0731,-89.4012
+2026-09-29,US,weather_uv,4.35,43.0117,-88.2315
+2026-09-29,US,weather_uv,4.3,43.1133,-87.9001
+2026-09-29,US,weather_uv,4.45,44.2619,-88.4154
+2026-09-29,US,weather_uv,5.15,39.6295,-79.9559
+2026-09-29,US,weather_uv,5.65,38.4192,-82.4451
+2026-09-29,US,weather_uv,5.65,38.3498,-81.6326
+2026-09-29,US,weather_uv,5.3,40.064,-80.7209
+2026-09-29,US,weather_uv,5.65,38.4326,-82.0201
+2026-09-29,US,weather_uv,5.9,41.14,-104.8203
+2026-09-29,US,weather_uv,5.4,44.7972,-106.9562
+2026-09-29,US,weather_uv,6.1,41.5875,-109.2029
+2026-09-29,US,weather_uv,5.6,44.5263,-109.0565
+2026-09-29,US,weather_uv,5.8,42.8666,-106.3131
+2026-09-29,US,weather_uv,4.0,38.8951,-77.0364
+2026-09-29,US,weather_uv,2.25,47.6777,-116.7805
+2026-09-29,US,weather_uv,6.1,40.3144,-111.9849
+2026-09-29,US,weather_uv,3.6,47.6569,-117.425
+2026-09-29,US,weather_yesterday_rain,0.031,61.2181,-149.9003
+2026-09-29,US,weather_yesterday_rain,0.024,64.8378,-147.7164
+2026-09-29,US,weather_yesterday_rain,0.35,57.0532,-135.3309
+2026-09-29,US,weather_yesterday_rain,0.0,60.5432,-145.7587
+2026-09-29,US,weather_yesterday_rain,0.118,61.5809,-149.4415
+2026-09-29,US,weather_yesterday_rain,0.0,33.5207,-86.8025
+2026-09-29,US,weather_yesterday_rain,0.0,34.7304,-86.5859
+2026-09-29,US,weather_yesterday_rain,0.0,30.6944,-88.043
+2026-09-29,US,weather_yesterday_rain,0.0,34.6993,-86.7483
+2026-09-29,US,weather_yesterday_rain,0.0,30.523,-87.9033
+2026-09-29,US,weather_yesterday_rain,0.0,34.7465,-92.2896
+2026-09-29,US,weather_yesterday_rain,0.0,35.8423,-90.7043
+2026-09-29,US,weather_yesterday_rain,0.0,36.3728,-94.2088
+2026-09-29,US,weather_yesterday_rain,0.059,36.0626,-94.1574
+2026-09-29,US,weather_yesterday_rain,0.008,36.332,-94.1185
+2026-09-29,US,weather_yesterday_rain,0.957,33.4484,-112.074
+2026-09-29,US,weather_yesterday_rain,0.059,32.2217,-110.9265
+2026-09-29,US,weather_yesterday_rain,0.913,33.5092,-111.899
+2026-09-29,US,weather_yesterday_rain,0.748,33.3528,-111.789
+2026-09-29,US,weather_yesterday_rain,0.756,33.4223,-111.8226
+2026-09-29,US,weather_yesterday_rain,0.0,34.0522,-118.2437
+2026-09-29,US,weather_yesterday_rain,0.0,37.7749,-122.4194
+2026-09-29,US,weather_yesterday_rain,0.059,32.7157,-117.1647
+2026-09-29,US,weather_yesterday_rain,0.0,37.3394,-121.895
+2026-09-29,US,weather_yesterday_rain,0.0,37.8044,-122.2708
+2026-09-29,US,weather_yesterday_rain,0.059,39.7392,-104.9847
+2026-09-29,US,weather_yesterday_rain,0.205,38.8339,-104.8214
+2026-09-29,US,weather_yesterday_rain,0.063,39.6133,-105.0166
+2026-09-29,US,weather_yesterday_rain,0.051,39.7294,-104.8319
+2026-09-29,US,weather_yesterday_rain,0.248,40.5853,-105.0844
+2026-09-29,US,weather_yesterday_rain,0.764,41.1176,-73.4079
+2026-09-29,US,weather_yesterday_rain,0.657,41.0265,-73.6285
+2026-09-29,US,weather_yesterday_rain,0.748,41.0534,-73.5387
+2026-09-29,US,weather_yesterday_rain,0.693,41.1412,-73.2637
+2026-09-29,US,weather_yesterday_rain,0.689,41.1468,-73.4948
+2026-09-29,US,weather_yesterday_rain,0.165,39.746,-75.5466
+2026-09-29,US,weather_yesterday_rain,0.173,39.6595,-75.5636
+2026-09-29,US,weather_yesterday_rain,0.11,38.7746,-75.1393
+2026-09-29,US,weather_yesterday_rain,0.15,39.6837,-75.7497
+2026-09-29,US,weather_yesterday_rain,0.11,39.4496,-75.7163
+2026-09-29,US,weather_yesterday_rain,0.055,25.7743,-80.1937
+2026-09-29,US,weather_yesterday_rain,0.0,28.5383,-81.3792
+2026-09-29,US,weather_yesterday_rain,0.0,26.1423,-81.796
+2026-09-29,US,weather_yesterday_rain,0.0,27.9475,-82.4584
+2026-09-29,US,weather_yesterday_rain,0.028,26.3587,-80.0831
+2026-09-29,US,weather_yesterday_rain,0.0,33.749,-84.388
+2026-09-29,US,weather_yesterday_rain,0.0,33.9526,-84.5499
+2026-09-29,US,weather_yesterday_rain,0.0,32.0835,-81.0998
+2026-09-29,US,weather_yesterday_rain,0.0,34.0754,-84.2941
+2026-09-29,US,weather_yesterday_rain,0.0,33.7748,-84.2963
+2026-09-29,US,weather_yesterday_rain,0.0,21.3069,-157.8583
+2026-09-29,US,weather_yesterday_rain,0.0,21.4504,-158.015
+2026-09-29,US,weather_yesterday_rain,0.0,21.3156,-158.0072
+2026-09-29,US,weather_yesterday_rain,0.02,21.4024,-157.7405
+2026-09-29,US,weather_yesterday_rain,0.02,21.3999,-157.7989
+2026-09-29,US,weather_yesterday_rain,0.004,42.0083,-91.6441
+2026-09-29,US,weather_yesterday_rain,0.059,41.6611,-91.5302
+2026-09-29,US,weather_yesterday_rain,0.008,41.6005,-93.6091
+2026-09-29,US,weather_yesterday_rain,0.0,42.0347,-93.6199
+2026-09-29,US,weather_yesterday_rain,0.008,41.5772,-93.7113
+2026-09-29,US,weather_yesterday_rain,0.0,43.6135,-116.2035
+2026-09-29,US,weather_yesterday_rain,0.0,43.6121,-116.3915
+2026-09-29,US,weather_yesterday_rain,0.0,43.6954,-116.354
+2026-09-29,US,weather_yesterday_rain,0.0,43.4918,-116.4201
+2026-09-29,US,weather_yesterday_rain,0.0,41.85,-87.65
+2026-09-29,US,weather_yesterday_rain,0.0,41.7859,-88.1473
+2026-09-29,US,weather_yesterday_rain,0.0,42.0411,-87.6901
+2026-09-29,US,weather_yesterday_rain,0.0,42.0722,-87.7228
+2026-09-29,US,weather_yesterday_rain,0.0,41.8089,-88.0112
+2026-09-29,US,weather_yesterday_rain,0.0,39.7684,-86.158
+2026-09-29,US,weather_yesterday_rain,0.0,39.9784,-86.118
+2026-09-29,US,weather_yesterday_rain,0.0,41.1306,-85.1289
+2026-09-29,US,weather_yesterday_rain,0.0,39.1653,-86.5264
+2026-09-29,US,weather_yesterday_rain,0.0,40.4259,-86.9081
+2026-09-29,US,weather_yesterday_rain,0.024,37.6922,-97.3375
+2026-09-29,US,weather_yesterday_rain,0.012,38.9822,-94.6708
+2026-09-29,US,weather_yesterday_rain,0.028,38.8814,-94.8191
+2026-09-29,US,weather_yesterday_rain,0.012,38.9717,-95.2352
+2026-09-29,US,weather_yesterday_rain,0.012,38.9667,-94.6169
+2026-09-29,US,weather_yesterday_rain,0.0,38.2542,-85.7594
+2026-09-29,US,weather_yesterday_rain,0.0,37.9887,-84.4777
+2026-09-29,US,weather_yesterday_rain,0.0,36.9903,-86.4436
+2026-09-29,US,weather_yesterday_rain,0.0,37.0834,-88.6
+2026-09-29,US,weather_yesterday_rain,0.0,36.6084,-83.7166
+2026-09-29,US,weather_yesterday_rain,0.0,30.4433,-91.1875
+2026-09-29,US,weather_yesterday_rain,0.0,29.9547,-90.0751
+2026-09-29,US,weather_yesterday_rain,0.004,30.2241,-92.0198
+2026-09-29,US,weather_yesterday_rain,0.008,32.5251,-93.7502
+2026-09-29,US,weather_yesterday_rain,0.0,29.9841,-90.1529
+2026-09-29,US,weather_yesterday_rain,0.476,42.5256,-71.0953
+2026-09-29,US,weather_yesterday_rain,0.681,42.3584,-71.0598
+2026-09-29,US,weather_yesterday_rain,0.681,42.3751,-71.1056
+2026-09-29,US,weather_yesterday_rain,0.839,41.8459,-71.0828
+2026-09-29,US,weather_yesterday_rain,0.551,42.3876,-71.0995
+2026-09-29,US,weather_yesterday_rain,0.047,39.2904,-76.6122
+2026-09-29,US,weather_yesterday_rain,0.012,38.9807,-77.1003
+2026-09-29,US,weather_yesterday_rain,0.012,38.9907,-77.0261
+2026-09-29,US,weather_yesterday_rain,0.004,39.084,-77.1528
+2026-09-29,US,weather_yesterday_rain,0.02,38.9786,-76.4918
+2026-09-29,US,weather_yesterday_rain,1.138,43.6574,-70.2589
+2026-09-29,US,weather_yesterday_rain,1.004,43.5781,-70.3217
+2026-09-29,US,weather_yesterday_rain,1.028,43.7295,-70.242
+2026-09-29,US,weather_yesterday_rain,1.114,44.7988,-68.7726
+2026-09-29,US,weather_yesterday_rain,0.724,43.1531,-70.8001
+2026-09-29,US,weather_yesterday_rain,0.0,42.2776,-83.7409
+2026-09-29,US,weather_yesterday_rain,0.0,42.9634,-85.6681
+2026-09-29,US,weather_yesterday_rain,0.0,42.5836,-83.2455
+2026-09-29,US,weather_yesterday_rain,0.0,42.3714,-83.4702
+2026-09-29,US,weather_yesterday_rain,0.0,42.7009,-82.9591
+2026-09-29,US,weather_yesterday_rain,0.0,44.98,-93.2638
+2026-09-29,US,weather_yesterday_rain,0.0,44.9444,-93.0933
+2026-09-29,US,weather_yesterday_rain,0.0,45.0105,-93.4555
+2026-09-29,US,weather_yesterday_rain,0.0,44.9133,-93.5033
+2026-09-29,US,weather_yesterday_rain,0.0,44.8547,-93.4708
+2026-09-29,US,weather_yesterday_rain,0.024,38.6517,-90.2053
+2026-09-29,US,weather_yesterday_rain,0.004,39.0997,-94.5786
+2026-09-29,US,weather_yesterday_rain,0.004,38.6631,-90.5771
+2026-09-29,US,weather_yesterday_rain,0.0,38.7839,-90.4812
+2026-09-29,US,weather_yesterday_rain,0.098,37.2153,-93.2982
+2026-09-29,US,weather_yesterday_rain,0.126,32.4618,-90.1154
+2026-09-29,US,weather_yesterday_rain,0.0,30.3674,-89.0928
+2026-09-29,US,weather_yesterday_rain,0.0,31.3271,-89.2903
+2026-09-29,US,weather_yesterday_rain,0.012,32.2988,-90.1848
+2026-09-29,US,weather_yesterday_rain,0.0,34.989,-90.0126
+2026-09-29,US,weather_yesterday_rain,0.004,45.6797,-111.0386
+2026-09-29,US,weather_yesterday_rain,0.004,45.7833,-108.5007
+2026-09-29,US,weather_yesterday_rain,0.0,47.5002,-111.3008
+2026-09-29,US,weather_yesterday_rain,0.0,46.8721,-113.994
+2026-09-29,US,weather_yesterday_rain,0.0,48.1958,-114.3129
+2026-09-29,US,weather_yesterday_rain,0.0,35.2271,-80.8431
+2026-09-29,US,weather_yesterday_rain,0.0,35.7721,-78.6386
+2026-09-29,US,weather_yesterday_rain,0.0,35.994,-78.8986
+2026-09-29,US,weather_yesterday_rain,0.0,34.2356,-77.946
+2026-09-29,US,weather_yesterday_rain,0.0,35.9132,-79.0558
+2026-09-29,US,weather_yesterday_rain,0.118,46.8772,-96.7898
+2026-09-29,US,weather_yesterday_rain,0.118,46.875,-96.9004
+2026-09-29,US,weather_yesterday_rain,0.697,46.8083,-100.7837
+2026-09-29,US,weather_yesterday_rain,1.445,46.8792,-102.7896
+2026-09-29,US,weather_yesterday_rain,0.89,47.9253,-97.0328
+2026-09-29,US,weather_yesterday_rain,0.012,41.2563,-95.9404
+2026-09-29,US,weather_yesterday_rain,0.016,40.8,-96.667
+2026-09-29,US,weather_yesterday_rain,0.016,41.345,-96.256
+2026-09-29,US,weather_yesterday_rain,0.02,41.1367,-95.8908
+2026-09-29,US,weather_yesterday_rain,0.012,41.1544,-96.0422
+2026-09-29,US,weather_yesterday_rain,0.587,42.9956,-71.4548
+2026-09-29,US,weather_yesterday_rain,0.602,42.7654,-71.4676
+2026-09-29,US,weather_yesterday_rain,0.756,42.9376,-70.8389
+2026-09-29,US,weather_yesterday_rain,0.724,43.077,-70.7577
+2026-09-29,US,weather_yesterday_rain,0.697,42.9815,-70.9478
+2026-09-29,US,weather_yesterday_rain,0.717,40.7282,-74.0776
+2026-09-29,US,weather_yesterday_rain,0.717,40.744,-74.0324
+2026-09-29,US,weather_yesterday_rain,0.776,40.7968,-74.4815
+2026-09-29,US,weather_yesterday_rain,0.559,40.659,-74.3474
+2026-09-29,US,weather_yesterday_rain,0.429,40.3487,-74.659
+2026-09-29,US,weather_yesterday_rain,0.079,35.0845,-106.6511
+2026-09-29,US,weather_yesterday_rain,0.02,35.687,-105.9378
+2026-09-29,US,weather_yesterday_rain,0.169,32.3123,-106.7783
+2026-09-29,US,weather_yesterday_rain,0.083,35.0809,-106.3881
+2026-09-29,US,weather_yesterday_rain,0.055,35.8881,-106.307
+2026-09-29,US,weather_yesterday_rain,0.126,36.0397,-114.9819
+2026-09-29,US,weather_yesterday_rain,0.031,36.175,-115.1372
+2026-09-29,US,weather_yesterday_rain,0.039,39.5296,-119.8138
+2026-09-29,US,weather_yesterday_rain,0.043,39.1638,-119.7674
+2026-09-29,US,weather_yesterday_rain,0.031,36.1989,-115.1175
+2026-09-29,US,weather_yesterday_rain,0.717,40.7143,-74.006
+2026-09-29,US,weather_yesterday_rain,0.752,40.6501,-73.9496
+2026-09-29,US,weather_yesterday_rain,0.756,40.8499,-73.8664
+2026-09-29,US,weather_yesterday_rain,0.835,40.5623,-74.1399
+2026-09-29,US,weather_yesterday_rain,0.701,40.7721,-73.9301
+2026-09-29,US,weather_yesterday_rain,0.0,39.1271,-84.5144
+2026-09-29,US,weather_yesterday_rain,0.0,39.9612,-82.9988
+2026-09-29,US,weather_yesterday_rain,0.0,39.7589,-84.1916
+2026-09-29,US,weather_yesterday_rain,0.0,40.0992,-83.1141
+2026-09-29,US,weather_yesterday_rain,0.008,41.4995,-81.6954
+2026-09-29,US,weather_yesterday_rain,0.016,35.6528,-97.4781
+2026-09-29,US,weather_yesterday_rain,0.016,36.154,-95.9928
+2026-09-29,US,weather_yesterday_rain,0.13,35.4676,-97.5164
+2026-09-29,US,weather_yesterday_rain,0.024,35.2226,-97.4395
+2026-09-29,US,weather_yesterday_rain,0.028,36.0526,-95.7908
+2026-09-29,US,weather_yesterday_rain,0.0,45.5234,-122.6762
+2026-09-29,US,weather_yesterday_rain,0.0,45.4207,-122.6706
+2026-09-29,US,weather_yesterday_rain,0.0,45.4871,-122.8037
+2026-09-29,US,weather_yesterday_rain,0.0,44.0521,-123.0867
+2026-09-29,US,weather_yesterday_rain,0.0,44.9429,-123.0351
+2026-09-29,US,weather_yesterday_rain,0.307,39.9524,-75.1636
+2026-09-29,US,weather_yesterday_rain,0.035,40.4406,-79.9959
+2026-09-29,US,weather_yesterday_rain,0.217,40.0379,-76.3055
+2026-09-29,US,weather_yesterday_rain,0.217,39.961,-75.608
+2026-09-29,US,weather_yesterday_rain,0.311,40.3101,-75.1299
+2026-09-29,US,weather_yesterday_rain,0.957,41.824,-71.4128
+2026-09-29,US,weather_yesterday_rain,0.949,41.7407,-71.3087
+2026-09-29,US,weather_yesterday_rain,1.161,41.7798,-71.4373
+2026-09-29,US,weather_yesterday_rain,0.874,41.7001,-71.4162
+2026-09-29,US,weather_yesterday_rain,0.98,41.6604,-71.4559
+2026-09-29,US,weather_yesterday_rain,0.0,34.8526,-82.394
+2026-09-29,US,weather_yesterday_rain,0.0,32.7763,-79.9327
+2026-09-29,US,weather_yesterday_rain,0.0,32.7941,-79.8626
+2026-09-29,US,weather_yesterday_rain,0.0,34.0007,-81.0348
+2026-09-29,US,weather_yesterday_rain,0.0,33.6891,-78.8867
+2026-09-29,US,weather_yesterday_rain,0.02,43.55,-96.7003
+2026-09-29,US,weather_yesterday_rain,0.059,44.0805,-103.231
+2026-09-29,US,weather_yesterday_rain,0.008,43.3541,-96.892
+2026-09-29,US,weather_yesterday_rain,0.016,44.0061,-97.114
+2026-09-29,US,weather_yesterday_rain,0.063,45.4647,-98.4865
+2026-09-29,US,weather_yesterday_rain,0.0,36.1659,-86.7844
+2026-09-29,US,weather_yesterday_rain,0.0,35.9606,-83.9207
+2026-09-29,US,weather_yesterday_rain,0.0,35.1495,-90.049
+2026-09-29,US,weather_yesterday_rain,0.0,35.9251,-86.8689
+2026-09-29,US,weather_yesterday_rain,0.0,35.0456,-85.3097
+2026-09-29,US,weather_yesterday_rain,0.035,29.7633,-95.3633
+2026-09-29,US,weather_yesterday_rain,0.024,30.2672,-97.7431
+2026-09-29,US,weather_yesterday_rain,0.106,32.7831,-96.8067
+2026-09-29,US,weather_yesterday_rain,0.008,29.4241,-98.4936
+2026-09-29,US,weather_yesterday_rain,0.52,32.7254,-97.3208
+2026-09-29,US,weather_yesterday_rain,0.697,40.7608,-111.8911
+2026-09-29,US,weather_yesterday_rain,0.181,40.5622,-111.9297
+2026-09-29,US,weather_yesterday_rain,0.98,40.6461,-111.498
+2026-09-29,US,weather_yesterday_rain,0.181,40.5916,-111.8841
+2026-09-29,US,weather_yesterday_rain,0.012,38.8048,-77.0469
+2026-09-29,US,weather_yesterday_rain,0.004,38.881,-77.1043
+2026-09-29,US,weather_yesterday_rain,0.0,36.8529,-75.978
+2026-09-29,US,weather_yesterday_rain,0.028,37.5538,-77.4603
+2026-09-29,US,weather_yesterday_rain,0.008,38.8462,-77.3064
+2026-09-29,US,weather_yesterday_rain,0.48,44.4759,-73.2121
+2026-09-29,US,weather_yesterday_rain,0.469,44.4906,-73.111
+2026-09-29,US,weather_yesterday_rain,0.402,44.5939,-72.6165
+2026-09-29,US,weather_yesterday_rain,0.48,44.467,-73.171
+2026-09-29,US,weather_yesterday_rain,0.496,44.4653,-72.6846
+2026-09-29,US,weather_yesterday_rain,0.0,47.6062,-122.3321
+2026-09-29,US,weather_yesterday_rain,0.0,47.6104,-122.2007
+2026-09-29,US,weather_yesterday_rain,0.0,45.6387,-122.6615
+2026-09-29,US,weather_yesterday_rain,0.0,47.2529,-122.4443
+2026-09-29,US,weather_yesterday_rain,0.0,43.0389,-87.9065
+2026-09-29,US,weather_yesterday_rain,0.0,43.0731,-89.4012
+2026-09-29,US,weather_yesterday_rain,0.0,43.0117,-88.2315
+2026-09-29,US,weather_yesterday_rain,0.0,43.1133,-87.9001
+2026-09-29,US,weather_yesterday_rain,0.0,44.2619,-88.4154
+2026-09-29,US,weather_yesterday_rain,0.106,39.6295,-79.9559
+2026-09-29,US,weather_yesterday_rain,0.0,38.4192,-82.4451
+2026-09-29,US,weather_yesterday_rain,0.0,38.3498,-81.6326
+2026-09-29,US,weather_yesterday_rain,0.016,40.064,-80.7209
+2026-09-29,US,weather_yesterday_rain,0.0,38.4326,-82.0201
+2026-09-29,US,weather_yesterday_rain,0.008,41.14,-104.8203
+2026-09-29,US,weather_yesterday_rain,0.004,44.7972,-106.9562
+2026-09-29,US,weather_yesterday_rain,0.02,41.5875,-109.2029
+2026-09-29,US,weather_yesterday_rain,0.213,44.5263,-109.0565
+2026-09-29,US,weather_yesterday_rain,0.012,42.8666,-106.3131
+2026-09-29,US,weather_yesterday_rain,0.004,38.8951,-77.0364
+2026-09-29,US,weather_yesterday_rain,0.0,47.6777,-116.7805
+2026-09-29,US,weather_yesterday_rain,0.598,40.3144,-111.9849
+2026-09-29,US,weather_yesterday_rain,0.0,47.6569,-117.425
