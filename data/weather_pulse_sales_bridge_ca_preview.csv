@@ -1,7 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-09-30,blocked,,CA,amazon,,14M00-790-00012,1,84.78,,0.0,0.0,0.0,
-2026-09-30,blocked,,CA,amazon,,FBA-14M00-001-00001,1,87.24,,0.0,0.0,0.0,
-2026-09-30,blocked,,CA,amazon,,WM-1K001-000-O/S,0,0.0,,0.0,0.0,0.0,
 2026-10-01,blocked,,CA,amazon,,12005-877-00022,1,71.81,,0.0,0.0,0.0,
 2026-10-01,blocked,,CA,amazon,,1K000-889-00015,1,32.99,,0.0,0.0,0.0,
 2026-10-01,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.96,,0.0,0.0,0.0,
@@ -22,6 +19,8 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-10-05,blocked,,CA,amazon,,FBA- 10001-997-00015,1,66.75,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.75,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA-10001-600-00003,1,66.75,,0.0,0.0,0.0,
-2026-10-05,blocked,,CA,shopify,web,14M00-001-00001,1,5.08,,0.0,0.0,0.0,
-2026-10-06,blocked,,CA,amazon,,14M00-AA1-00006,1,97.16,Scale Umbrellas (Residual Demand),0.354,0.626,4.5,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.626 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
-2026-10-06,blocked,,CA,shopify,web,14M00-600-00003,1,5.07,Scale Umbrellas (Residual Demand),0.354,0.626,4.5,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.626 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-10-06,blocked,,CA,amazon,,14M00-AA1-00006,1,97.21,,0.0,0.0,0.0,
+2026-10-06,blocked,,CA,amazon,,1K000-200-00012,1,33.43,,0.0,0.0,0.0,
+2026-10-06,blocked,,CA,amazon,,FBA 10001-310-00007,2,133.99,,0.0,0.0,0.0,
+2026-10-06,blocked,,CA,amazon,,FBA-10001-600-00003,1,66.99,,0.0,0.0,0.0,
+2026-10-06,blocked,,CA,amazon,,FBA-12005-200-221-51,1,71.85,,0.0,0.0,0.0,
