@@ -1,14 +1,14 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-10-04,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.8,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA 10001-310-00007,1,66.75,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA- 10001-997-00015,1,66.75,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.75,,0.0,0.0,0.0,
 2026-10-05,blocked,,CA,amazon,,FBA-10001-600-00003,1,66.75,,0.0,0.0,0.0,
 2026-10-06,blocked,,CA,amazon,,14M00-AA1-00006,1,97.21,,0.0,0.0,0.0,
-2026-10-06,blocked,,CA,amazon,,1K000-200-00012,1,33.43,,0.0,0.0,0.0,
+2026-10-06,blocked,,CA,amazon,,1K000-200-00012,1,29.28,,0.0,0.0,0.0,
 2026-10-06,blocked,,CA,amazon,,FBA 10001-310-00007,2,133.99,,0.0,0.0,0.0,
 2026-10-06,blocked,,CA,amazon,,FBA-10001-600-00003,1,66.99,,0.0,0.0,0.0,
 2026-10-06,blocked,,CA,amazon,,FBA-12005-200-221-51,1,71.85,,0.0,0.0,0.0,
 2026-10-07,blocked,,CA,shopify,web,12005-600-221-51,1,72.95,,0.0,0.0,0.0,
 2026-10-09,blocked,,CA,amazon,,1K000-200-00012,2,66.62,,0.0,0.0,0.0,
-2026-10-10,blocked,,CA,amazon,,FBA-11005-001-221-55,1,81.28,Scale Umbrellas (Residual Demand),0.362,0.925,4.15,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.047 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.925 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 1.6 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-10-10,blocked,,CA,amazon,,FBA-11005-001-221-55,1,81.28,,0.0,0.0,0.0,
+2026-10-11,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.68,Scale Umbrellas (Residual Demand),0.535,0.681,3.75,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.681 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
