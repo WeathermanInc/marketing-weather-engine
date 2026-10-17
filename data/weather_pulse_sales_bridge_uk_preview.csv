@@ -8,4 +8,4 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-10-15,blocked,,UK,shopify,web,11005-001-221-55,1,86.27,,0.0,0.0,0.0,
 2026-10-15,blocked,,UK,shopify,web,12005-001-221-51,1,79.23,,0.0,0.0,0.0,
 2026-10-15,blocked,,UK,shopify,web,WM-12005-801-O/S,1,74.33,,0.0,0.0,0.0,
-2026-10-16,blocked,,UK,shopify,web,11005-001-221-55,2,173.08,Scale Umbrellas (Residual Demand),0.098,0.634,1.7,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.504 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 1.1 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-10-16,blocked,,UK,shopify,web,11005-001-221-55,2,173.08,,0.0,0.0,0.0,
