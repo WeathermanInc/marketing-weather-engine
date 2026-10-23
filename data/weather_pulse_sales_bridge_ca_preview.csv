@@ -1,12 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-10-16,blocked,,CA,amazon,,1K000-732-00013,1,33.57,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,1K001-GRD-00011,1,33.15,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA-10001-001-00001,0,0.0,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA-10001-790-321-44,0,0.0,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA-11005-001-221-55,2,163.8,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA-12005-600-221-51,1,72.15,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA-13004-001-219-62,1,86.78,,0.0,0.0,0.0,
-2026-10-16,blocked,,CA,amazon,,FBA_12005-310-00003,1,72.15,,0.0,0.0,0.0,
 2026-10-17,blocked,,CA,amazon,,FBA-10001-600-00003,1,67.26,,0.0,0.0,0.0,
 2026-10-17,blocked,,CA,amazon,,FBA-11005-001-221-55,1,81.88,,0.0,0.0,0.0,
 2026-10-17,blocked,,CA,amazon,,FBA2-12005-600-221-51,1,72.13,,0.0,0.0,0.0,
@@ -18,3 +10,5 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-10-19,blocked,,CA,shopify,web,14M00-600-00003,1,68.66,,0.0,0.0,0.0,
 2026-10-19,blocked,,CA,shopify,web,WM-12005-801-O/S,1,56.42,,0.0,0.0,0.0,
 2026-10-20,blocked,,CA,amazon,,FBA2-12005-600-221-51,1,67.63,,0.0,0.0,0.0,
+2026-10-22,blocked,,CA,amazon,,10001-889-00014,1,68.0,,0.0,0.0,0.0,
+2026-10-22,blocked,,CA,amazon,,FBA-10001-001-00001,1,68.0,,0.0,0.0,0.0,
