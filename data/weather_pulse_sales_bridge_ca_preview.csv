@@ -1,8 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-10-27,blocked,,CA,amazon,,1K000-889-00015,1,28.42,,0.0,0.0,0.0,
-2026-10-27,blocked,,CA,amazon,,1K001-KDS-00016,1,33.39,,0.0,0.0,0.0,
-2026-10-27,blocked,,CA,amazon,,FBA-10001-600-00003,1,67.77,,0.0,0.0,0.0,
-2026-10-27,blocked,,CA,amazon,,FBA-11004-001-219-55,1,82.5,,0.0,0.0,0.0,
 2026-10-29,blocked,,CA,amazon,,14M00-200-00011,1,88.79,,0.0,0.0,0.0,
 2026-10-29,blocked,,CA,amazon,,FBA 10001-310-00007,1,68.08,,0.0,0.0,0.0,
 2026-10-29,blocked,,CA,amazon,,FBA- 10001-997-00015,1,68.08,,0.0,0.0,0.0,
@@ -14,3 +10,6 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-11-01,blocked,,CA,amazon,,FBA-10001-001-00001,1,68.15,,0.0,0.0,0.0,
 2026-11-01,blocked,,CA,amazon,,FBA-1K000-790-00005,1,33.58,,0.0,0.0,0.0,
 2026-11-01,blocked,,CA,amazon,,FBA_12005-310-00003,1,73.09,,0.0,0.0,0.0,
+2026-11-02,blocked,,CA,amazon,,FBA 10001-310-00007,1,68.08,,0.0,0.0,0.0,
+2026-11-02,blocked,,CA,amazon,,FBA-10000-200-419-44,1,68.96,,0.0,0.0,0.0,
+2026-11-03,blocked,,CA,amazon,,1K000-200-00012,1,33.94,Scale Umbrellas,0.74,0.484,3.05,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.579 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 2.5 (threshold 8) | Triggered by: forecast precip ≥ 0.50 in
