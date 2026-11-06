@@ -1,272 +1,4 @@
 Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Revenue,Non_Umbrella_Units,Observed_Precip_In,Is_Rainy,Verified_Match
-2026-10-30,CAN,Markham,Ontario,43.8668,-79.2663,1.4300000000000002,0,0.0,0.0,0.007874015748031496,False,False
-2026-10-30,CAN,Montreal,Quebec,45.5088,-73.5878,3.54,0,0.0,0.0,0.023622047244094488,False,False
-2026-10-30,CAN,North Vancouver,British Columbia,49.3164,-123.0693,2.77,0,0.0,0.0,0.1220472440944882,False,False
-2026-10-30,CAN,Ottawa,Ontario,45.4112,-75.6981,5.8100000000000005,0,0.0,0.0,0.16141732283464566,False,False
-2026-10-30,CAN,Paradise,Newfoundland and Labrador,47.5333,-52.9667,0.13,0,0.0,0.0,0.03937007874015748,False,False
-2026-10-30,CAN,Regina,Saskatchewan,50.4501,-104.6178,0.13,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,Saskatoon,Saskatchewan,52.1324,-106.6689,0.61,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,St. Albert,Alberta,53.6334,-113.6353,0.32,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,St. John'S,Newfoundland and Labrador,47.5649,-52.7093,0.15000000000000002,0,0.0,0.0,0.027559055118110232,False,False
-2026-10-30,CAN,Surrey,British Columbia,49.1064,-122.8251,4.27,0,0.0,0.0,0.25984251968503935,True,True
-2026-10-30,CAN,Toronto,Ontario,43.7064,-79.3986,17.83,2,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,CAN,Vancouver,British Columbia,49.2497,-123.1193,13.64,0,0.0,0.0,0.1811023622047244,False,False
-2026-10-30,CAN,Victoria,British Columbia,48.4359,-123.3516,3.2199999999999998,0,0.0,0.0,0.09842519685039369,False,False
-2026-10-30,CAN,Wainwright,Alberta,52.8348,-110.8534,0.1,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,West Baptiste,Alberta,54.7502,-113.5688,0.06,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,Winnipeg,Manitoba,49.8844,-97.147,0.6699999999999999,0,0.0,0.0,0.0,False,False
-2026-10-30,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.16999999999999998,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Aberdeen,South Dakota,45.4647,-98.4865,1.3,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Albuquerque,New Mexico,35.0845,-106.6511,45.52,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Alexandria,Virginia,38.8048,-77.0469,123.85,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Alpharetta,Georgia,34.0754,-84.2941,38.67,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Ames,Iowa,42.0347,-93.6199,6.98,0,0.0,0.0,0.2480314960629921,True,True
-2026-10-30,US,Anchorage,Alaska,61.2181,-149.9003,11.14,0,0.0,0.0,0.5196850393700787,True,True
-2026-10-30,US,Ann Arbor,Michigan,42.2776,-83.7409,40.24,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Annapolis,Maryland,38.9786,-76.4918,28.26,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Appleton,Wisconsin,44.2619,-88.4154,8.89,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Arlington,Virginia,38.881,-77.1043,88.93,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Astoria,New York,40.772,-73.9301,39.89,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Atlanta,Georgia,33.749,-84.388,175.86,3,0.0,0.0,0.0,False,False
-2026-10-30,US,Aurora,Colorado,39.7294,-104.8319,19.57,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Austin,Texas,30.2672,-97.7431,226.34,3,0.0,0.0,0.5354330708661417,True,True
-2026-10-30,US,Baltimore,Maryland,39.2904,-76.6122,54.33,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bangor,Maine,44.7988,-68.7726,4.37,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Barrington,Rhode Island,41.7407,-71.3087,11.540000000000001,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Baton Rouge,Louisiana,30.4433,-91.1875,61.01,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Beaverton,Oregon,45.4871,-122.8037,17.65,0,0.0,0.0,0.40551181102362205,True,True
-2026-10-30,US,Bellevue,Nebraska,41.1367,-95.8908,3.6,0,0.0,0.0,0.6023622047244095,True,True
-2026-10-30,US,Bellevue,Washington,47.6104,-122.2007,39.7,0,0.0,0.0,0.22440944881889766,True,True
-2026-10-30,US,Bentonville,Arkansas,36.3728,-94.2088,20.43,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Berkley,Massachusetts,41.8459,-71.0828,15.290000000000001,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bethesda,Maryland,38.9807,-77.1003,56.74,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Billings,Montana,45.7833,-108.5007,9.290000000000001,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Birmingham,Alabama,33.5207,-86.8025,54.29,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bismarck,North Dakota,46.8083,-100.7837,4.0600000000000005,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bloomfield Hills,Michigan,42.5836,-83.2455,26.51,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bloomington,Indiana,39.1653,-86.5264,21.53,0,0.0,0.0,0.007874015748031496,False,False
-2026-10-30,US,Boca Raton,Florida,26.3587,-80.0831,87.69,0,0.0,0.0,0.10236220472440945,False,False
-2026-10-30,US,Boise,Idaho,43.6135,-116.2034,24.29,0,0.0,0.0,0.08661417322834647,False,False
-2026-10-30,US,Boston,Massachusetts,42.3584,-71.0598,145.19,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bowling Green,Kentucky,36.9903,-86.4436,9.99,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Bozeman,Montana,45.6796,-111.0386,7.19,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Broken Arrow,Oklahoma,36.0526,-95.7908,12.92,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Bronx,New York,40.8499,-73.8664,66.26,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Brooklyn,New York,40.6501,-73.9496,571.86,31,0.0,0.0,0.0,False,False
-2026-10-30,US,Burlington,Vermont,44.4759,-73.2121,5.32,0,0.0,0.0,0.20078740157480313,True,True
-2026-10-30,US,Cambridge,Massachusetts,42.3751,-71.1056,52.18,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Carmel,Indiana,39.9784,-86.118,39.63,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Carson City,Nevada,39.1638,-119.7674,3.23,0,0.0,0.0,0.07874015748031496,False,False
-2026-10-30,US,Casper,Wyoming,42.8666,-106.3131,1.52,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Cedar Rapids,Iowa,42.0083,-91.6441,14.57,0,0.0,0.0,0.1377952755905512,False,False
-2026-10-30,US,Chapel Hill,North Carolina,35.9132,-79.0558,34.22,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Charleston,South Carolina,32.7763,-79.9328,47.01,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Charleston,West Virginia,38.3498,-81.6326,6.2,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Charlotte,North Carolina,35.2271,-80.8431,154.31,1,0.0,0.0,0.0,False,False
-2026-10-30,US,Chattanooga,Tennessee,35.0456,-85.3097,26.88,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Chesterfield,Missouri,38.6631,-90.5771,22.509999999999998,0,0.0,0.0,0.05905511811023622,False,False
-2026-10-30,US,Cheyenne,Wyoming,41.14,-104.8202,7.37,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Chicago,Illinois,41.85,-87.65,429.68,21,0.0,0.0,0.0,False,False
-2026-10-30,US,Cincinnati,Ohio,39.1271,-84.5144,108.57000000000001,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Cleveland,Ohio,41.4995,-81.6954,21.88,0,0.0,0.0,0.015748031496062992,False,False
-2026-10-30,US,Cody,Wyoming,44.5263,-109.0565,2.0100000000000002,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Coeur D'Alene,Idaho,47.6777,-116.7805,1.5,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Colorado Springs,Colorado,38.8339,-104.8214,42.44,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Columbia,South Carolina,34.0007,-81.0348,33.68,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Columbus,Ohio,39.9612,-82.9988,90.59,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Cordova,Alaska,60.5432,-145.7587,4.33,0,0.0,0.0,2.2874015748031495,True,True
-2026-10-30,US,Cranston,Rhode Island,41.7798,-71.4373,6.13,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Dallas,Texas,32.7831,-96.8067,219.49,3,0.0,0.0,0.0905511811023622,False,False
-2026-10-30,US,Dayton,Ohio,39.759,-84.1916,34.58,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Decatur,Georgia,33.7748,-84.2963,29.16,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Denver,Colorado,39.7392,-104.9847,82.1,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Des Moines,Iowa,41.6005,-93.6091,9.98,0,0.0,0.0,0.49999999999999994,True,True
-2026-10-30,US,Dickinson,North Dakota,46.8792,-102.7896,3.86,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Downers Grove,Illinois,41.8089,-88.0112,21.080000000000002,0,0.0,0.0,0.015748031496062992,False,False
-2026-10-30,US,Doylestown,Pennsylvania,40.3101,-75.1299,23.7,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Dublin,Ohio,40.0992,-83.1141,23.87,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Durham,North Carolina,35.994,-78.8986,32.6,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Eagle,Idaho,43.6954,-116.354,6.61,0,0.0,0.0,0.07874015748031496,False,False
-2026-10-30,US,Eagle Mountain,Utah,40.3144,-111.9849,1.92,0,0.0,0.0,0.0905511811023622,False,False
-2026-10-30,US,East Greenwich,Rhode Island,41.6604,-71.4559,5.44,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Eden Prairie,Minnesota,44.8547,-93.4708,11.97,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Edmond,Oklahoma,35.6528,-97.4781,55.58,0,0.0,0.0,0.16535433070866143,False,False
-2026-10-30,US,Eliot,Maine,43.1531,-70.8001,3.44,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Elkhorn,Nebraska,41.345,-96.256,8.56,0,0.0,0.0,0.3031496062992126,True,True
-2026-10-30,US,Essex Junction,Vermont,44.4906,-73.111,3.54,0,0.0,0.0,0.3110236220472441,True,True
-2026-10-30,US,Eugene,Oregon,44.0521,-123.0868,18.75,0,0.0,0.0,0.3346456692913386,True,True
-2026-10-30,US,Evanston,Illinois,42.0411,-87.6901,25.94,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Ewa Beach,Hawaii,21.3156,-158.0072,24.14,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Exeter,New Hampshire,42.9815,-70.9478,5.5,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Fairbanks,Alaska,64.8378,-147.7164,3.24,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fairfax,Virginia,38.8462,-77.3064,42.93,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fairfield,Connecticut,41.1412,-73.2637,22.74,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fairhope,Alabama,30.523,-87.9033,14.31,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Falmouth,Maine,43.7295,-70.242,6.13,0,0.0,0.0,0.047244094488188976,False,False
-2026-10-30,US,Fargo,North Dakota,46.8772,-96.7898,9.620000000000001,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fayetteville,Arkansas,36.0626,-94.1574,13.75,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fort Collins,Colorado,40.5853,-105.0844,20.39,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fort Wayne,Indiana,41.1306,-85.1289,29.84,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Fort Worth,Texas,32.7254,-97.3208,91.43,0,0.0,0.0,0.15354330708661418,False,False
-2026-10-30,US,Franklin,Tennessee,35.9251,-86.8689,44.02,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Gilbert,Arizona,33.3528,-111.789,19.57,0,0.0,0.0,0.41338582677165353,True,True
-2026-10-30,US,Grand Forks,North Dakota,47.9253,-97.0328,1.34,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Grand Rapids,Michigan,42.9634,-85.6681,44.17,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Great Falls,Montana,47.5002,-111.3008,4.3100000000000005,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Greenville,South Carolina,34.8526,-82.394,52.47,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Greenwich,Connecticut,41.0265,-73.6285,61.64,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Gulfport,Mississippi,30.3674,-89.0928,9.52,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Hampton,New Hampshire,42.9376,-70.8389,8.55,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Hattiesburg,Mississippi,31.3271,-89.2903,5.22,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Henderson,Nevada,36.0397,-114.9819,32.36,0,0.0,0.0,0.7086614173228346,True,True
-2026-10-30,US,Hoboken,New Jersey,40.744,-74.0324,44.269999999999996,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Honolulu,Hawaii,21.3069,-157.8583,121.95,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Houston,Texas,29.7633,-95.3633,404.9,10,0.0,0.0,0.12598425196850394,False,False
-2026-10-30,US,Huntington,West Virginia,38.4192,-82.4452,7.2700000000000005,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Huntsville,Alabama,34.7304,-86.5859,43.449999999999996,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Hurricane,West Virginia,38.4326,-82.0201,3.81,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Hyde Park,Vermont,44.5939,-72.6165,3.0,0,0.0,0.0,0.17322834645669294,False,False
-2026-10-30,US,Indianapolis,Indiana,39.7684,-86.158,70.39,0,0.0,0.0,0.031496062992125984,False,False
-2026-10-30,US,Iowa City,Iowa,41.6611,-91.5302,10.64,0,0.0,0.0,0.1496062992125984,False,False
-2026-10-30,US,Jackson,Mississippi,32.2988,-90.1848,5.85,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Jersey City,New Jersey,40.7282,-74.0776,85.64,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Jonesboro,Arkansas,35.8423,-90.7043,13.72,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Kailua,Hawaii,21.4024,-157.7405,16.92,0,0.0,0.0,0.15748031496062992,False,False
-2026-10-30,US,Kalispell,Montana,48.1958,-114.3129,5.29,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Kaneohe,Hawaii,21.3999,-157.799,15.48,0,0.0,0.0,0.15748031496062992,False,False
-2026-10-30,US,Kansas City,Missouri,39.0997,-94.5786,43.089999999999996,0,0.0,0.0,0.18503937007874016,False,False
-2026-10-30,US,Knoxville,Tennessee,35.9606,-83.9207,60.28,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Kuna,Idaho,43.4918,-116.4201,11.08,0,0.0,0.0,0.08661417322834647,False,False
-2026-10-30,US,Lafayette,Louisiana,30.2241,-92.0198,35.69,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Lake Oswego,Oregon,45.4207,-122.6706,26.33,0,0.0,0.0,0.5905511811023622,True,True
-2026-10-30,US,Lancaster,Pennsylvania,40.0379,-76.3055,26.43,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Las Cruces,New Mexico,32.3123,-106.7783,10.47,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Las Vegas,Nevada,36.175,-115.1372,88.02,0,0.0,0.0,0.5787401574803149,True,True
-2026-10-30,US,Lawrence,Kansas,38.9717,-95.2352,10.24,0,0.0,0.0,0.35826771653543305,True,True
-2026-10-30,US,Leawood,Kansas,38.9667,-94.6169,9.44,0,0.0,0.0,0.1377952755905512,False,False
-2026-10-30,US,Lennox,South Dakota,43.3541,-96.892,2.72,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Lewes,Delaware,38.7746,-75.1393,13.45,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Lexington,Kentucky,37.9887,-84.4777,52.839999999999996,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Lincoln,Nebraska,40.8,-96.667,15.39,0,0.0,0.0,0.8385826771653544,True,True
-2026-10-30,US,Little Rock,Arkansas,34.7465,-92.2896,37.4,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Littleton,Colorado,39.6133,-105.0166,23.82,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Los Alamos,New Mexico,35.8881,-106.307,4.71,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Los Angeles,California,34.0522,-118.2437,353.95,13,0.0,0.0,0.08267716535433071,False,False
-2026-10-30,US,Louisville,Kentucky,38.2542,-85.7594,76.68,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Macomb,Michigan,42.7009,-82.9591,13.65,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Madison,Alabama,34.6993,-86.7483,17.12,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Madison,Mississippi,32.4618,-90.1154,10.93,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Madison,South Dakota,44.0061,-97.114,1.81,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Madison,Wisconsin,43.073,-89.4012,30.2,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Manchester,New Hampshire,42.9956,-71.4548,12.36,0,0.0,0.0,0.007874015748031496,False,False
-2026-10-30,US,Marietta,Georgia,33.9526,-84.5499,82.28,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Memphis,Tennessee,35.1495,-90.049,46.800000000000004,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Meridian,Idaho,43.6121,-116.3915,14.39,0,0.0,0.0,0.08267716535433071,False,False
-2026-10-30,US,Mesa,Arizona,33.4223,-111.8226,20.19,0,0.0,0.0,0.5078740157480315,True,True
-2026-10-30,US,Metairie,Louisiana,29.9841,-90.1528,21.849999999999998,0,0.0,0.0,0.031496062992125984,False,False
-2026-10-30,US,Miami,Florida,25.7743,-80.1937,395.7,5,0.0,0.0,0.08267716535433071,False,False
-2026-10-30,US,Middlesboro,Kentucky,36.6084,-83.7166,3.3200000000000003,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Middletown,Delaware,39.4496,-75.7163,7.01,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Mililani,Hawaii,21.4504,-158.015,13.05,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Milwaukee,Wisconsin,43.0389,-87.9065,38.0,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Minneapolis,Minnesota,44.98,-93.2638,76.33,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Minnetonka,Minnesota,44.9133,-93.5033,9.8,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Missoula,Montana,46.8722,-113.994,4.12,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Mobile,Alabama,30.6944,-88.043,23.700000000000003,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Morgantown,West Virginia,39.6295,-79.9559,14.88,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Morristown,New Jersey,40.7968,-74.4815,29.65,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Mount Pleasant,South Carolina,32.7941,-79.8626,30.84,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Myrtle Beach,South Carolina,33.6891,-78.8867,36.0,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Naperville,Illinois,41.7859,-88.1473,44.24,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Naples,Florida,26.1423,-81.796,111.45,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Nashua,New Hampshire,42.7654,-71.4676,12.530000000000001,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Nashville,Tennessee,36.1659,-86.7844,103.58,0,0.0,0.0,0.0,False,False
-2026-10-30,US,New Canaan,Connecticut,41.1468,-73.4948,24.34,0,0.0,0.0,0.0,False,False
-2026-10-30,US,New Castle,Delaware,39.6595,-75.5636,14.43,0,0.0,0.0,0.0,False,False
-2026-10-30,US,New Orleans,Louisiana,29.9546,-90.0751,47.1,0,0.0,0.0,0.031496062992125984,False,False
-2026-10-30,US,New York,New York,40.7143,-74.006,1140.3799999999999,51,0.0,0.0,0.0,False,False
-2026-10-30,US,Newark,Delaware,39.6837,-75.7497,15.63,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Norman,Oklahoma,35.2226,-97.4395,16.71,0,0.0,0.0,0.3228346456692913,True,True
-2026-10-30,US,North Las Vegas,Nevada,36.1989,-115.1175,3.06,0,0.0,0.0,0.5787401574803149,True,True
-2026-10-30,US,Norwalk,Connecticut,41.1176,-73.4079,19.91,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Oakland,California,37.8044,-122.2708,97.68,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Oklahoma City,Oklahoma,35.4676,-97.5164,33.59,0,0.0,0.0,0.1811023622047244,False,False
-2026-10-30,US,Olathe,Kansas,38.8814,-94.8191,16.88,0,0.0,0.0,0.18503937007874016,False,False
-2026-10-30,US,Omaha,Nebraska,41.2563,-95.9404,34.0,0,0.0,0.0,0.7007874015748031,True,True
-2026-10-30,US,Orlando,Florida,28.5383,-81.3792,142.6,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Overland Park,Kansas,38.9822,-94.6708,31.74,0,0.0,0.0,0.17716535433070865,False,False
-2026-10-30,US,Paducah,Kentucky,37.0834,-88.6,12.16,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Papillion,Nebraska,41.1544,-96.0422,5.46,0,0.0,0.0,0.9724409448818897,True,True
-2026-10-30,US,Park City,Utah,40.6461,-111.498,10.61,0,0.0,0.0,0.08267716535433071,False,False
-2026-10-30,US,Philadelphia,Pennsylvania,39.9524,-75.1636,159.54999999999998,3,0.0,0.0,0.0,False,False
-2026-10-30,US,Phoenix,Arizona,33.4484,-112.074,67.14,0,0.0,0.0,0.5944881889763779,True,True
-2026-10-30,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,99.24,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Plymouth,Michigan,42.3714,-83.4702,15.83,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Plymouth,Minnesota,45.0105,-93.4555,17.73,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Portland,Maine,43.6574,-70.2589,13.27,0,0.0,0.0,0.14173228346456693,False,False
-2026-10-30,US,Portland,Oregon,45.5234,-122.6762,149.47,1,0.0,0.0,0.39370078740157477,True,True
-2026-10-30,US,Portsmouth,New Hampshire,43.077,-70.7577,7.55,0,0.0,0.0,0.011811023622047244,False,False
-2026-10-30,US,Princeton,New Jersey,40.3487,-74.659,22.14,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Providence,Rhode Island,41.824,-71.4128,21.59,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Raleigh,North Carolina,35.7721,-78.6386,98.32,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Rapid City,South Dakota,44.0805,-103.231,4.67,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Reading,Massachusetts,42.5256,-71.0953,138.86,6,0.0,0.0,0.0,False,False
-2026-10-30,US,Reno,Nevada,39.5296,-119.8138,28.9,0,0.0,0.0,0.05905511811023622,False,False
-2026-10-30,US,Richmond,Virginia,37.5538,-77.4603,68.86,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Rock Springs,Wyoming,41.5875,-109.2029,4.7700000000000005,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Rockville,Maryland,39.084,-77.1528,30.07,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Rogers,Arkansas,36.332,-94.1185,14.95,0,0.0,0.0,0.003937007874015748,False,False
-2026-10-30,US,Saint Charles,Missouri,38.7839,-90.4812,16.39,0,0.0,0.0,0.023622047244094488,False,False
-2026-10-30,US,Saint Louis,Missouri,38.6517,-90.2053,73.55,0,0.0,0.0,0.023622047244094488,False,False
-2026-10-30,US,Saint Paul,Minnesota,44.9444,-93.0933,38.51,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Salem,Oregon,44.9429,-123.0351,15.4,0,0.0,0.0,0.34251968503937,True,True
-2026-10-30,US,Salt Lake City,Utah,40.7608,-111.891,24.77,0,0.0,0.0,0.07086614173228346,False,False
-2026-10-30,US,San Antonio,Texas,29.4241,-98.4936,112.05,0,0.0,0.0,0.952755905511811,True,True
-2026-10-30,US,San Diego,California,32.7157,-117.1647,180.69,3,0.0,0.0,0.1062992125984252,False,False
-2026-10-30,US,San Francisco,California,37.7749,-122.4194,364.52,12,0.0,0.0,0.0,False,False
-2026-10-30,US,San Jose,California,37.3394,-121.895,143.2,3,0.0,0.0,0.027559055118110232,False,False
-2026-10-30,US,Sandy,Utah,40.5916,-111.8841,8.58,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Santa Fe,New Mexico,35.687,-105.9378,14.82,0,0.0,0.0,0.015748031496062992,False,False
-2026-10-30,US,Savannah,Georgia,32.0835,-81.0998,46.74,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Scarborough,Maine,43.5781,-70.3217,8.8,0,0.0,0.0,0.1062992125984252,False,False
-2026-10-30,US,Scottsdale,Arizona,33.5092,-111.899,54.66,0,0.0,0.0,0.5433070866141733,True,True
-2026-10-30,US,Seattle,Washington,47.6062,-122.3321,225.04,5,0.0,0.0,0.4330708661417323,True,True
-2026-10-30,US,Sheridan,Wyoming,44.7972,-106.9562,6.06,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Shreveport,Louisiana,32.5251,-93.7502,42.44,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Silver Spring,Maryland,38.9907,-77.0261,32.24,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Sioux Falls,South Dakota,43.55,-96.7003,8.88,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Sitka,Alaska,57.0532,-135.3309,2.32,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Somerville,Massachusetts,42.3876,-71.0995,26.740000000000002,0,0.0,0.0,0.0,False,False
-2026-10-30,US,South Burlington,Vermont,44.467,-73.171,6.8,0,0.0,0.0,0.20078740157480313,True,True
-2026-10-30,US,South Jordan,Utah,40.5622,-111.9297,13.31,0,0.0,0.0,0.051181102362204724,False,False
-2026-10-30,US,Southaven,Mississippi,34.989,-90.0126,6.16,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Spokane,Washington,47.6569,-117.425,14.14,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Springfield,Missouri,37.2153,-93.2982,16.53,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Stamford,Connecticut,41.0534,-73.5387,23.72,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Staten Island,New York,40.5623,-74.1399,72.7,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Stowe,Vermont,44.4653,-72.6846,4.73,0,0.0,0.0,0.15354330708661418,False,False
-2026-10-30,US,Tacoma,Washington,47.2529,-122.4443,32.66,0,0.0,0.0,0.547244094488189,True,True
-2026-10-30,US,Tampa,Florida,27.9475,-82.4584,101.73,0,0.0,0.0,0.043307086614173235,False,False
-2026-10-30,US,Tijeras,New Mexico,35.0809,-106.3881,4.23,0,0.0,0.0,0.007874015748031496,False,False
-2026-10-30,US,Tucson,Arizona,32.2217,-110.9265,58.8,0,0.0,0.0,0.05905511811023622,False,False
-2026-10-30,US,Tulsa,Oklahoma,36.154,-95.9928,65.83,0,0.0,0.0,0.1062992125984252,False,False
-2026-10-30,US,Vancouver,Washington,45.6387,-122.6615,39.75,0,0.0,0.0,0.3661417322834646,True,True
-2026-10-30,US,Virginia Beach,Virginia,36.8529,-75.978,69.94,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Warwick,Rhode Island,41.7001,-71.4162,6.84,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Washington,District of Columbia,38.8951,-77.0364,257.4,5,0.0,0.0,0.0,False,False
-2026-10-30,US,Wasilla,Alaska,61.5809,-149.4415,1.48,0,0.0,0.0,0.4763779527559055,True,True
-2026-10-30,US,Waukesha,Wisconsin,43.0117,-88.2315,9.64,0,0.0,0.0,0.0,False,False
-2026-10-30,US,West Chester,Pennsylvania,39.961,-75.608,25.650000000000002,0,0.0,0.0,0.0,False,False
-2026-10-30,US,West Des Moines,Iowa,41.5772,-93.7113,8.06,0,0.0,0.0,0.5236220472440946,True,True
-2026-10-30,US,West Fargo,North Dakota,46.875,-96.9004,5.75,0,0.0,0.0,0.0,False,False
-2026-10-30,US,West Lafayette,Indiana,40.4259,-86.9081,13.39,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Westfield,New Jersey,40.659,-74.3474,27.15,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Wheeling,West Virginia,40.064,-80.7209,8.39,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,9.81,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Wichita,Kansas,37.6922,-97.3375,34.04,0,0.0,0.0,0.043307086614173235,False,False
-2026-10-30,US,Wilmette,Illinois,42.0722,-87.7228,24.02,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Wilmington,Delaware,39.746,-75.5466,40.55,0,0.0,0.0,0.0,False,False
-2026-10-30,US,Wilmington,North Carolina,34.2356,-77.946,45.93,0,0.0,0.0,0.0,False,False
 2026-10-31,UK,Aberdare,Wales,51.7144,-3.4492,2.0300000000000002,0,0.0,0.0,0.0,False,False
 2026-10-31,UK,Aberdeen,Scotland,57.1437,-2.0981,2.13,0,0.0,0.0,0.0,False,False
 2026-10-31,UK,Aboyne,Scotland,57.0755,-2.7802,0.8300000000000001,0,0.0,0.0,0.011811023622047244,False,False
@@ -546,7 +278,22 @@ Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Reve
 2026-10-31,US,Wilmette,Illinois,42.0722,-87.7228,21.84,0,0.13,0.0,0.007874015748031496,False,False
 2026-10-31,US,Wilmington,Delaware,39.746,-75.5466,36.89,0,0.22,0.0,0.0,False,False
 2026-10-31,US,Wilmington,North Carolina,34.2356,-77.946,41.77,0,0.25,0.0,0.0,False,False
+2026-11-01,CAN,Blainville,Quebec,45.6668,-73.8825,1.33,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Brossard,Quebec,45.4501,-73.4658,0.96,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Burnaby,British Columbia,49.2664,-122.9526,12.45,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Calgary,Alberta,51.0501,-114.0853,20.33,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,0.81,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.39,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Dieppe,New Brunswick,46.0784,-64.6874,1.5,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Dorval,Quebec,45.4473,-73.7534,0.9,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Edmonton,Alberta,53.5501,-113.4687,8.73,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.46,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Guelph,Ontario,43.5459,-80.256,3.67,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Halifax,Nova Scotia,44.6427,-63.5769,2.92,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Headingley,Manitoba,49.8753,-97.409,0.4,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-01,CAN,Kingston,Ontario,44.2298,-76.481,2.56,0,0.0,0.0,0.0,False,False
 2026-11-01,CAN,Markham,Ontario,43.8668,-79.2663,4.84,0,0.0,0.0,0.0,False,False
+2026-11-01,CAN,Moncton,New Brunswick,46.0945,-64.7965,0.72,0,0.0,0.0,0.0,False,False
 2026-11-01,CAN,Montreal,Quebec,45.5088,-73.5878,11.94,0,0.0,0.0,0.0,False,False
 2026-11-01,CAN,North Vancouver,British Columbia,49.3164,-123.0693,9.34,0,0.0,0.0,0.0,False,False
 2026-11-01,CAN,Ottawa,Ontario,45.4112,-75.6981,19.58,0,0.0,0.0,0.0,False,False
@@ -842,7 +589,22 @@ Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Reve
 2026-11-01,US,Wilmette,Illinois,42.0722,-87.7228,41.71,0,0.0,0.0,0.0,False,False
 2026-11-01,US,Wilmington,Delaware,39.746,-75.5466,70.32,0,0.0,0.0,0.0,False,False
 2026-11-01,US,Wilmington,North Carolina,34.2356,-77.946,79.66,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Blainville,Quebec,45.6668,-73.8825,0.75,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-02,CAN,Brossard,Quebec,45.4501,-73.4658,0.54,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-02,CAN,Burnaby,British Columbia,49.2664,-122.9526,7.03,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Calgary,Alberta,51.0501,-114.0853,11.469999999999999,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,0.46,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.22,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Dieppe,New Brunswick,46.0784,-64.6874,0.85,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Dorval,Quebec,45.4473,-73.7534,0.51,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-02,CAN,Edmonton,Alberta,53.5501,-113.4687,4.92,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.26,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Guelph,Ontario,43.5459,-80.256,2.0700000000000003,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Halifax,Nova Scotia,44.6427,-63.5769,1.65,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Headingley,Manitoba,49.8753,-97.409,0.22,0,0.0,0.0,0.37401574803149606,True,True
+2026-11-02,CAN,Kingston,Ontario,44.2298,-76.481,1.45,0,0.0,0.0,0.0,False,False
 2026-11-02,CAN,Markham,Ontario,43.8668,-79.2663,2.7300000000000004,0,0.0,0.0,0.0,False,False
+2026-11-02,CAN,Moncton,New Brunswick,46.0945,-64.7965,0.41000000000000003,0,0.0,0.0,0.0,False,False
 2026-11-02,CAN,Montreal,Quebec,45.5088,-73.5878,6.73,0,0.0,0.0,0.007874015748031496,False,False
 2026-11-02,CAN,North Vancouver,British Columbia,49.3164,-123.0693,5.27,0,0.0,0.0,0.0,False,False
 2026-11-02,CAN,Ottawa,Ontario,45.4112,-75.6981,11.05,0,0.0,0.0,0.0,False,False
@@ -1110,7 +872,22 @@ Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Reve
 2026-11-02,US,Wilmette,Illinois,42.0722,-87.7228,30.220000000000002,0,0.0,0.0,0.007874015748031496,False,False
 2026-11-02,US,Wilmington,Delaware,39.746,-75.5466,51.06,0,0.0,0.0,0.0,False,False
 2026-11-02,US,Wilmington,North Carolina,34.2356,-77.946,57.76,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,CAN,Blainville,Quebec,45.6668,-73.8825,0.56,0,0.0,0.0,0.16929133858267714,False,False
+2026-11-03,CAN,Brossard,Quebec,45.4501,-73.4658,0.41000000000000003,0,0.0,0.0,0.1062992125984252,False,False
+2026-11-03,CAN,Burnaby,British Columbia,49.2664,-122.9526,5.23,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,CAN,Calgary,Alberta,51.0501,-114.0853,8.530000000000001,0,0.0,0.0,0.0,False,False
+2026-11-03,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,0.34,0,0.0,0.0,0.12598425196850394,False,False
+2026-11-03,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.16,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,CAN,Dieppe,New Brunswick,46.0784,-64.6874,0.63,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-03,CAN,Dorval,Quebec,45.4473,-73.7534,0.38,0,0.0,0.0,0.1456692913385827,False,False
+2026-11-03,CAN,Edmonton,Alberta,53.5501,-113.4687,3.66,0,0.0,0.0,0.0,False,False
+2026-11-03,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.19,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-03,CAN,Guelph,Ontario,43.5459,-80.256,1.54,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-03,CAN,Halifax,Nova Scotia,44.6427,-63.5769,1.23,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,CAN,Headingley,Manitoba,49.8753,-97.409,0.16999999999999998,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-03,CAN,Kingston,Ontario,44.2298,-76.481,1.08,0,0.0,0.0,0.043307086614173235,False,False
 2026-11-03,CAN,Markham,Ontario,43.8668,-79.2663,2.02,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-03,CAN,Moncton,New Brunswick,46.0945,-64.7965,0.30000000000000004,0,0.0,0.0,0.01968503937007874,False,False
 2026-11-03,CAN,Montreal,Quebec,45.5088,-73.5878,5.01,0,0.0,0.0,0.14173228346456693,False,False
 2026-11-03,CAN,North Vancouver,British Columbia,49.3164,-123.0693,3.93,0,0.0,0.0,0.0,False,False
 2026-11-03,CAN,Ottawa,Ontario,45.4112,-75.6981,8.22,0,0.0,0.0,0.25984251968503935,True,True
@@ -1127,258 +904,273 @@ Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Reve
 2026-11-03,CAN,West Baptiste,Alberta,54.7502,-113.5688,0.08,0,0.0,0.0,0.0,False,False
 2026-11-03,CAN,Winnipeg,Manitoba,49.8844,-97.147,0.94,0,0.0,0.0,0.06692913385826771,False,False
 2026-11-03,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.22999999999999998,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Aberdeen,South Dakota,45.4647,-98.4865,1.79,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-03,US,Albuquerque,New Mexico,35.0845,-106.6511,64.99,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Alexandria,Virginia,38.8048,-77.0469,176.88,2,0.0,0.0,0.0,False,False
-2026-11-03,US,Alpharetta,Georgia,34.0754,-84.2941,55.33,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Ames,Iowa,42.0347,-93.6199,9.97,0,0.0,0.0,1.3346456692913384,True,True
-2026-11-03,US,Anchorage,Alaska,61.2181,-149.9003,15.93,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Ann Arbor,Michigan,42.2776,-83.7409,57.53,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Annapolis,Maryland,38.9786,-76.4918,40.32,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Appleton,Wisconsin,44.2619,-88.4154,12.63,0,0.0,0.0,0.5826771653543308,True,True
-2026-11-03,US,Arlington,Virginia,38.881,-77.1043,127.02,2,0.0,0.0,0.0,False,False
-2026-11-03,US,Astoria,New York,40.772,-73.9301,57.03,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Atlanta,Georgia,33.749,-84.388,251.14,3,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Aurora,Colorado,39.7294,-104.8319,28.02,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-03,US,Austin,Texas,30.2672,-97.7431,323.12,4,0.0,0.0,0.8346456692913385,True,True
-2026-11-03,US,Baltimore,Maryland,39.2904,-76.6122,77.45,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Aberdeen,South Dakota,45.4647,-98.4865,1.77,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-03,US,Albuquerque,New Mexico,35.0845,-106.6511,64.92,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Alexandria,Virginia,38.8048,-77.0469,176.69,2,0.0,0.0,0.0,False,False
+2026-11-03,US,Alpharetta,Georgia,34.0754,-84.2941,55.26,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Ames,Iowa,42.0347,-93.6199,9.95,0,0.0,0.0,1.3346456692913384,True,True
+2026-11-03,US,Anchorage,Alaska,61.2181,-149.9003,15.92,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Ann Arbor,Michigan,42.2776,-83.7409,57.47,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Annapolis,Maryland,38.9786,-76.4918,40.28,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Appleton,Wisconsin,44.2619,-88.4154,12.62,0,0.0,0.0,0.5826771653543308,True,True
+2026-11-03,US,Arlington,Virginia,38.881,-77.1043,126.88,2,0.0,0.0,0.0,False,False
+2026-11-03,US,Astoria,New York,40.772,-73.9301,56.96,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Atlanta,Georgia,33.749,-84.388,250.87,3,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Aurora,Colorado,39.7294,-104.8319,27.98,0,0.0,0.0,0.11417322834645668,False,False
+2026-11-03,US,Austin,Texas,30.2672,-97.7431,322.77,4,0.0,0.0,0.8346456692913385,True,True
+2026-11-03,US,Baltimore,Maryland,39.2904,-76.6122,77.36,0,0.0,0.0,0.0,False,False
 2026-11-03,US,Bangor,Maine,44.7988,-68.7726,6.19,0,0.0,0.0,0.09842519685039369,False,False
-2026-11-03,US,Barrington,Rhode Island,41.7407,-71.3087,16.4,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Baton Rouge,Louisiana,30.4433,-91.1875,86.99,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Beaverton,Oregon,45.4871,-122.8037,25.19,0,0.0,0.0,0.03543307086614173,False,False
-2026-11-03,US,Bellevue,Nebraska,41.1367,-95.8908,5.17,0,0.0,0.0,1.279527559055118,True,True
-2026-11-03,US,Bellevue,Washington,47.6104,-122.2007,56.79,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Bentonville,Arkansas,36.3728,-94.2088,29.22,0,0.0,0.0,0.6614173228346457,True,True
-2026-11-03,US,Berkley,Massachusetts,41.8459,-71.0828,21.84,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Bethesda,Maryland,38.9807,-77.1003,81.0,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Billings,Montana,45.7833,-108.5007,13.25,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Birmingham,Alabama,33.5207,-86.8025,77.53,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Barrington,Rhode Island,41.7407,-71.3087,16.38,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Baton Rouge,Louisiana,30.4433,-91.1875,86.9,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Beaverton,Oregon,45.4871,-122.8037,25.17,0,0.0,0.0,0.03543307086614173,False,False
+2026-11-03,US,Bellevue,Nebraska,41.1367,-95.8908,5.16,0,0.0,0.0,1.279527559055118,True,True
+2026-11-03,US,Bellevue,Washington,47.6104,-122.2007,56.73,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Bentonville,Arkansas,36.3728,-94.2088,29.19,0,0.0,0.0,0.6614173228346457,True,True
+2026-11-03,US,Berkley,Massachusetts,41.8459,-71.0828,21.81,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Bethesda,Maryland,38.9807,-77.1003,80.91,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Billings,Montana,45.7833,-108.5007,13.24,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Birmingham,Alabama,33.5207,-86.8025,77.46000000000001,0,0.0,0.0,0.0,False,False
 2026-11-03,US,Bismarck,North Dakota,46.8083,-100.7837,5.74,0,0.0,0.0,0.043307086614173235,False,False
-2026-11-03,US,Bloomfield Hills,Michigan,42.5836,-83.2455,37.769999999999996,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Bloomington,Indiana,39.1653,-86.5264,30.73,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Boca Raton,Florida,26.3587,-80.0831,125.17,0,0.0,0.0,1.0118110236220472,True,True
-2026-11-03,US,Boise,Idaho,43.6135,-116.2034,34.7,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Boston,Massachusetts,42.3584,-71.0598,207.36,2,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Bowling Green,Kentucky,36.9903,-86.4436,14.290000000000001,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Bloomfield Hills,Michigan,42.5836,-83.2455,37.73,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Bloomington,Indiana,39.1653,-86.5264,30.69,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Boca Raton,Florida,26.3587,-80.0831,125.03,0,0.0,0.0,1.0118110236220472,True,True
+2026-11-03,US,Boise,Idaho,43.6135,-116.2034,34.660000000000004,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Boston,Massachusetts,42.3584,-71.0598,207.14,2,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Bowling Green,Kentucky,36.9903,-86.4436,14.27,0,0.0,0.0,0.0,False,False
 2026-11-03,US,Bozeman,Montana,45.6796,-111.0386,10.28,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Broken Arrow,Oklahoma,36.0526,-95.7908,18.42,0,0.0,0.0,0.7283464566929134,True,True
-2026-11-03,US,Bronx,New York,40.8499,-73.8664,94.67,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Brooklyn,New York,40.6501,-73.9496,816.6,40,0.0,0.0,0.0,False,False
-2026-11-03,US,Burlington,Vermont,44.4759,-73.2121,7.57,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,Cambridge,Massachusetts,42.3751,-71.1056,74.46,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Carmel,Indiana,39.9784,-86.118,56.660000000000004,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Broken Arrow,Oklahoma,36.0526,-95.7908,18.4,0,0.0,0.0,0.7283464566929134,True,True
+2026-11-03,US,Bronx,New York,40.8499,-73.8664,94.58,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Brooklyn,New York,40.6501,-73.9496,815.71,40,0.0,0.0,0.0,False,False
+2026-11-03,US,Burlington,Vermont,44.4759,-73.2121,7.56,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-03,US,Cambridge,Massachusetts,42.3751,-71.1056,74.37,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Carmel,Indiana,39.9784,-86.118,56.6,0,0.0,0.0,0.003937007874015748,False,False
 2026-11-03,US,Carson City,Nevada,39.1638,-119.7674,4.61,0,0.0,0.0,0.03937007874015748,False,False
 2026-11-03,US,Casper,Wyoming,42.8666,-106.3131,2.19,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,Cedar Rapids,Iowa,42.0083,-91.6441,20.77,0,0.0,0.0,0.8385826771653544,True,True
-2026-11-03,US,Chapel Hill,North Carolina,35.9132,-79.0558,48.82,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Charleston,South Carolina,32.7763,-79.9328,67.17,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Charleston,West Virginia,38.3498,-81.6326,8.83,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Charlotte,North Carolina,35.2271,-80.8431,220.34,2,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Chattanooga,Tennessee,35.0456,-85.3097,38.35,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Chesterfield,Missouri,38.6631,-90.5771,32.2,0,0.0,0.0,0.6614173228346457,True,True
-2026-11-03,US,Cheyenne,Wyoming,41.14,-104.8202,10.49,0,0.0,0.0,0.22047244094488186,True,True
-2026-11-03,US,Chicago,Illinois,41.85,-87.65,613.6,28,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Cincinnati,Ohio,39.1271,-84.5144,154.93,1,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Cleveland,Ohio,41.4995,-81.6954,31.33,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-03,US,Cody,Wyoming,44.5263,-109.0565,2.88,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Cedar Rapids,Iowa,42.0083,-91.6441,20.740000000000002,0,0.0,0.0,0.8385826771653544,True,True
+2026-11-03,US,Chapel Hill,North Carolina,35.9132,-79.0558,48.77,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Charleston,South Carolina,32.7763,-79.9328,67.09,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Charleston,West Virginia,38.3498,-81.6326,8.82,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Charlotte,North Carolina,35.2271,-80.8431,220.10999999999999,2,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Chattanooga,Tennessee,35.0456,-85.3097,38.3,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Chesterfield,Missouri,38.6631,-90.5771,32.18,0,0.0,0.0,0.6614173228346457,True,True
+2026-11-03,US,Cheyenne,Wyoming,41.14,-104.8202,10.48,0,0.0,0.0,0.22047244094488186,True,True
+2026-11-03,US,Chicago,Illinois,41.85,-87.65,612.93,28,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Cincinnati,Ohio,39.1271,-84.5144,154.77,1,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Cleveland,Ohio,41.4995,-81.6954,31.29,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-03,US,Cody,Wyoming,44.5263,-109.0565,2.87,0,0.0,0.0,0.0,False,False
 2026-11-03,US,Coeur D'Alene,Idaho,47.6777,-116.7805,2.16,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Colorado Springs,Colorado,38.8339,-104.8214,60.64,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Columbia,South Carolina,34.0007,-81.0348,48.12,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Columbus,Ohio,39.9612,-82.9988,129.35,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Colorado Springs,Colorado,38.8339,-104.8214,60.57,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Columbia,South Carolina,34.0007,-81.0348,48.07,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Columbus,Ohio,39.9612,-82.9988,129.19,0,0.0,0.0,0.007874015748031496,False,False
 2026-11-03,US,Cordova,Alaska,60.5432,-145.7587,6.140000000000001,0,0.0,0.0,0.09448818897637795,False,False
-2026-11-03,US,Cranston,Rhode Island,41.7798,-71.4373,8.66,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Dallas,Texas,32.7831,-96.8067,313.51,4,0.0,0.0,0.9645669291338582,True,True
-2026-11-03,US,Dayton,Ohio,39.759,-84.1916,49.37,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Decatur,Georgia,33.7748,-84.2963,41.65,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-03,US,Denver,Colorado,39.7392,-104.9847,117.22,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,Des Moines,Iowa,41.6005,-93.6091,14.18,0,0.0,0.0,1.3503937007874014,True,True
-2026-11-03,US,Dickinson,North Dakota,46.8792,-102.7896,5.5,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Downers Grove,Illinois,41.8089,-88.0112,30.2,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-03,US,Doylestown,Pennsylvania,40.3101,-75.1299,33.83,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Dublin,Ohio,40.0992,-83.1141,34.04,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-03,US,Durham,North Carolina,35.994,-78.8986,46.53,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Eagle,Idaho,43.6954,-116.354,9.45,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Cranston,Rhode Island,41.7798,-71.4373,8.65,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Dallas,Texas,32.7831,-96.8067,313.17,4,0.0,0.0,0.9645669291338582,True,True
+2026-11-03,US,Dayton,Ohio,39.759,-84.1916,49.32,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Decatur,Georgia,33.7748,-84.2963,41.6,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-03,US,Denver,Colorado,39.7392,-104.9847,117.08,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-03,US,Des Moines,Iowa,41.6005,-93.6091,14.17,0,0.0,0.0,1.3503937007874014,True,True
+2026-11-03,US,Dickinson,North Dakota,46.8792,-102.7896,5.49,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Downers Grove,Illinois,41.8089,-88.0112,30.16,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-03,US,Doylestown,Pennsylvania,40.3101,-75.1299,33.79,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Dublin,Ohio,40.0992,-83.1141,34.01,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-03,US,Durham,North Carolina,35.994,-78.8986,46.48,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Eagle,Idaho,43.6954,-116.354,9.44,0,0.0,0.0,0.003937007874015748,False,False
 2026-11-03,US,Eagle Mountain,Utah,40.3144,-111.9849,2.7,0,0.0,0.0,0.0,False,False
-2026-11-03,US,East Greenwich,Rhode Island,41.6604,-71.4559,7.72,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Eden Prairie,Minnesota,44.8547,-93.4708,17.04,0,0.0,0.0,0.8503937007874016,True,True
-2026-11-03,US,Edmond,Oklahoma,35.6528,-97.4781,79.37,0,0.0,0.0,0.3622047244094488,True,True
+2026-11-03,US,East Greenwich,Rhode Island,41.6604,-71.4559,7.7,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Eden Prairie,Minnesota,44.8547,-93.4708,17.02,0,0.0,0.0,0.8503937007874016,True,True
+2026-11-03,US,Edmond,Oklahoma,35.6528,-97.4781,79.28,0,0.0,0.0,0.3622047244094488,True,True
 2026-11-03,US,Eliot,Maine,43.1531,-70.8001,4.83,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Elkhorn,Nebraska,41.345,-96.256,12.21,0,0.0,0.0,1.2007874015748032,True,True
+2026-11-03,US,Elkhorn,Nebraska,41.345,-96.256,12.200000000000001,0,0.0,0.0,1.2007874015748032,True,True
 2026-11-03,US,Essex Junction,Vermont,44.4906,-73.111,5.02,0,0.0,0.0,0.0748031496062992,False,False
-2026-11-03,US,Eugene,Oregon,44.0521,-123.0868,26.79,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Evanston,Illinois,42.0411,-87.6901,37.08,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Ewa Beach,Hawaii,21.3156,-158.0072,34.47,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Exeter,New Hampshire,42.9815,-70.9478,7.78,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-03,US,Eugene,Oregon,44.0521,-123.0868,26.75,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Evanston,Illinois,42.0411,-87.6901,37.04,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Ewa Beach,Hawaii,21.3156,-158.0072,34.43,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Exeter,New Hampshire,42.9815,-70.9478,7.7700000000000005,0,0.0,0.0,0.06692913385826771,False,False
 2026-11-03,US,Fairbanks,Alaska,64.8378,-147.7164,4.57,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Fairfax,Virginia,38.8462,-77.3064,61.31,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Fairfield,Connecticut,41.1412,-73.2637,32.55,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Fairhope,Alabama,30.523,-87.9033,20.52,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,Falmouth,Maine,43.7295,-70.242,8.66,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Fargo,North Dakota,46.8772,-96.7898,13.69,0,0.0,0.0,0.07086614173228346,False,False
-2026-11-03,US,Fayetteville,Arkansas,36.0626,-94.1574,19.759999999999998,0,0.0,0.0,0.7716535433070867,True,True
-2026-11-03,US,Fort Collins,Colorado,40.5853,-105.0844,29.12,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Fort Wayne,Indiana,41.1306,-85.1289,42.58,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Fort Worth,Texas,32.7254,-97.3208,130.58,0,0.0,0.0,1.031496062992126,True,True
-2026-11-03,US,Franklin,Tennessee,35.9251,-86.8689,62.879999999999995,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Gilbert,Arizona,33.3528,-111.789,28.009999999999998,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Grand Forks,North Dakota,47.9253,-97.0328,1.86,0,0.0,0.0,0.1456692913385827,False,False
-2026-11-03,US,Grand Rapids,Michigan,42.9634,-85.6681,63.04,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-03,US,Fairfax,Virginia,38.8462,-77.3064,61.24,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Fairfield,Connecticut,41.1412,-73.2637,32.51,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Fairhope,Alabama,30.523,-87.9033,20.5,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-03,US,Falmouth,Maine,43.7295,-70.242,8.65,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Fargo,North Dakota,46.8772,-96.7898,13.67,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-03,US,Fayetteville,Arkansas,36.0626,-94.1574,19.74,0,0.0,0.0,0.7716535433070867,True,True
+2026-11-03,US,Fort Collins,Colorado,40.5853,-105.0844,29.08,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Fort Wayne,Indiana,41.1306,-85.1289,42.53,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Fort Worth,Texas,32.7254,-97.3208,130.43,0,0.0,0.0,1.031496062992126,True,True
+2026-11-03,US,Franklin,Tennessee,35.9251,-86.8689,62.809999999999995,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Gilbert,Arizona,33.3528,-111.789,27.97,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Grand Forks,North Dakota,47.9253,-97.0328,1.85,0,0.0,0.0,0.1456692913385827,False,False
+2026-11-03,US,Grand Rapids,Michigan,42.9634,-85.6681,62.97,0,0.0,0.0,0.01968503937007874,False,False
 2026-11-03,US,Great Falls,Montana,47.5002,-111.3008,6.11,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Greenville,South Carolina,34.8526,-82.394,74.95,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Greenwich,Connecticut,41.0265,-73.6285,87.95,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Gulfport,Mississippi,30.3674,-89.0928,13.55,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Hampton,New Hampshire,42.9376,-70.8389,12.16,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Hattiesburg,Mississippi,31.3271,-89.2903,7.49,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-03,US,Henderson,Nevada,36.0397,-114.9819,46.22,2,0.0,0.0,0.0,False,False
-2026-11-03,US,Hoboken,New Jersey,40.744,-74.0324,63.17,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Honolulu,Hawaii,21.3069,-157.8583,174.17,2,0.0,0.0,0.03937007874015748,False,False
-2026-11-03,US,Houston,Texas,29.7633,-95.3633,578.1899999999999,12,0.0,0.0,0.20078740157480313,True,True
-2026-11-03,US,Huntington,West Virginia,38.4192,-82.4452,10.4,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Huntsville,Alabama,34.7304,-86.5859,62.01,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Hurricane,West Virginia,38.4326,-82.0201,5.390000000000001,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Hyde Park,Vermont,44.5939,-72.6165,4.29,0,0.0,0.0,0.06692913385826771,False,False
-2026-11-03,US,Indianapolis,Indiana,39.7684,-86.158,100.47,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Iowa City,Iowa,41.6611,-91.5302,15.17,0,0.0,0.0,0.7480314960629921,True,True
+2026-11-03,US,Greenville,South Carolina,34.8526,-82.394,74.86,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Greenwich,Connecticut,41.0265,-73.6285,87.86,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Gulfport,Mississippi,30.3674,-89.0928,13.53,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Hampton,New Hampshire,42.9376,-70.8389,12.15,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Hattiesburg,Mississippi,31.3271,-89.2903,7.48,0,0.0,0.0,0.03937007874015748,False,False
+2026-11-03,US,Henderson,Nevada,36.0397,-114.9819,46.17,2,0.0,0.0,0.0,False,False
+2026-11-03,US,Hoboken,New Jersey,40.744,-74.0324,63.11,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Honolulu,Hawaii,21.3069,-157.8583,173.98,2,0.0,0.0,0.03937007874015748,False,False
+2026-11-03,US,Houston,Texas,29.7633,-95.3633,577.55,12,0.0,0.0,0.20078740157480313,True,True
+2026-11-03,US,Huntington,West Virginia,38.4192,-82.4452,10.39,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Huntsville,Alabama,34.7304,-86.5859,61.95,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Hurricane,West Virginia,38.4326,-82.0201,5.38,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Hyde Park,Vermont,44.5939,-72.6165,4.28,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-03,US,Indianapolis,Indiana,39.7684,-86.158,100.37,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Iowa City,Iowa,41.6611,-91.5302,15.15,0,0.0,0.0,0.7480314960629921,True,True
 2026-11-03,US,Jackson,Mississippi,32.2988,-90.1848,8.32,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Jersey City,New Jersey,40.7282,-74.0776,122.28,2,0.0,0.0,0.0,False,False
-2026-11-03,US,Jonesboro,Arkansas,35.8423,-90.7043,19.72,0,0.0,0.0,0.25984251968503935,True,True
-2026-11-03,US,Kailua,Hawaii,21.4024,-157.7405,24.18,0,0.0,0.0,0.1456692913385827,False,False
-2026-11-03,US,Kalispell,Montana,48.1958,-114.3129,7.51,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Kaneohe,Hawaii,21.3999,-157.799,22.23,0,0.0,0.0,0.1456692913385827,False,False
-2026-11-03,US,Kansas City,Missouri,39.0997,-94.5786,61.54,0,0.0,0.0,1.8622047244094486,True,True
-2026-11-03,US,Knoxville,Tennessee,35.9606,-83.9207,86.13,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Kuna,Idaho,43.4918,-116.4201,15.84,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Lafayette,Louisiana,30.2241,-92.0198,50.97,0,0.0,0.0,0.07874015748031496,False,False
-2026-11-03,US,Lake Oswego,Oregon,45.4207,-122.6706,37.65,0,0.0,0.0,0.043307086614173235,False,False
-2026-11-03,US,Lancaster,Pennsylvania,40.0379,-76.3055,37.69,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Las Cruces,New Mexico,32.3123,-106.7783,14.86,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Las Vegas,Nevada,36.175,-115.1372,125.6,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Lawrence,Kansas,38.9717,-95.2352,14.57,0,0.0,0.0,1.590551181102362,True,True
-2026-11-03,US,Leawood,Kansas,38.9667,-94.6169,13.39,0,0.0,0.0,1.484251968503937,True,True
+2026-11-03,US,Jersey City,New Jersey,40.7282,-74.0776,122.15,2,0.0,0.0,0.0,False,False
+2026-11-03,US,Jonesboro,Arkansas,35.8423,-90.7043,19.7,0,0.0,0.0,0.25984251968503935,True,True
+2026-11-03,US,Kailua,Hawaii,21.4024,-157.7405,24.150000000000002,0,0.0,0.0,0.1456692913385827,False,False
+2026-11-03,US,Kalispell,Montana,48.1958,-114.3129,7.5,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Kaneohe,Hawaii,21.3999,-157.799,22.21,0,0.0,0.0,0.1456692913385827,False,False
+2026-11-03,US,Kansas City,Missouri,39.0997,-94.5786,61.46,0,0.0,0.0,1.8622047244094486,True,True
+2026-11-03,US,Knoxville,Tennessee,35.9606,-83.9207,86.03,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Kuna,Idaho,43.4918,-116.4201,15.83,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Lafayette,Louisiana,30.2241,-92.0198,50.92,0,0.0,0.0,0.07874015748031496,False,False
+2026-11-03,US,Lake Oswego,Oregon,45.4207,-122.6706,37.62,0,0.0,0.0,0.043307086614173235,False,False
+2026-11-03,US,Lancaster,Pennsylvania,40.0379,-76.3055,37.65,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Las Cruces,New Mexico,32.3123,-106.7783,14.84,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Las Vegas,Nevada,36.175,-115.1372,125.47,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Lawrence,Kansas,38.9717,-95.2352,14.56,0,0.0,0.0,1.590551181102362,True,True
+2026-11-03,US,Leawood,Kansas,38.9667,-94.6169,13.370000000000001,0,0.0,0.0,1.484251968503937,True,True
 2026-11-03,US,Lennox,South Dakota,43.3541,-96.892,3.8200000000000003,0,0.0,0.0,0.37401574803149606,True,True
-2026-11-03,US,Lewes,Delaware,38.7746,-75.1393,19.24,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Lexington,Kentucky,37.9887,-84.4777,75.44,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Lincoln,Nebraska,40.8,-96.667,22.0,0,0.0,0.0,1.980314960629921,True,True
-2026-11-03,US,Little Rock,Arkansas,34.7465,-92.2896,53.33,0,0.0,0.0,0.7401574803149606,True,True
-2026-11-03,US,Littleton,Colorado,39.6133,-105.0166,34.04,0,0.0,0.0,0.05905511811023622,False,False
-2026-11-03,US,Los Alamos,New Mexico,35.8881,-106.307,6.73,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Los Angeles,California,34.0522,-118.2437,505.34,19,0.0,0.0,0.0,False,False
-2026-11-03,US,Louisville,Kentucky,38.2542,-85.7594,109.58,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Macomb,Michigan,42.7009,-82.9591,19.55,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Madison,Alabama,34.6993,-86.7483,24.52,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Madison,Mississippi,32.4618,-90.1154,15.55,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Lewes,Delaware,38.7746,-75.1393,19.22,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Lexington,Kentucky,37.9887,-84.4777,75.35,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Lincoln,Nebraska,40.8,-96.667,21.96,0,0.0,0.0,1.980314960629921,True,True
+2026-11-03,US,Little Rock,Arkansas,34.7465,-92.2896,53.28,0,0.0,0.0,0.7401574803149606,True,True
+2026-11-03,US,Littleton,Colorado,39.6133,-105.0166,34.0,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-03,US,Los Alamos,New Mexico,35.8881,-106.307,6.72,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Los Angeles,California,34.0522,-118.2437,504.8,19,0.0,0.0,0.0,False,False
+2026-11-03,US,Louisville,Kentucky,38.2542,-85.7594,109.45,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Macomb,Michigan,42.7009,-82.9591,19.52,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Madison,Alabama,34.6993,-86.7483,24.48,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Madison,Mississippi,32.4618,-90.1154,15.53,0,0.0,0.0,0.0,False,False
 2026-11-03,US,Madison,South Dakota,44.0061,-97.114,2.5500000000000003,0,0.0,0.0,0.15354330708661418,False,False
-2026-11-03,US,Madison,Wisconsin,43.073,-89.4012,43.08,0,0.0,0.0,0.4094488188976378,True,True
-2026-11-03,US,Manchester,New Hampshire,42.9956,-71.4548,17.58,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-03,US,Marietta,Georgia,33.9526,-84.5499,117.5,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Memphis,Tennessee,35.1495,-90.049,66.89,0,0.0,0.0,0.2992125984251968,True,True
-2026-11-03,US,Meridian,Idaho,43.6121,-116.3915,20.61,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Mesa,Arizona,33.4223,-111.8226,28.82,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Metairie,Louisiana,29.9841,-90.1528,31.2,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-03,US,Miami,Florida,25.7743,-80.1937,564.98,8,0.0,0.0,1.1023622047244095,True,True
+2026-11-03,US,Madison,Wisconsin,43.073,-89.4012,43.03,0,0.0,0.0,0.4094488188976378,True,True
+2026-11-03,US,Manchester,New Hampshire,42.9956,-71.4548,17.56,0,0.0,0.0,0.023622047244094488,False,False
+2026-11-03,US,Marietta,Georgia,33.9526,-84.5499,117.36,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Memphis,Tennessee,35.1495,-90.049,66.82000000000001,0,0.0,0.0,0.2992125984251968,True,True
+2026-11-03,US,Meridian,Idaho,43.6121,-116.3915,20.580000000000002,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Mesa,Arizona,33.4223,-111.8226,28.79,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Metairie,Louisiana,29.9841,-90.1528,31.169999999999998,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-03,US,Miami,Florida,25.7743,-80.1937,564.37,8,0.0,0.0,1.1023622047244095,True,True
 2026-11-03,US,Middlesboro,Kentucky,36.6084,-83.7166,4.74,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Middletown,Delaware,39.4496,-75.7163,10.01,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Mililani,Hawaii,21.4504,-158.015,18.66,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-03,US,Milwaukee,Wisconsin,43.0389,-87.9065,54.21,0,0.0,0.0,0.42913385826771655,True,True
-2026-11-03,US,Minneapolis,Minnesota,44.98,-93.2638,109.07000000000001,1,0.0,0.0,0.84251968503937,True,True
-2026-11-03,US,Minnetonka,Minnesota,44.9133,-93.5033,14.02,0,0.0,0.0,0.8503937007874016,True,True
-2026-11-03,US,Missoula,Montana,46.8722,-113.994,5.86,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Mobile,Alabama,30.6944,-88.043,33.84,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-03,US,Morgantown,West Virginia,39.6295,-79.9559,21.32,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Morristown,New Jersey,40.7968,-74.4815,42.31,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Mount Pleasant,South Carolina,32.7941,-79.8626,44.0,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-03,US,Myrtle Beach,South Carolina,33.6891,-78.8867,51.35,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Naperville,Illinois,41.7859,-88.1473,63.22,0,0.0,0.0,0.1496062992125984,False,False
-2026-11-03,US,Naples,Florida,26.1423,-81.796,159.10999999999999,1,0.0,0.0,0.25196850393700787,True,True
-2026-11-03,US,Nashua,New Hampshire,42.7654,-71.4676,17.86,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Nashville,Tennessee,36.1659,-86.7844,147.86,2,0.0,0.0,0.0,False,False
-2026-11-03,US,New Canaan,Connecticut,41.1468,-73.4948,34.81,0,0.0,0.0,0.0,False,False
-2026-11-03,US,New Castle,Delaware,39.6595,-75.5636,20.66,0,0.0,0.0,0.0,False,False
-2026-11-03,US,New Orleans,Louisiana,29.9546,-90.0751,67.25,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-03,US,New York,New York,40.7143,-74.006,1630.02,80,0.0,0.0,0.0,False,False
-2026-11-03,US,Newark,Delaware,39.6837,-75.7497,22.38,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Norman,Oklahoma,35.2226,-97.4395,23.88,0,0.0,0.0,0.19685039370078738,False,False
-2026-11-03,US,North Las Vegas,Nevada,36.1989,-115.1175,4.35,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Norwalk,Connecticut,41.1176,-73.4079,28.41,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Oakland,California,37.8044,-122.2708,139.45,2,0.0,0.0,0.14173228346456693,False,False
-2026-11-03,US,Oklahoma City,Oklahoma,35.4676,-97.5164,47.99,0,0.0,0.0,0.44488188976377957,True,True
-2026-11-03,US,Olathe,Kansas,38.8814,-94.8191,24.17,0,0.0,0.0,1.8976377952755907,True,True
-2026-11-03,US,Omaha,Nebraska,41.2563,-95.9404,48.51,0,0.0,0.0,1.2440944881889764,True,True
-2026-11-03,US,Orlando,Florida,28.5383,-81.3792,203.65,2,0.0,0.0,0.12598425196850394,False,False
-2026-11-03,US,Overland Park,Kansas,38.9822,-94.6708,45.28,0,0.0,0.0,1.7716535433070866,True,True
-2026-11-03,US,Paducah,Kentucky,37.0834,-88.6,17.3,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Papillion,Nebraska,41.1544,-96.0422,7.75,0,0.0,0.0,1.3425196850393701,True,True
-2026-11-03,US,Park City,Utah,40.6461,-111.498,15.16,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Philadelphia,Pennsylvania,39.9524,-75.1636,227.78,4,0.0,0.0,0.0,False,False
-2026-11-03,US,Phoenix,Arizona,33.4484,-112.074,95.96,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,141.78,2,0.0,0.0,0.05905511811023622,False,False
-2026-11-03,US,Plymouth,Michigan,42.3714,-83.4702,22.57,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Plymouth,Minnesota,45.0105,-93.4555,25.29,0,0.0,0.0,0.6692913385826772,True,True
-2026-11-03,US,Portland,Maine,43.6574,-70.2589,18.98,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Portland,Oregon,45.5234,-122.6762,213.45,2,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,Portsmouth,New Hampshire,43.077,-70.7577,10.77,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Princeton,New Jersey,40.3487,-74.659,31.599999999999998,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Providence,Rhode Island,41.824,-71.4128,30.83,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Raleigh,North Carolina,35.7721,-78.6386,140.39,2,0.0,0.0,0.0,False,False
-2026-11-03,US,Rapid City,South Dakota,44.0805,-103.231,6.64,0,0.0,0.0,0.18503937007874016,False,False
-2026-11-03,US,Reading,Massachusetts,42.5256,-71.0953,198.25,11,0.0,0.0,0.0,False,False
-2026-11-03,US,Reno,Nevada,39.5296,-119.8138,41.21,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-03,US,Richmond,Virginia,37.5538,-77.4603,98.23,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Rock Springs,Wyoming,41.5875,-109.2029,6.8100000000000005,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-03,US,Rockville,Maryland,39.084,-77.1528,42.87,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Rogers,Arkansas,36.332,-94.1185,21.43,0,0.0,0.0,0.7440944881889763,True,True
-2026-11-03,US,Saint Charles,Missouri,38.7839,-90.4812,23.34,0,0.0,0.0,0.6653543307086613,True,True
-2026-11-03,US,Saint Louis,Missouri,38.6517,-90.2053,105.09,0,0.0,0.0,0.4606299212598425,True,True
-2026-11-03,US,Saint Paul,Minnesota,44.9444,-93.0933,54.86,0,0.0,0.0,0.6496062992125984,True,True
-2026-11-03,US,Salem,Oregon,44.9429,-123.0351,22.06,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-03,US,Salt Lake City,Utah,40.7608,-111.891,35.3,0,0.0,0.0,0.0,False,False
-2026-11-03,US,San Antonio,Texas,29.4241,-98.4936,159.94,2,0.0,0.0,0.7598425196850394,True,True
-2026-11-03,US,San Diego,California,32.7157,-117.1647,258.05,4,0.0,0.0,0.0,False,False
-2026-11-03,US,San Francisco,California,37.7749,-122.4194,520.52,16,0.0,0.0,0.1889763779527559,False,False
-2026-11-03,US,San Jose,California,37.3394,-121.895,204.6,3,0.0,0.0,0.10236220472440945,False,False
-2026-11-03,US,Sandy,Utah,40.5916,-111.8841,12.22,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Santa Fe,New Mexico,35.687,-105.9378,21.25,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Savannah,Georgia,32.0835,-81.0998,66.8,0,0.0,0.0,0.08661417322834647,False,False
-2026-11-03,US,Scarborough,Maine,43.5781,-70.3217,12.51,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Scottsdale,Arizona,33.5092,-111.899,77.97,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Seattle,Washington,47.6062,-122.3321,321.45,5,0.0,0.0,0.0,False,False
-2026-11-03,US,Sheridan,Wyoming,44.7972,-106.9562,8.540000000000001,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-03,US,Shreveport,Louisiana,32.5251,-93.7502,60.63,0,0.0,0.0,0.7322834645669292,True,True
-2026-11-03,US,Silver Spring,Maryland,38.9907,-77.0261,45.97,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Sioux Falls,South Dakota,43.55,-96.7003,12.62,0,0.0,0.0,0.34251968503937,True,True
+2026-11-03,US,Middletown,Delaware,39.4496,-75.7163,10.0,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Mililani,Hawaii,21.4504,-158.015,18.65,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-03,US,Milwaukee,Wisconsin,43.0389,-87.9065,54.15,0,0.0,0.0,0.42913385826771655,True,True
+2026-11-03,US,Minneapolis,Minnesota,44.98,-93.2638,108.94,1,0.0,0.0,0.84251968503937,True,True
+2026-11-03,US,Minnetonka,Minnesota,44.9133,-93.5033,14.01,0,0.0,0.0,0.8503937007874016,True,True
+2026-11-03,US,Missoula,Montana,46.8722,-113.994,5.83,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Mobile,Alabama,30.6944,-88.043,33.81,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-03,US,Morgantown,West Virginia,39.6295,-79.9559,21.3,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Morristown,New Jersey,40.7968,-74.4815,42.27,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Mount Pleasant,South Carolina,32.7941,-79.8626,43.95,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-03,US,Myrtle Beach,South Carolina,33.6891,-78.8867,51.3,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Naperville,Illinois,41.7859,-88.1473,63.15,0,0.0,0.0,0.1496062992125984,False,False
+2026-11-03,US,Naples,Florida,26.1423,-81.796,158.94,1,0.0,0.0,0.25196850393700787,True,True
+2026-11-03,US,Nashua,New Hampshire,42.7654,-71.4676,17.84,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Nashville,Tennessee,36.1659,-86.7844,147.7,2,0.0,0.0,0.0,False,False
+2026-11-03,US,New Canaan,Connecticut,41.1468,-73.4948,34.77,0,0.0,0.0,0.0,False,False
+2026-11-03,US,New Castle,Delaware,39.6595,-75.5636,20.63,0,0.0,0.0,0.0,False,False
+2026-11-03,US,New Orleans,Louisiana,29.9546,-90.0751,67.18,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-03,US,New York,New York,40.7143,-74.006,1628.38,80,0.0,0.0,0.0,False,False
+2026-11-03,US,Newark,Delaware,39.6837,-75.7497,22.36,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Norman,Oklahoma,35.2226,-97.4395,23.86,0,0.0,0.0,0.19685039370078738,False,False
+2026-11-03,US,North Las Vegas,Nevada,36.1989,-115.1175,4.34,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Norwalk,Connecticut,41.1176,-73.4079,28.39,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Oakland,California,37.8044,-122.2708,139.3,2,0.0,0.0,0.14173228346456693,False,False
+2026-11-03,US,Oklahoma City,Oklahoma,35.4676,-97.5164,47.940000000000005,0,0.0,0.0,0.44488188976377957,True,True
+2026-11-03,US,Olathe,Kansas,38.8814,-94.8191,24.14,0,0.0,0.0,1.8976377952755907,True,True
+2026-11-03,US,Omaha,Nebraska,41.2563,-95.9404,48.45,0,0.0,0.0,1.2440944881889764,True,True
+2026-11-03,US,Orlando,Florida,28.5383,-81.3792,203.41,2,0.0,0.0,0.12598425196850394,False,False
+2026-11-03,US,Overland Park,Kansas,38.9822,-94.6708,45.23,0,0.0,0.0,1.7716535433070866,True,True
+2026-11-03,US,Paducah,Kentucky,37.0834,-88.6,17.28,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Papillion,Nebraska,41.1544,-96.0422,7.73,0,0.0,0.0,1.3425196850393701,True,True
+2026-11-03,US,Park City,Utah,40.6461,-111.498,15.139999999999999,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Philadelphia,Pennsylvania,39.9524,-75.1636,227.51999999999998,4,0.0,0.0,0.0,False,False
+2026-11-03,US,Phoenix,Arizona,33.4484,-112.074,95.86,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,141.63,2,0.0,0.0,0.05905511811023622,False,False
+2026-11-03,US,Plymouth,Michigan,42.3714,-83.4702,22.55,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Plymouth,Minnesota,45.0105,-93.4555,25.26,0,0.0,0.0,0.6692913385826772,True,True
+2026-11-03,US,Portland,Maine,43.6574,-70.2589,18.96,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Portland,Oregon,45.5234,-122.6762,213.21,2,0.0,0.0,0.055118110236220465,False,False
+2026-11-03,US,Portsmouth,New Hampshire,43.077,-70.7577,10.76,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Princeton,New Jersey,40.3487,-74.659,31.56,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Providence,Rhode Island,41.824,-71.4128,30.8,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Raleigh,North Carolina,35.7721,-78.6386,140.24,2,0.0,0.0,0.0,False,False
+2026-11-03,US,Rapid City,South Dakota,44.0805,-103.231,6.63,0,0.0,0.0,0.18503937007874016,False,False
+2026-11-03,US,Reading,Massachusetts,42.5256,-71.0953,198.03,11,0.0,0.0,0.0,False,False
+2026-11-03,US,Reno,Nevada,39.5296,-119.8138,41.17,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-03,US,Richmond,Virginia,37.5538,-77.4603,98.12,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Rock Springs,Wyoming,41.5875,-109.2029,6.8,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-03,US,Rockville,Maryland,39.084,-77.1528,42.82,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Rogers,Arkansas,36.332,-94.1185,21.41,0,0.0,0.0,0.7440944881889763,True,True
+2026-11-03,US,Saint Charles,Missouri,38.7839,-90.4812,23.3,0,0.0,0.0,0.6653543307086613,True,True
+2026-11-03,US,Saint Louis,Missouri,38.6517,-90.2053,104.98,0,0.0,0.0,0.4606299212598425,True,True
+2026-11-03,US,Saint Paul,Minnesota,44.9444,-93.0933,54.8,0,0.0,0.0,0.6496062992125984,True,True
+2026-11-03,US,Salem,Oregon,44.9429,-123.0351,22.04,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-03,US,Salt Lake City,Utah,40.7608,-111.891,35.25,0,0.0,0.0,0.0,False,False
+2026-11-03,US,San Antonio,Texas,29.4241,-98.4936,159.76,2,0.0,0.0,0.7598425196850394,True,True
+2026-11-03,US,San Diego,California,32.7157,-117.1647,257.76,4,0.0,0.0,0.0,False,False
+2026-11-03,US,San Francisco,California,37.7749,-122.4194,519.95,16,0.0,0.0,0.1889763779527559,False,False
+2026-11-03,US,San Jose,California,37.3394,-121.895,204.39000000000001,3,0.0,0.0,0.10236220472440945,False,False
+2026-11-03,US,Sandy,Utah,40.5916,-111.8841,12.21,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Santa Fe,New Mexico,35.687,-105.9378,21.22,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Savannah,Georgia,32.0835,-81.0998,66.73,0,0.0,0.0,0.08661417322834647,False,False
+2026-11-03,US,Scarborough,Maine,43.5781,-70.3217,12.49,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Scottsdale,Arizona,33.5092,-111.899,77.88,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Seattle,Washington,47.6062,-122.3321,321.11,5,0.0,0.0,0.0,False,False
+2026-11-03,US,Sheridan,Wyoming,44.7972,-106.9562,8.53,0,0.0,0.0,0.03937007874015748,False,False
+2026-11-03,US,Shreveport,Louisiana,32.5251,-93.7502,60.56,0,0.0,0.0,0.7322834645669292,True,True
+2026-11-03,US,Silver Spring,Maryland,38.9907,-77.0261,45.92,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Sioux Falls,South Dakota,43.55,-96.7003,12.61,0,0.0,0.0,0.34251968503937,True,True
 2026-11-03,US,Sitka,Alaska,57.0532,-135.3309,3.3200000000000003,0,0.0,0.0,0.07874015748031496,False,False
-2026-11-03,US,Somerville,Massachusetts,42.3876,-71.0995,38.1,0,0.0,0.0,0.0,False,False
-2026-11-03,US,South Burlington,Vermont,44.467,-73.171,9.74,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-03,US,South Jordan,Utah,40.5622,-111.9297,19.05,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Southaven,Mississippi,34.989,-90.0126,8.75,0,0.0,0.0,0.33070866141732286,True,True
-2026-11-03,US,Spokane,Washington,47.6569,-117.425,20.27,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Springfield,Missouri,37.2153,-93.2982,23.67,0,0.0,0.0,0.41338582677165353,True,True
-2026-11-03,US,Stamford,Connecticut,41.0534,-73.5387,33.86,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Staten Island,New York,40.5623,-74.1399,103.83,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Stowe,Vermont,44.4653,-72.6846,6.76,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-03,US,Tacoma,Washington,47.2529,-122.4443,46.63,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Tampa,Florida,27.9475,-82.4584,145.22,0,0.0,0.0,0.3700787401574803,True,True
+2026-11-03,US,Somerville,Massachusetts,42.3876,-71.0995,38.05,0,0.0,0.0,0.0,False,False
+2026-11-03,US,South Burlington,Vermont,44.467,-73.171,9.73,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-03,US,South Jordan,Utah,40.5622,-111.9297,19.03,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Southaven,Mississippi,34.989,-90.0126,8.73,0,0.0,0.0,0.33070866141732286,True,True
+2026-11-03,US,Spokane,Washington,47.6569,-117.425,20.25,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Springfield,Missouri,37.2153,-93.2982,23.650000000000002,0,0.0,0.0,0.41338582677165353,True,True
+2026-11-03,US,Stamford,Connecticut,41.0534,-73.5387,33.82,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Staten Island,New York,40.5623,-74.1399,103.72,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Stowe,Vermont,44.4653,-72.6846,6.75,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-03,US,Tacoma,Washington,47.2529,-122.4443,46.58,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Tampa,Florida,27.9475,-82.4584,145.06,0,0.0,0.0,0.3700787401574803,True,True
 2026-11-03,US,Tijeras,New Mexico,35.0809,-106.3881,5.97,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Tucson,Arizona,32.2217,-110.9265,83.94,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Tulsa,Oklahoma,36.154,-95.9928,94.05,0,0.0,0.0,0.9015748031496063,True,True
-2026-11-03,US,Vancouver,Washington,45.6387,-122.6615,56.82,0,0.0,0.0,0.05905511811023622,False,False
-2026-11-03,US,Virginia Beach,Virginia,36.8529,-75.978,99.82000000000001,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Warwick,Rhode Island,41.7001,-71.4162,9.76,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Washington,District of Columbia,38.8951,-77.0364,367.53999999999996,5,0.0,0.0,0.0,False,False
+2026-11-03,US,Tucson,Arizona,32.2217,-110.9265,83.85,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Tulsa,Oklahoma,36.154,-95.9928,93.94,0,0.0,0.0,0.9015748031496063,True,True
+2026-11-03,US,Vancouver,Washington,45.6387,-122.6615,56.76,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-03,US,Virginia Beach,Virginia,36.8529,-75.978,99.71000000000001,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Warwick,Rhode Island,41.7001,-71.4162,9.75,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Washington,District of Columbia,38.8951,-77.0364,367.14,5,0.0,0.0,0.0,False,False
 2026-11-03,US,Wasilla,Alaska,61.5809,-149.4415,2.11,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Waukesha,Wisconsin,43.0117,-88.2315,13.74,0,0.0,0.0,0.3700787401574803,True,True
-2026-11-03,US,West Chester,Pennsylvania,39.961,-75.608,36.64,0,0.0,0.0,0.0,False,False
-2026-11-03,US,West Des Moines,Iowa,41.5772,-93.7113,11.49,0,0.0,0.0,1.0826771653543308,True,True
+2026-11-03,US,Waukesha,Wisconsin,43.0117,-88.2315,13.72,0,0.0,0.0,0.3700787401574803,True,True
+2026-11-03,US,West Chester,Pennsylvania,39.961,-75.608,36.6,0,0.0,0.0,0.0,False,False
+2026-11-03,US,West Des Moines,Iowa,41.5772,-93.7113,11.48,0,0.0,0.0,1.0826771653543308,True,True
 2026-11-03,US,West Fargo,North Dakota,46.875,-96.9004,8.23,0,0.0,0.0,0.07086614173228346,False,False
-2026-11-03,US,West Lafayette,Indiana,40.4259,-86.9081,19.15,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Westfield,New Jersey,40.659,-74.3474,38.75,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Wheeling,West Virginia,40.064,-80.7209,11.950000000000001,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-03,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,13.98,0,0.0,0.0,0.3228346456692913,True,True
-2026-11-03,US,Wichita,Kansas,37.6922,-97.3375,48.53,0,0.0,0.0,0.4960629921259842,True,True
-2026-11-03,US,Wilmette,Illinois,42.0722,-87.7228,34.37,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-03,US,Wilmington,Delaware,39.746,-75.5466,57.89,0,0.0,0.0,0.0,False,False
-2026-11-03,US,Wilmington,North Carolina,34.2356,-77.946,65.52,0,0.0,0.0,0.0,False,False
+2026-11-03,US,West Lafayette,Indiana,40.4259,-86.9081,19.13,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Westfield,New Jersey,40.659,-74.3474,38.7,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Wheeling,West Virginia,40.064,-80.7209,11.93,0,0.0,0.0,0.023622047244094488,False,False
+2026-11-03,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,13.97,0,0.0,0.0,0.3228346456692913,True,True
+2026-11-03,US,Wichita,Kansas,37.6922,-97.3375,48.48,0,0.0,0.0,0.4960629921259842,True,True
+2026-11-03,US,Wilmette,Illinois,42.0722,-87.7228,34.33,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-03,US,Wilmington,Delaware,39.746,-75.5466,57.83,0,0.0,0.0,0.0,False,False
+2026-11-03,US,Wilmington,North Carolina,34.2356,-77.946,65.45,0,0.0,0.0,0.0,False,False
+2026-11-04,CAN,Blainville,Quebec,45.6668,-73.8825,0.37,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-04,CAN,Brossard,Quebec,45.4501,-73.4658,0.27,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-04,CAN,Burnaby,British Columbia,49.2664,-122.9526,3.49,0,0.0,0.0,0.0,False,False
+2026-11-04,CAN,Calgary,Alberta,51.0501,-114.0853,5.7,0,0.0,0.0,0.0,False,False
+2026-11-04,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,0.23,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-04,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.11,0,0.0,0.0,0.2913385826771654,True,True
+2026-11-04,CAN,Dieppe,New Brunswick,46.0784,-64.6874,0.42,0,0.0,0.0,0.8267716535433071,True,True
+2026-11-04,CAN,Dorval,Quebec,45.4473,-73.7534,0.25,0,0.0,0.0,0.03543307086614173,False,False
+2026-11-04,CAN,Edmonton,Alberta,53.5501,-113.4687,2.45,0,0.0,0.0,0.0,False,False
+2026-11-04,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.13,0,0.0,0.0,0.421259842519685,True,True
+2026-11-04,CAN,Guelph,Ontario,43.5459,-80.256,1.03,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-04,CAN,Halifax,Nova Scotia,44.6427,-63.5769,0.82,0,0.0,0.0,0.23622047244094488,True,True
+2026-11-04,CAN,Headingley,Manitoba,49.8753,-97.409,0.11,0,0.0,0.0,0.0,False,False
+2026-11-04,CAN,Kingston,Ontario,44.2298,-76.481,0.72,0,0.0,0.0,0.0,False,False
 2026-11-04,CAN,Markham,Ontario,43.8668,-79.2663,1.36,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-04,CAN,Moncton,New Brunswick,46.0945,-64.7965,0.2,0,0.0,0.0,0.8228346456692913,True,True
 2026-11-04,CAN,Montreal,Quebec,45.5088,-73.5878,3.35,0,0.0,0.0,0.055118110236220465,False,False
 2026-11-04,CAN,North Vancouver,British Columbia,49.3164,-123.0693,2.62,0,0.0,0.0,0.0,False,False
 2026-11-04,CAN,Ottawa,Ontario,45.4112,-75.6981,5.49,0,0.0,0.0,0.0,False,False
@@ -1396,521 +1188,819 @@ Date,Region,City,State,Lat,Lon,Umbrella_Revenue,Umbrella_Units,Non_Umbrella_Reve
 2026-11-04,CAN,Winnipeg,Manitoba,49.8844,-97.147,0.63,0,0.0,0.0,0.0,False,False
 2026-11-04,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.15,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Aberdeen,South Dakota,45.4647,-98.4865,1.37,0,0.0,0.0,0.2125984251968504,True,True
-2026-11-04,US,Albuquerque,New Mexico,35.0845,-106.6511,49.54,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Alexandria,Virginia,38.8048,-77.0469,134.73,4,0.0,0.0,0.0,False,False
-2026-11-04,US,Alpharetta,Georgia,34.0754,-84.2941,42.07,0,0.0,0.0,0.7519685039370079,True,True
-2026-11-04,US,Ames,Iowa,42.0347,-93.6199,7.6,0,0.0,0.0,0.2440944881889764,True,True
-2026-11-04,US,Anchorage,Alaska,61.2181,-149.9003,12.13,0,0.0,0.0,0.07086614173228346,False,False
-2026-11-04,US,Ann Arbor,Michigan,42.2776,-83.7409,43.75,3,0.0,0.0,0.3110236220472441,True,True
-2026-11-04,US,Annapolis,Maryland,38.9786,-76.4918,30.73,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Albuquerque,New Mexico,35.0845,-106.6511,49.52,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Alexandria,Virginia,38.8048,-77.0469,134.66,4,0.0,0.0,0.0,False,False
+2026-11-04,US,Alpharetta,Georgia,34.0754,-84.2941,42.04,0,0.0,0.0,0.7519685039370079,True,True
+2026-11-04,US,Ames,Iowa,42.0347,-93.6199,7.59,0,0.0,0.0,0.2440944881889764,True,True
+2026-11-04,US,Anchorage,Alaska,61.2181,-149.9003,12.12,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-04,US,Ann Arbor,Michigan,42.2776,-83.7409,43.73,3,0.0,0.0,0.3110236220472441,True,True
+2026-11-04,US,Annapolis,Maryland,38.9786,-76.4918,30.71,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Appleton,Wisconsin,44.2619,-88.4154,9.63,0,0.0,0.0,0.3267716535433071,True,True
-2026-11-04,US,Arlington,Virginia,38.881,-77.1043,96.72,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Astoria,New York,40.772,-73.9301,43.37,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Atlanta,Georgia,33.749,-84.388,191.26,8,0.0,0.0,0.7047244094488189,True,True
-2026-11-04,US,Aurora,Colorado,39.7294,-104.8319,21.330000000000002,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Austin,Texas,30.2672,-97.7431,246.20000000000002,9,0.0,0.0,0.0,False,False
-2026-11-04,US,Baltimore,Maryland,39.2904,-76.6122,59.05,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Bangor,Maine,44.7988,-68.7726,4.74,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-04,US,Arlington,Virginia,38.881,-77.1043,96.67,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Astoria,New York,40.772,-73.9301,43.35,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Atlanta,Georgia,33.749,-84.388,191.15,8,0.0,0.0,0.7047244094488189,True,True
+2026-11-04,US,Aurora,Colorado,39.7294,-104.8319,21.32,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Austin,Texas,30.2672,-97.7431,246.07,9,0.0,0.0,0.0,False,False
+2026-11-04,US,Baltimore,Maryland,39.2904,-76.6122,59.03,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Bangor,Maine,44.7988,-68.7726,4.7299999999999995,0,0.0,0.0,0.07086614173228346,False,False
 2026-11-04,US,Barrington,Rhode Island,41.7407,-71.3087,12.549999999999999,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Baton Rouge,Louisiana,30.4433,-91.1875,66.3,3,0.0,0.0,0.2047244094488189,True,True
+2026-11-04,US,Baton Rouge,Louisiana,30.4433,-91.1875,66.27,3,0.0,0.0,0.2047244094488189,True,True
 2026-11-04,US,Beaverton,Oregon,45.4871,-122.8037,19.19,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Bellevue,Nebraska,41.1367,-95.8908,3.95,0,0.0,0.0,0.12598425196850394,False,False
-2026-11-04,US,Bellevue,Washington,47.6104,-122.2007,43.17,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Bentonville,Arkansas,36.3728,-94.2088,22.28,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Bellevue,Washington,47.6104,-122.2007,43.15,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Bentonville,Arkansas,36.3728,-94.2088,22.26,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Berkley,Massachusetts,41.8459,-71.0828,16.58,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-04,US,Bethesda,Maryland,38.9807,-77.1003,61.73,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Billings,Montana,45.7833,-108.5007,10.120000000000001,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Birmingham,Alabama,33.5207,-86.8025,59.09,3,0.0,0.0,1.125984251968504,True,True
+2026-11-04,US,Bethesda,Maryland,38.9807,-77.1003,61.7,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Billings,Montana,45.7833,-108.5007,10.11,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Birmingham,Alabama,33.5207,-86.8025,59.06,3,0.0,0.0,1.125984251968504,True,True
 2026-11-04,US,Bismarck,North Dakota,46.8083,-100.7837,4.37,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Bloomfield Hills,Michigan,42.5836,-83.2455,28.77,0,0.0,0.0,0.3346456692913386,True,True
-2026-11-04,US,Bloomington,Indiana,39.1653,-86.5264,23.36,0,0.0,0.0,0.9330708661417323,True,True
-2026-11-04,US,Boca Raton,Florida,26.3587,-80.0831,95.38,3,0.0,0.0,0.5866141732283464,True,True
+2026-11-04,US,Bloomfield Hills,Michigan,42.5836,-83.2455,28.76,0,0.0,0.0,0.3346456692913386,True,True
+2026-11-04,US,Bloomington,Indiana,39.1653,-86.5264,23.35,0,0.0,0.0,0.9330708661417323,True,True
+2026-11-04,US,Boca Raton,Florida,26.3587,-80.0831,95.33,3,0.0,0.0,0.5866141732283464,True,True
 2026-11-04,US,Boise,Idaho,43.6135,-116.2034,26.39,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Boston,Massachusetts,42.3584,-71.0598,157.94,7,0.0,0.0,0.0,False,False
-2026-11-04,US,Bowling Green,Kentucky,36.9903,-86.4436,10.879999999999999,0,0.0,0.0,1.8622047244094486,True,True
-2026-11-04,US,Bozeman,Montana,45.6796,-111.0386,7.8100000000000005,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Boston,Massachusetts,42.3584,-71.0598,157.85,7,0.0,0.0,0.0,False,False
+2026-11-04,US,Bowling Green,Kentucky,36.9903,-86.4436,10.87,0,0.0,0.0,1.8622047244094486,True,True
+2026-11-04,US,Bozeman,Montana,45.6796,-111.0386,7.8,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Broken Arrow,Oklahoma,36.0526,-95.7908,14.07,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Bronx,New York,40.8499,-73.8664,72.1,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Brooklyn,New York,40.6501,-73.9496,622.05,48,0.0,0.0,0.0,False,False
-2026-11-04,US,Burlington,Vermont,44.4759,-73.2121,5.8,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Cambridge,Massachusetts,42.3751,-71.1056,56.76,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Carmel,Indiana,39.9784,-86.118,43.12,0,0.0,0.0,0.8543307086614172,True,True
+2026-11-04,US,Bronx,New York,40.8499,-73.8664,72.06,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Brooklyn,New York,40.6501,-73.9496,621.73,48,0.0,0.0,0.0,False,False
+2026-11-04,US,Burlington,Vermont,44.4759,-73.2121,5.79,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Cambridge,Massachusetts,42.3751,-71.1056,56.73,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Carmel,Indiana,39.9784,-86.118,43.09,0,0.0,0.0,0.8543307086614172,True,True
 2026-11-04,US,Carson City,Nevada,39.1638,-119.7674,3.54,0,0.0,0.0,0.10236220472440945,False,False
 2026-11-04,US,Casper,Wyoming,42.8666,-106.3131,1.66,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Cedar Rapids,Iowa,42.0083,-91.6441,15.81,0,0.0,0.0,0.26771653543307083,True,True
-2026-11-04,US,Chapel Hill,North Carolina,35.9132,-79.0558,37.2,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Charleston,South Carolina,32.7763,-79.9328,51.11,3,0.0,0.0,0.047244094488188976,False,False
-2026-11-04,US,Charleston,West Virginia,38.3498,-81.6326,6.72,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-04,US,Charlotte,North Carolina,35.2271,-80.8431,167.83,7,0.0,0.0,0.007874015748031496,False,False
-2026-11-04,US,Chattanooga,Tennessee,35.0456,-85.3097,29.19,0,0.0,0.0,0.9960629921259843,True,True
-2026-11-04,US,Chesterfield,Missouri,38.6631,-90.5771,24.51,0,0.0,0.0,0.1377952755905512,False,False
-2026-11-04,US,Cheyenne,Wyoming,41.14,-104.8202,8.0,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Chicago,Illinois,41.85,-87.65,467.44,35,0.0,0.0,0.452755905511811,True,True
-2026-11-04,US,Cincinnati,Ohio,39.1271,-84.5144,118.11,3,0.0,0.0,0.7362204724409448,True,True
-2026-11-04,US,Cleveland,Ohio,41.4995,-81.6954,23.83,0,0.0,0.0,0.5984251968503936,True,True
+2026-11-04,US,Cedar Rapids,Iowa,42.0083,-91.6441,15.8,0,0.0,0.0,0.26771653543307083,True,True
+2026-11-04,US,Chapel Hill,North Carolina,35.9132,-79.0558,37.18,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Charleston,South Carolina,32.7763,-79.9328,51.07,3,0.0,0.0,0.047244094488188976,False,False
+2026-11-04,US,Charleston,West Virginia,38.3498,-81.6326,6.71,0,0.0,0.0,0.051181102362204724,False,False
+2026-11-04,US,Charlotte,North Carolina,35.2271,-80.8431,167.75,7,0.0,0.0,0.007874015748031496,False,False
+2026-11-04,US,Chattanooga,Tennessee,35.0456,-85.3097,29.17,0,0.0,0.0,0.9960629921259843,True,True
+2026-11-04,US,Chesterfield,Missouri,38.6631,-90.5771,24.5,0,0.0,0.0,0.1377952755905512,False,False
+2026-11-04,US,Cheyenne,Wyoming,41.14,-104.8202,7.99,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Chicago,Illinois,41.85,-87.65,467.21,35,0.0,0.0,0.452755905511811,True,True
+2026-11-04,US,Cincinnati,Ohio,39.1271,-84.5144,118.05,3,0.0,0.0,0.7362204724409448,True,True
+2026-11-04,US,Cleveland,Ohio,41.4995,-81.6954,23.82,0,0.0,0.0,0.5984251968503936,True,True
 2026-11-04,US,Cody,Wyoming,44.5263,-109.0565,2.17,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Coeur D'Alene,Idaho,47.6777,-116.7805,1.6300000000000001,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-04,US,Colorado Springs,Colorado,38.8339,-104.8214,46.15,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Columbia,South Carolina,34.0007,-81.0348,36.67,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-04,US,Columbus,Ohio,39.9612,-82.9988,98.48,3,0.0,0.0,1.2480314960629921,True,True
+2026-11-04,US,Colorado Springs,Colorado,38.8339,-104.8214,46.12,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Columbia,South Carolina,34.0007,-81.0348,36.65,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-04,US,Columbus,Ohio,39.9612,-82.9988,98.42999999999999,3,0.0,0.0,1.2480314960629921,True,True
 2026-11-04,US,Cordova,Alaska,60.5432,-145.7587,4.7,0,0.0,0.0,0.8818897637795274,True,True
 2026-11-04,US,Cranston,Rhode Island,41.7798,-71.4373,6.6000000000000005,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Dallas,Texas,32.7831,-96.8067,238.8,8,0.0,0.0,0.0,False,False
-2026-11-04,US,Dayton,Ohio,39.759,-84.1916,37.6,0,0.0,0.0,0.7322834645669292,True,True
-2026-11-04,US,Decatur,Georgia,33.7748,-84.2963,31.740000000000002,0,0.0,0.0,0.68503937007874,True,True
-2026-11-04,US,Denver,Colorado,39.7392,-104.9847,89.32000000000001,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Dallas,Texas,32.7831,-96.8067,238.66,8,0.0,0.0,0.0,False,False
+2026-11-04,US,Dayton,Ohio,39.759,-84.1916,37.58,0,0.0,0.0,0.7322834645669292,True,True
+2026-11-04,US,Decatur,Georgia,33.7748,-84.2963,31.72,0,0.0,0.0,0.68503937007874,True,True
+2026-11-04,US,Denver,Colorado,39.7392,-104.9847,89.28,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Des Moines,Iowa,41.6005,-93.6091,10.83,0,0.0,0.0,0.17322834645669294,False,False
 2026-11-04,US,Dickinson,North Dakota,46.8792,-102.7896,4.16,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Downers Grove,Illinois,41.8089,-88.0112,22.98,0,0.0,0.0,0.5708661417322834,True,True
-2026-11-04,US,Doylestown,Pennsylvania,40.3101,-75.1299,25.8,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Dublin,Ohio,40.0992,-83.1141,25.89,0,0.0,0.0,1.263779527559055,True,True
-2026-11-04,US,Durham,North Carolina,35.994,-78.8986,35.44,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Downers Grove,Illinois,41.8089,-88.0112,22.97,0,0.0,0.0,0.5708661417322834,True,True
+2026-11-04,US,Doylestown,Pennsylvania,40.3101,-75.1299,25.78,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Dublin,Ohio,40.0992,-83.1141,25.88,0,0.0,0.0,1.263779527559055,True,True
+2026-11-04,US,Durham,North Carolina,35.994,-78.8986,35.42,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Eagle,Idaho,43.6954,-116.354,7.21,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Eagle Mountain,Utah,40.3144,-111.9849,2.1,0,0.0,0.0,0.11417322834645668,False,False
 2026-11-04,US,East Greenwich,Rhode Island,41.6604,-71.4559,5.9,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Eden Prairie,Minnesota,44.8547,-93.4708,13.040000000000001,0,0.0,0.0,0.6574803149606299,True,True
-2026-11-04,US,Edmond,Oklahoma,35.6528,-97.4781,60.48,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Eden Prairie,Minnesota,44.8547,-93.4708,13.02,0,0.0,0.0,0.6574803149606299,True,True
+2026-11-04,US,Edmond,Oklahoma,35.6528,-97.4781,60.44,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Eliot,Maine,43.1531,-70.8001,3.7,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-04,US,Elkhorn,Nebraska,41.345,-96.256,9.33,0,0.0,0.0,0.11023622047244093,False,False
+2026-11-04,US,Elkhorn,Nebraska,41.345,-96.256,9.32,0,0.0,0.0,0.11023622047244093,False,False
 2026-11-04,US,Essex Junction,Vermont,44.4906,-73.111,3.87,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Eugene,Oregon,44.0521,-123.0868,20.39,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Evanston,Illinois,42.0411,-87.6901,28.2,0,0.0,0.0,0.421259842519685,True,True
-2026-11-04,US,Ewa Beach,Hawaii,21.3156,-158.0072,26.25,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-04,US,Eugene,Oregon,44.0521,-123.0868,20.37,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Evanston,Illinois,42.0411,-87.6901,28.19,0,0.0,0.0,0.421259842519685,True,True
+2026-11-04,US,Ewa Beach,Hawaii,21.3156,-158.0072,26.23,0,0.0,0.0,0.031496062992125984,False,False
 2026-11-04,US,Exeter,New Hampshire,42.9815,-70.9478,5.94,0,0.0,0.0,0.031496062992125984,False,False
 2026-11-04,US,Fairbanks,Alaska,64.8378,-147.7164,3.48,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Fairfax,Virginia,38.8462,-77.3064,46.75,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Fairfax,Virginia,38.8462,-77.3064,46.73,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Fairfield,Connecticut,41.1412,-73.2637,24.72,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Fairhope,Alabama,30.523,-87.9033,15.61,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-04,US,Fairhope,Alabama,30.523,-87.9033,15.6,0,0.0,0.0,0.07086614173228346,False,False
 2026-11-04,US,Falmouth,Maine,43.7295,-70.242,6.6000000000000005,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Fargo,North Dakota,46.8772,-96.7898,10.46,0,0.0,0.0,0.41338582677165353,True,True
-2026-11-04,US,Fayetteville,Arkansas,36.0626,-94.1574,14.97,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-04,US,Fort Collins,Colorado,40.5853,-105.0844,22.13,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Fort Wayne,Indiana,41.1306,-85.1289,32.46,0,0.0,0.0,0.5196850393700787,True,True
-2026-11-04,US,Fort Worth,Texas,32.7254,-97.3208,99.46,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Franklin,Tennessee,35.9251,-86.8689,47.88,0,0.0,0.0,2.547244094488189,True,True
-2026-11-04,US,Gilbert,Arizona,33.3528,-111.789,21.32,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Fargo,North Dakota,46.8772,-96.7898,10.44,0,0.0,0.0,0.41338582677165353,True,True
+2026-11-04,US,Fayetteville,Arkansas,36.0626,-94.1574,14.959999999999999,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-04,US,Fort Collins,Colorado,40.5853,-105.0844,22.12,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Fort Wayne,Indiana,41.1306,-85.1289,32.44,0,0.0,0.0,0.5196850393700787,True,True
+2026-11-04,US,Fort Worth,Texas,32.7254,-97.3208,99.42,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Franklin,Tennessee,35.9251,-86.8689,47.85,0,0.0,0.0,2.547244094488189,True,True
+2026-11-04,US,Gilbert,Arizona,33.3528,-111.789,21.31,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Grand Forks,North Dakota,47.9253,-97.0328,1.46,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-04,US,Grand Rapids,Michigan,42.9634,-85.6681,48.03,0,0.0,0.0,0.2992125984251968,True,True
+2026-11-04,US,Grand Rapids,Michigan,42.9634,-85.6681,48.01,0,0.0,0.0,0.2992125984251968,True,True
 2026-11-04,US,Great Falls,Montana,47.5002,-111.3008,4.68,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Greenville,South Carolina,34.8526,-82.394,57.13,3,0.0,0.0,0.1456692913385827,False,False
-2026-11-04,US,Greenwich,Connecticut,41.0265,-73.6285,67.0,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Gulfport,Mississippi,30.3674,-89.0928,10.41,0,0.0,0.0,0.11023622047244093,False,False
+2026-11-04,US,Greenville,South Carolina,34.8526,-82.394,57.1,3,0.0,0.0,0.1456692913385827,False,False
+2026-11-04,US,Greenwich,Connecticut,41.0265,-73.6285,66.97,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Gulfport,Mississippi,30.3674,-89.0928,10.39,0,0.0,0.0,0.11023622047244093,False,False
 2026-11-04,US,Hampton,New Hampshire,42.9376,-70.8389,9.28,0,0.0,0.0,0.06299212598425197,False,False
 2026-11-04,US,Hattiesburg,Mississippi,31.3271,-89.2903,5.72,0,0.0,0.0,0.1377952755905512,False,False
-2026-11-04,US,Henderson,Nevada,36.0397,-114.9819,35.19,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Hoboken,New Jersey,40.744,-74.0324,48.16,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Honolulu,Hawaii,21.3069,-157.8583,132.7,3,0.0,0.0,0.15748031496062992,False,False
-2026-11-04,US,Houston,Texas,29.7633,-95.3633,440.47,21,0.0,0.0,0.0,False,False
-2026-11-04,US,Huntington,West Virginia,38.4192,-82.4452,7.890000000000001,0,0.0,0.0,0.2755905511811024,True,True
-2026-11-04,US,Huntsville,Alabama,34.7304,-86.5859,47.26,3,0.0,0.0,1.1889763779527558,True,True
+2026-11-04,US,Henderson,Nevada,36.0397,-114.9819,35.17,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Hoboken,New Jersey,40.744,-74.0324,48.13,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Honolulu,Hawaii,21.3069,-157.8583,132.63,3,0.0,0.0,0.15748031496062992,False,False
+2026-11-04,US,Houston,Texas,29.7633,-95.3633,440.24,21,0.0,0.0,0.0,False,False
+2026-11-04,US,Huntington,West Virginia,38.4192,-82.4452,7.88,0,0.0,0.0,0.2755905511811024,True,True
+2026-11-04,US,Huntsville,Alabama,34.7304,-86.5859,47.24,3,0.0,0.0,1.1889763779527558,True,True
 2026-11-04,US,Hurricane,West Virginia,38.4326,-82.0201,4.09,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-04,US,Hyde Park,Vermont,44.5939,-72.6165,3.3000000000000003,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Indianapolis,Indiana,39.7684,-86.158,76.6,3,0.0,0.0,1.0275590551181102,True,True
+2026-11-04,US,Hyde Park,Vermont,44.5939,-72.6165,3.29,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Indianapolis,Indiana,39.7684,-86.158,76.57000000000001,3,0.0,0.0,1.0275590551181102,True,True
 2026-11-04,US,Iowa City,Iowa,41.6611,-91.5302,11.540000000000001,0,0.0,0.0,0.2440944881889764,True,True
-2026-11-04,US,Jackson,Mississippi,32.2988,-90.1848,6.36,0,0.0,0.0,0.2559055118110236,True,True
-2026-11-04,US,Jersey City,New Jersey,40.7282,-74.0776,93.17,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Jonesboro,Arkansas,35.8423,-90.7043,14.959999999999999,0,0.0,0.0,0.9330708661417323,True,True
+2026-11-04,US,Jackson,Mississippi,32.2988,-90.1848,6.35,0,0.0,0.0,0.2559055118110236,True,True
+2026-11-04,US,Jersey City,New Jersey,40.7282,-74.0776,93.13,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Jonesboro,Arkansas,35.8423,-90.7043,14.95,0,0.0,0.0,0.9330708661417323,True,True
 2026-11-04,US,Kailua,Hawaii,21.4024,-157.7405,18.4,0,0.0,0.0,0.23228346456692914,True,True
 2026-11-04,US,Kalispell,Montana,48.1958,-114.3129,5.76,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Kaneohe,Hawaii,21.3999,-157.799,16.91,0,0.0,0.0,0.23228346456692914,True,True
-2026-11-04,US,Kansas City,Missouri,39.0997,-94.5786,46.839999999999996,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Knoxville,Tennessee,35.9606,-83.9207,65.62,3,0.0,0.0,0.8070866141732284,True,True
-2026-11-04,US,Kuna,Idaho,43.4918,-116.4201,12.09,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Lafayette,Louisiana,30.2241,-92.0198,38.85,0,0.0,0.0,0.23228346456692914,True,True
-2026-11-04,US,Lake Oswego,Oregon,45.4207,-122.6706,28.68,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Lancaster,Pennsylvania,40.0379,-76.3055,28.7,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Las Cruces,New Mexico,32.3123,-106.7783,11.35,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Las Vegas,Nevada,36.175,-115.1372,95.74000000000001,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Kaneohe,Hawaii,21.3999,-157.799,16.9,0,0.0,0.0,0.23228346456692914,True,True
+2026-11-04,US,Kansas City,Missouri,39.0997,-94.5786,46.82,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Knoxville,Tennessee,35.9606,-83.9207,65.59,3,0.0,0.0,0.8070866141732284,True,True
+2026-11-04,US,Kuna,Idaho,43.4918,-116.4201,12.08,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Lafayette,Louisiana,30.2241,-92.0198,38.83,0,0.0,0.0,0.23228346456692914,True,True
+2026-11-04,US,Lake Oswego,Oregon,45.4207,-122.6706,28.669999999999998,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Lancaster,Pennsylvania,40.0379,-76.3055,28.69,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Las Cruces,New Mexico,32.3123,-106.7783,11.34,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Las Vegas,Nevada,36.175,-115.1372,95.69,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Lawrence,Kansas,38.9717,-95.2352,11.13,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Leawood,Kansas,38.9667,-94.6169,10.22,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Leawood,Kansas,38.9667,-94.6169,10.21,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Lennox,South Dakota,43.3541,-96.892,2.93,0,0.0,0.0,0.3700787401574803,True,True
-2026-11-04,US,Lewes,Delaware,38.7746,-75.1393,14.62,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Lexington,Kentucky,37.9887,-84.4777,57.46,3,0.0,0.0,1.031496062992126,True,True
-2026-11-04,US,Lincoln,Nebraska,40.8,-96.667,16.75,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-04,US,Little Rock,Arkansas,34.7465,-92.2896,40.62,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Littleton,Colorado,39.6133,-105.0166,25.92,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Lewes,Delaware,38.7746,-75.1393,14.61,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Lexington,Kentucky,37.9887,-84.4777,57.43,3,0.0,0.0,1.031496062992126,True,True
+2026-11-04,US,Lincoln,Nebraska,40.8,-96.667,16.73,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-04,US,Little Rock,Arkansas,34.7465,-92.2896,40.6,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Littleton,Colorado,39.6133,-105.0166,25.91,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Los Alamos,New Mexico,35.8881,-106.307,5.17,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Los Angeles,California,34.0522,-118.2437,384.93,27,0.0,0.0,0.0,False,False
-2026-11-04,US,Louisville,Kentucky,38.2542,-85.7594,83.4,3,0.0,0.0,1.094488188976378,True,True
-2026-11-04,US,Macomb,Michigan,42.7009,-82.9591,14.84,0,0.0,0.0,0.22834645669291337,True,True
-2026-11-04,US,Madison,Alabama,34.6993,-86.7483,18.62,0,0.0,0.0,1.3385826771653544,True,True
-2026-11-04,US,Madison,Mississippi,32.4618,-90.1154,11.87,0,0.0,0.0,0.3700787401574803,True,True
+2026-11-04,US,Los Angeles,California,34.0522,-118.2437,384.73,27,0.0,0.0,0.0,False,False
+2026-11-04,US,Louisville,Kentucky,38.2542,-85.7594,83.36,3,0.0,0.0,1.094488188976378,True,True
+2026-11-04,US,Macomb,Michigan,42.7009,-82.9591,14.83,0,0.0,0.0,0.22834645669291337,True,True
+2026-11-04,US,Madison,Alabama,34.6993,-86.7483,18.61,0,0.0,0.0,1.3385826771653544,True,True
+2026-11-04,US,Madison,Mississippi,32.4618,-90.1154,11.86,0,0.0,0.0,0.3700787401574803,True,True
 2026-11-04,US,Madison,South Dakota,44.0061,-97.114,1.99,0,0.0,0.0,0.48425196850393704,True,True
-2026-11-04,US,Madison,Wisconsin,43.073,-89.4012,32.82,0,0.0,0.0,0.16929133858267714,False,False
-2026-11-04,US,Manchester,New Hampshire,42.9956,-71.4548,13.44,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Marietta,Georgia,33.9526,-84.5499,89.48,3,0.0,0.0,0.6614173228346457,True,True
-2026-11-04,US,Memphis,Tennessee,35.1495,-90.049,50.95,3,0.0,0.0,2.043307086614173,True,True
-2026-11-04,US,Meridian,Idaho,43.6121,-116.3915,15.67,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Madison,Wisconsin,43.073,-89.4012,32.81,0,0.0,0.0,0.16929133858267714,False,False
+2026-11-04,US,Manchester,New Hampshire,42.9956,-71.4548,13.43,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Marietta,Georgia,33.9526,-84.5499,89.43,3,0.0,0.0,0.6614173228346457,True,True
+2026-11-04,US,Memphis,Tennessee,35.1495,-90.049,50.93,3,0.0,0.0,2.043307086614173,True,True
+2026-11-04,US,Meridian,Idaho,43.6121,-116.3915,15.66,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Mesa,Arizona,33.4223,-111.8226,21.919999999999998,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Metairie,Louisiana,29.9841,-90.1528,23.79,0,0.0,0.0,0.09842519685039369,False,False
-2026-11-04,US,Miami,Florida,25.7743,-80.1937,430.37,13,0.0,0.0,0.7047244094488189,True,True
+2026-11-04,US,Metairie,Louisiana,29.9841,-90.1528,23.77,0,0.0,0.0,0.09842519685039369,False,False
+2026-11-04,US,Miami,Florida,25.7743,-80.1937,430.15,13,0.0,0.0,0.7047244094488189,True,True
 2026-11-04,US,Middlesboro,Kentucky,36.6084,-83.7166,3.63,0,0.0,0.0,0.3464566929133859,True,True
 2026-11-04,US,Middletown,Delaware,39.4496,-75.7163,7.63,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Mililani,Hawaii,21.4504,-158.015,14.19,0,0.0,0.0,0.1220472440944882,False,False
-2026-11-04,US,Milwaukee,Wisconsin,43.0389,-87.9065,41.38,3,0.0,0.0,0.2874015748031496,True,True
-2026-11-04,US,Minneapolis,Minnesota,44.98,-93.2638,83.02,3,0.0,0.0,0.6220472440944882,True,True
-2026-11-04,US,Minnetonka,Minnesota,44.9133,-93.5033,10.65,0,0.0,0.0,0.6574803149606299,True,True
+2026-11-04,US,Mililani,Hawaii,21.4504,-158.015,14.18,0,0.0,0.0,0.1220472440944882,False,False
+2026-11-04,US,Milwaukee,Wisconsin,43.0389,-87.9065,41.36,3,0.0,0.0,0.2874015748031496,True,True
+2026-11-04,US,Minneapolis,Minnesota,44.98,-93.2638,82.98,3,0.0,0.0,0.6220472440944882,True,True
+2026-11-04,US,Minnetonka,Minnesota,44.9133,-93.5033,10.64,0,0.0,0.0,0.6574803149606299,True,True
 2026-11-04,US,Missoula,Montana,46.8722,-113.994,4.44,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Mobile,Alabama,30.6944,-88.043,25.73,0,0.0,0.0,0.09448818897637795,False,False
+2026-11-04,US,Mobile,Alabama,30.6944,-88.043,25.71,0,0.0,0.0,0.09448818897637795,False,False
 2026-11-04,US,Morgantown,West Virginia,39.6295,-79.9559,16.22,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Morristown,New Jersey,40.7968,-74.4815,32.25,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Mount Pleasant,South Carolina,32.7941,-79.8626,33.6,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-04,US,Myrtle Beach,South Carolina,33.6891,-78.8867,39.16,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Naperville,Illinois,41.7859,-88.1473,48.12,0,0.0,0.0,0.4881889763779528,True,True
-2026-11-04,US,Naples,Florida,26.1423,-81.796,121.2,3,0.0,0.0,0.17716535433070865,False,False
+2026-11-04,US,Morristown,New Jersey,40.7968,-74.4815,32.230000000000004,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Mount Pleasant,South Carolina,32.7941,-79.8626,33.58,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-04,US,Myrtle Beach,South Carolina,33.6891,-78.8867,39.14,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Naperville,Illinois,41.7859,-88.1473,48.089999999999996,0,0.0,0.0,0.4881889763779528,True,True
+2026-11-04,US,Naples,Florida,26.1423,-81.796,121.13,3,0.0,0.0,0.17716535433070865,False,False
 2026-11-04,US,Nashua,New Hampshire,42.7654,-71.4676,13.68,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Nashville,Tennessee,36.1659,-86.7844,112.72,3,0.0,0.0,2.2440944881889764,True,True
-2026-11-04,US,New Canaan,Connecticut,41.1468,-73.4948,26.51,0,0.0,0.0,0.0,False,False
-2026-11-04,US,New Castle,Delaware,39.6595,-75.5636,15.72,0,0.0,0.0,0.0,False,False
-2026-11-04,US,New Orleans,Louisiana,29.9546,-90.0751,51.28,3,0.0,0.0,0.09842519685039369,False,False
-2026-11-04,US,New York,New York,40.7143,-74.006,1242.11,94,0.0,0.0,0.0,False,False
-2026-11-04,US,Newark,Delaware,39.6837,-75.7497,17.05,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Nashville,Tennessee,36.1659,-86.7844,112.67,3,0.0,0.0,2.2440944881889764,True,True
+2026-11-04,US,New Canaan,Connecticut,41.1468,-73.4948,26.490000000000002,0,0.0,0.0,0.0,False,False
+2026-11-04,US,New Castle,Delaware,39.6595,-75.5636,15.71,0,0.0,0.0,0.0,False,False
+2026-11-04,US,New Orleans,Louisiana,29.9546,-90.0751,51.25,3,0.0,0.0,0.09842519685039369,False,False
+2026-11-04,US,New York,New York,40.7143,-74.006,1241.45,94,0.0,0.0,0.0,False,False
+2026-11-04,US,Newark,Delaware,39.6837,-75.7497,17.03,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Norman,Oklahoma,35.2226,-97.4395,18.15,0,0.0,0.0,0.0,False,False
 2026-11-04,US,North Las Vegas,Nevada,36.1989,-115.1175,3.35,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Norwalk,Connecticut,41.1176,-73.4079,21.68,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Oakland,California,37.8044,-122.2708,106.24,4,0.0,0.0,0.055118110236220465,False,False
-2026-11-04,US,Oklahoma City,Oklahoma,35.4676,-97.5164,36.5,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Olathe,Kansas,38.8814,-94.8191,18.4,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Omaha,Nebraska,41.2563,-95.9404,36.93,0,0.0,0.0,0.14173228346456693,False,False
-2026-11-04,US,Orlando,Florida,28.5383,-81.3792,155.17,4,0.0,0.0,0.1062992125984252,False,False
-2026-11-04,US,Overland Park,Kansas,38.9822,-94.6708,34.5,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Paducah,Kentucky,37.0834,-88.6,13.21,0,0.0,0.0,1.3818897637795275,True,True
+2026-11-04,US,Norwalk,Connecticut,41.1176,-73.4079,21.67,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Oakland,California,37.8044,-122.2708,106.17999999999999,4,0.0,0.0,0.055118110236220465,False,False
+2026-11-04,US,Oklahoma City,Oklahoma,35.4676,-97.5164,36.48,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Olathe,Kansas,38.8814,-94.8191,18.38,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Omaha,Nebraska,41.2563,-95.9404,36.92,0,0.0,0.0,0.14173228346456693,False,False
+2026-11-04,US,Orlando,Florida,28.5383,-81.3792,155.09,4,0.0,0.0,0.1062992125984252,False,False
+2026-11-04,US,Overland Park,Kansas,38.9822,-94.6708,34.48,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Paducah,Kentucky,37.0834,-88.6,13.2,0,0.0,0.0,1.3818897637795275,True,True
 2026-11-04,US,Papillion,Nebraska,41.1544,-96.0422,5.9,0,0.0,0.0,0.1220472440944882,False,False
 2026-11-04,US,Park City,Utah,40.6461,-111.498,11.52,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-04,US,Philadelphia,Pennsylvania,39.9524,-75.1636,173.54,8,0.0,0.0,0.0,False,False
-2026-11-04,US,Phoenix,Arizona,33.4484,-112.074,73.06,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,107.98,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Plymouth,Michigan,42.3714,-83.4702,17.240000000000002,0,0.0,0.0,0.22047244094488186,True,True
+2026-11-04,US,Philadelphia,Pennsylvania,39.9524,-75.1636,173.45,8,0.0,0.0,0.0,False,False
+2026-11-04,US,Phoenix,Arizona,33.4484,-112.074,73.02,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,107.92,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Plymouth,Michigan,42.3714,-83.4702,17.23,0,0.0,0.0,0.22047244094488186,True,True
 2026-11-04,US,Plymouth,Minnesota,45.0105,-93.4555,19.31,0,0.0,0.0,0.7244094488188976,True,True
-2026-11-04,US,Portland,Maine,43.6574,-70.2589,14.459999999999999,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Portland,Oregon,45.5234,-122.6762,162.57,7,0.0,0.0,0.0,False,False
+2026-11-04,US,Portland,Maine,43.6574,-70.2589,14.44,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Portland,Oregon,45.5234,-122.6762,162.48,7,0.0,0.0,0.0,False,False
 2026-11-04,US,Portsmouth,New Hampshire,43.077,-70.7577,8.17,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-04,US,Princeton,New Jersey,40.3487,-74.659,24.02,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Providence,Rhode Island,41.824,-71.4128,23.47,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-04,US,Raleigh,North Carolina,35.7721,-78.6386,106.89,3,0.0,0.0,0.003937007874015748,False,False
+2026-11-04,US,Princeton,New Jersey,40.3487,-74.659,24.01,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Providence,Rhode Island,41.824,-71.4128,23.46,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-04,US,Raleigh,North Carolina,35.7721,-78.6386,106.83,3,0.0,0.0,0.003937007874015748,False,False
 2026-11-04,US,Rapid City,South Dakota,44.0805,-103.231,5.08,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Reading,Massachusetts,42.5256,-71.0953,151.07,17,0.0,0.0,0.0,False,False
+2026-11-04,US,Reading,Massachusetts,42.5256,-71.0953,150.99,17,0.0,0.0,0.0,False,False
 2026-11-04,US,Reno,Nevada,39.5296,-119.8138,31.43,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-04,US,Richmond,Virginia,37.5538,-77.4603,74.83,3,0.0,0.0,0.003937007874015748,False,False
+2026-11-04,US,Richmond,Virginia,37.5538,-77.4603,74.79,3,0.0,0.0,0.003937007874015748,False,False
 2026-11-04,US,Rock Springs,Wyoming,41.5875,-109.2029,5.21,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-04,US,Rockville,Maryland,39.084,-77.1528,32.7,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Rockville,Maryland,39.084,-77.1528,32.68,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Rogers,Arkansas,36.332,-94.1185,16.32,0,0.0,0.0,0.003937007874015748,False,False
 2026-11-04,US,Saint Charles,Missouri,38.7839,-90.4812,17.8,0,0.0,0.0,0.3031496062992126,True,True
-2026-11-04,US,Saint Louis,Missouri,38.6517,-90.2053,80.02,3,0.0,0.0,0.7007874015748031,True,True
-2026-11-04,US,Saint Paul,Minnesota,44.9444,-93.0933,41.88,0,0.0,0.0,0.4488188976377953,True,True
-2026-11-04,US,Salem,Oregon,44.9429,-123.0351,16.79,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Salt Lake City,Utah,40.7608,-111.891,26.9,0,0.0,0.0,0.047244094488188976,False,False
-2026-11-04,US,San Antonio,Texas,29.4241,-98.4936,121.79,4,0.0,0.0,0.0,False,False
-2026-11-04,US,San Diego,California,32.7157,-117.1647,196.59,8,0.0,0.0,0.027559055118110232,False,False
-2026-11-04,US,San Francisco,California,37.7749,-122.4194,396.54,23,0.0,0.0,0.0905511811023622,False,False
-2026-11-04,US,San Jose,California,37.3394,-121.895,155.77,8,0.0,0.0,0.007874015748031496,False,False
-2026-11-04,US,Sandy,Utah,40.5916,-111.8841,9.35,0,0.0,0.0,0.03543307086614173,False,False
-2026-11-04,US,Santa Fe,New Mexico,35.687,-105.9378,16.17,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Savannah,Georgia,32.0835,-81.0998,50.85,3,0.0,0.0,0.01968503937007874,False,False
+2026-11-04,US,Saint Louis,Missouri,38.6517,-90.2053,79.98,3,0.0,0.0,0.7007874015748031,True,True
+2026-11-04,US,Saint Paul,Minnesota,44.9444,-93.0933,41.86,0,0.0,0.0,0.4488188976377953,True,True
+2026-11-04,US,Salem,Oregon,44.9429,-123.0351,16.77,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Salt Lake City,Utah,40.7608,-111.891,26.88,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-04,US,San Antonio,Texas,29.4241,-98.4936,121.74000000000001,4,0.0,0.0,0.0,False,False
+2026-11-04,US,San Diego,California,32.7157,-117.1647,196.49,8,0.0,0.0,0.027559055118110232,False,False
+2026-11-04,US,San Francisco,California,37.7749,-122.4194,396.31,23,0.0,0.0,0.0905511811023622,False,False
+2026-11-04,US,San Jose,California,37.3394,-121.895,155.68,8,0.0,0.0,0.007874015748031496,False,False
+2026-11-04,US,Sandy,Utah,40.5916,-111.8841,9.34,0,0.0,0.0,0.03543307086614173,False,False
+2026-11-04,US,Santa Fe,New Mexico,35.687,-105.9378,16.16,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Savannah,Georgia,32.0835,-81.0998,50.82,3,0.0,0.0,0.01968503937007874,False,False
 2026-11-04,US,Scarborough,Maine,43.5781,-70.3217,9.56,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Scottsdale,Arizona,33.5092,-111.899,59.44,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Seattle,Washington,47.6062,-122.3321,244.91,10,0.0,0.0,0.0,False,False
+2026-11-04,US,Scottsdale,Arizona,33.5092,-111.899,59.39,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Seattle,Washington,47.6062,-122.3321,244.76999999999998,10,0.0,0.0,0.0,False,False
 2026-11-04,US,Sheridan,Wyoming,44.7972,-106.9562,6.53,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Shreveport,Louisiana,32.5251,-93.7502,46.16,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Silver Spring,Maryland,38.9907,-77.0261,35.03,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Shreveport,Louisiana,32.5251,-93.7502,46.13,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Silver Spring,Maryland,38.9907,-77.0261,35.01,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Sioux Falls,South Dakota,43.55,-96.7003,9.63,0,0.0,0.0,0.3700787401574803,True,True
 2026-11-04,US,Sitka,Alaska,57.0532,-135.3309,2.54,0,0.0,0.0,1.0472440944881891,True,True
-2026-11-04,US,Somerville,Massachusetts,42.3876,-71.0995,29.04,0,0.0,0.0,0.0,False,False
-2026-11-04,US,South Burlington,Vermont,44.467,-73.171,7.39,0,0.0,0.0,0.0,False,False
-2026-11-04,US,South Jordan,Utah,40.5622,-111.9297,14.49,0,0.0,0.0,0.03543307086614173,False,False
+2026-11-04,US,Somerville,Massachusetts,42.3876,-71.0995,29.02,0,0.0,0.0,0.0,False,False
+2026-11-04,US,South Burlington,Vermont,44.467,-73.171,7.38,0,0.0,0.0,0.0,False,False
+2026-11-04,US,South Jordan,Utah,40.5622,-111.9297,14.47,0,0.0,0.0,0.03543307086614173,False,False
 2026-11-04,US,Southaven,Mississippi,34.989,-90.0126,6.71,0,0.0,0.0,1.84251968503937,True,True
-2026-11-04,US,Spokane,Washington,47.6569,-117.425,15.4,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Springfield,Missouri,37.2153,-93.2982,18.02,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-04,US,Stamford,Connecticut,41.0534,-73.5387,25.810000000000002,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Staten Island,New York,40.5623,-74.1399,79.05,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Spokane,Washington,47.6569,-117.425,15.39,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Springfield,Missouri,37.2153,-93.2982,18.01,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-04,US,Stamford,Connecticut,41.0534,-73.5387,25.79,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Staten Island,New York,40.5623,-74.1399,79.01,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Stowe,Vermont,44.4653,-72.6846,5.19,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Tacoma,Washington,47.2529,-122.4443,35.53,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Tampa,Florida,27.9475,-82.4584,110.67,3,0.0,0.0,0.2125984251968504,True,True
+2026-11-04,US,Tacoma,Washington,47.2529,-122.4443,35.51,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Tampa,Florida,27.9475,-82.4584,110.61,3,0.0,0.0,0.2125984251968504,True,True
 2026-11-04,US,Tijeras,New Mexico,35.0809,-106.3881,4.5600000000000005,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Tucson,Arizona,32.2217,-110.9265,63.93,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Tulsa,Oklahoma,36.154,-95.9928,71.61,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Vancouver,Washington,45.6387,-122.6615,43.22,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Virginia Beach,Virginia,36.8529,-75.978,76.07000000000001,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Tucson,Arizona,32.2217,-110.9265,63.9,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Tulsa,Oklahoma,36.154,-95.9928,71.58,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Vancouver,Washington,45.6387,-122.6615,43.2,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Virginia Beach,Virginia,36.8529,-75.978,76.03,3,0.0,0.0,0.0,False,False
 2026-11-04,US,Warwick,Rhode Island,41.7001,-71.4162,7.42,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Washington,District of Columbia,38.8951,-77.0364,280.03,13,0.0,0.0,0.0,False,False
+2026-11-04,US,Washington,District of Columbia,38.8951,-77.0364,279.89,13,0.0,0.0,0.0,False,False
 2026-11-04,US,Wasilla,Alaska,61.5809,-149.4415,1.6,0,0.0,0.0,0.03937007874015748,False,False
 2026-11-04,US,Waukesha,Wisconsin,43.0117,-88.2315,10.48,0,0.0,0.0,0.33070866141732286,True,True
-2026-11-04,US,West Chester,Pennsylvania,39.961,-75.608,27.89,0,0.0,0.0,0.0,False,False
+2026-11-04,US,West Chester,Pennsylvania,39.961,-75.608,27.87,0,0.0,0.0,0.0,False,False
 2026-11-04,US,West Des Moines,Iowa,41.5772,-93.7113,8.69,0,0.0,0.0,0.14173228346456693,False,False
-2026-11-04,US,West Fargo,North Dakota,46.875,-96.9004,6.25,0,0.0,0.0,0.41338582677165353,True,True
-2026-11-04,US,West Lafayette,Indiana,40.4259,-86.9081,14.57,0,0.0,0.0,0.11023622047244093,False,False
-2026-11-04,US,Westfield,New Jersey,40.659,-74.3474,29.52,0,0.0,0.0,0.0,False,False
+2026-11-04,US,West Fargo,North Dakota,46.875,-96.9004,6.24,0,0.0,0.0,0.41338582677165353,True,True
+2026-11-04,US,West Lafayette,Indiana,40.4259,-86.9081,14.55,0,0.0,0.0,0.11023622047244093,False,False
+2026-11-04,US,Westfield,New Jersey,40.659,-74.3474,29.5,0,0.0,0.0,0.0,False,False
 2026-11-04,US,Wheeling,West Virginia,40.064,-80.7209,9.14,0,0.0,0.0,0.01968503937007874,False,False
 2026-11-04,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,10.64,0,0.0,0.0,0.2952755905511811,True,True
-2026-11-04,US,Wichita,Kansas,37.6922,-97.3375,37.0,0,0.0,0.0,0.0,False,False
-2026-11-04,US,Wilmette,Illinois,42.0722,-87.7228,26.130000000000003,0,0.0,0.0,0.421259842519685,True,True
-2026-11-04,US,Wilmington,Delaware,39.746,-75.5466,44.07,3,0.0,0.0,0.0,False,False
-2026-11-04,US,Wilmington,North Carolina,34.2356,-77.946,49.94,3,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,CAN,Markham,Ontario,43.8668,-79.2663,1.36,0,0.0,0.0,0.1496062992125984,False,False
-2026-11-05,CAN,Montreal,Quebec,45.5088,-73.5878,3.35,0,0.0,0.0,0.05905511811023622,False,False
-2026-11-05,CAN,North Vancouver,British Columbia,49.3164,-123.0693,2.62,0,0.0,0.0,0.4881889763779528,True,True
-2026-11-05,CAN,Ottawa,Ontario,45.4112,-75.6981,5.49,0,0.0,0.0,0.17716535433070865,False,False
-2026-11-05,CAN,Paradise,Newfoundland and Labrador,47.5333,-52.9667,0.13,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,Regina,Saskatchewan,50.4501,-104.6178,0.12,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,Saskatoon,Saskatchewan,52.1324,-106.6689,0.58,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,St. Albert,Alberta,53.6334,-113.6353,0.3,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,St. John'S,Newfoundland and Labrador,47.5649,-52.7093,0.14,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,Surrey,British Columbia,49.1064,-122.8251,4.03,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-05,CAN,Toronto,Ontario,43.7064,-79.3986,16.82,1,0.0,0.0,0.10236220472440945,False,False
-2026-11-05,CAN,Vancouver,British Columbia,49.2497,-123.1193,12.89,0,0.0,0.0,0.2125984251968504,True,True
-2026-11-05,CAN,Victoria,British Columbia,48.4359,-123.3516,3.04,0,0.0,0.0,0.047244094488188976,False,False
-2026-11-05,CAN,Wainwright,Alberta,52.8348,-110.8534,0.09,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,West Baptiste,Alberta,54.7502,-113.5688,0.05,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,Winnipeg,Manitoba,49.8844,-97.147,0.63,0,0.0,0.0,0.0,False,False
-2026-11-05,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.15,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Aberdeen,South Dakota,45.4647,-98.4865,0.47000000000000003,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Albuquerque,New Mexico,35.0845,-106.6511,16.71,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Alexandria,Virginia,38.8048,-77.0469,45.46,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-05,US,Alpharetta,Georgia,34.0754,-84.2941,14.18,0,0.0,0.0,0.16535433070866143,False,False
-2026-11-05,US,Ames,Iowa,42.0347,-93.6199,2.5500000000000003,0,0.0,0.0,0.047244094488188976,False,False
-2026-11-05,US,Anchorage,Alaska,61.2181,-149.9003,4.09,0,0.0,0.0,0.11023622047244093,False,False
-2026-11-05,US,Ann Arbor,Michigan,42.2776,-83.7409,14.77,0,0.0,0.0,0.05905511811023622,False,False
-2026-11-05,US,Annapolis,Maryland,38.9786,-76.4918,10.36,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Appleton,Wisconsin,44.2619,-88.4154,3.28,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-05,US,Arlington,Virginia,38.881,-77.1043,32.61,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Astoria,New York,40.772,-73.9301,14.64,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Atlanta,Georgia,33.749,-84.388,64.50999999999999,0,0.0,0.0,0.2440944881889764,True,True
-2026-11-05,US,Aurora,Colorado,39.7294,-104.8319,7.19,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Austin,Texas,30.2672,-97.7431,82.94,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Baltimore,Maryland,39.2904,-76.6122,19.89,0,0.0,0.0,0.2874015748031496,True,True
-2026-11-05,US,Bangor,Maine,44.7988,-68.7726,1.58,0,0.0,0.0,0.07874015748031496,False,False
-2026-11-05,US,Barrington,Rhode Island,41.7407,-71.3087,4.21,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Baton Rouge,Louisiana,30.4433,-91.1875,22.32,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Beaverton,Oregon,45.4871,-122.8037,6.49,0,0.0,0.0,0.1062992125984252,False,False
-2026-11-05,US,Bellevue,Nebraska,41.1367,-95.8908,1.34,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Bellevue,Washington,47.6104,-122.2007,14.530000000000001,0,0.0,0.0,0.09448818897637795,False,False
-2026-11-05,US,Bentonville,Arkansas,36.3728,-94.2088,7.52,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Berkley,Massachusetts,41.8459,-71.0828,5.5600000000000005,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Bethesda,Maryland,38.9807,-77.1003,20.82,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Billings,Montana,45.7833,-108.5007,3.38,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Birmingham,Alabama,33.5207,-86.8025,19.96,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Bismarck,North Dakota,46.8083,-100.7837,1.44,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Bloomfield Hills,Michigan,42.5836,-83.2455,9.65,0,0.0,0.0,0.1496062992125984,False,False
-2026-11-05,US,Bloomington,Indiana,39.1653,-86.5264,7.88,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Boca Raton,Florida,26.3587,-80.0831,32.16,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Boise,Idaho,43.6135,-116.2034,8.91,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Boston,Massachusetts,42.3584,-71.0598,53.21,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Bowling Green,Kentucky,36.9903,-86.4436,3.65,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Bozeman,Montana,45.6796,-111.0386,2.67,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Broken Arrow,Oklahoma,36.0526,-95.7908,4.74,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Bronx,New York,40.8499,-73.8664,24.33,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Brooklyn,New York,40.6501,-73.9496,209.66,12,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Burlington,Vermont,44.4759,-73.2121,1.97,0,0.0,0.0,0.16141732283464566,False,False
-2026-11-05,US,Cambridge,Massachusetts,42.3751,-71.1056,19.11,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Carmel,Indiana,39.9784,-86.118,14.55,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Carson City,Nevada,39.1638,-119.7674,1.2,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Casper,Wyoming,42.8666,-106.3131,0.59,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Cedar Rapids,Iowa,42.0083,-91.6441,5.33,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-05,US,Chapel Hill,North Carolina,35.9132,-79.0558,12.58,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-05,US,Charleston,South Carolina,32.7763,-79.9328,17.17,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Charleston,West Virginia,38.3498,-81.6326,2.25,0,0.0,0.0,0.4330708661417323,True,True
-2026-11-05,US,Charlotte,North Carolina,35.2271,-80.8431,56.58,0,0.0,0.0,0.14173228346456693,False,False
-2026-11-05,US,Chattanooga,Tennessee,35.0456,-85.3097,9.86,0,0.0,0.0,0.07086614173228346,False,False
-2026-11-05,US,Chesterfield,Missouri,38.6631,-90.5771,8.23,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Cheyenne,Wyoming,41.14,-104.8202,2.69,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Chicago,Illinois,41.85,-87.65,157.62,5,0.0,0.0,0.07874015748031496,False,False
-2026-11-05,US,Cincinnati,Ohio,39.1271,-84.5144,39.84,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Cleveland,Ohio,41.4995,-81.6954,8.03,0,0.0,0.0,0.3779527559055118,True,True
-2026-11-05,US,Cody,Wyoming,44.5263,-109.0565,0.7000000000000001,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Coeur D'Alene,Idaho,47.6777,-116.7805,0.5700000000000001,0,0.0,0.0,0.08661417322834647,False,False
-2026-11-05,US,Colorado Springs,Colorado,38.8339,-104.8214,15.56,0,0.0,0.0,0.12598425196850394,False,False
-2026-11-05,US,Columbia,South Carolina,34.0007,-81.0348,12.34,0,0.0,0.0,0.047244094488188976,False,False
-2026-11-05,US,Columbus,Ohio,39.9612,-82.9988,33.18,0,0.0,0.0,0.19291338582677167,False,False
-2026-11-05,US,Cordova,Alaska,60.5432,-145.7587,1.57,0,0.0,0.0,0.39370078740157477,True,True
-2026-11-05,US,Cranston,Rhode Island,41.7798,-71.4373,2.21,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Dallas,Texas,32.7831,-96.8067,80.45,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Dayton,Ohio,39.759,-84.1916,12.7,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Decatur,Georgia,33.7748,-84.2963,10.72,0,0.0,0.0,0.23228346456692914,True,True
-2026-11-05,US,Denver,Colorado,39.7392,-104.9847,30.13,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Des Moines,Iowa,41.6005,-93.6091,3.69,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Dickinson,North Dakota,46.8792,-102.7896,1.42,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Downers Grove,Illinois,41.8089,-88.0112,7.7700000000000005,0,0.0,0.0,0.08661417322834647,False,False
-2026-11-05,US,Doylestown,Pennsylvania,40.3101,-75.1299,8.69,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Dublin,Ohio,40.0992,-83.1141,8.73,0,0.0,0.0,0.16535433070866143,False,False
-2026-11-05,US,Durham,North Carolina,35.994,-78.8986,11.97,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Eagle,Idaho,43.6954,-116.354,2.44,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Eagle Mountain,Utah,40.3144,-111.9849,0.7000000000000001,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,East Greenwich,Rhode Island,41.6604,-71.4559,1.98,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Eden Prairie,Minnesota,44.8547,-93.4708,4.41,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Edmond,Oklahoma,35.6528,-97.4781,20.36,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Eliot,Maine,43.1531,-70.8001,1.26,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Elkhorn,Nebraska,41.345,-96.256,3.15,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Essex Junction,Vermont,44.4906,-73.111,1.31,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-05,US,Eugene,Oregon,44.0521,-123.0868,6.890000000000001,0,0.0,0.0,0.055118110236220465,False,False
-2026-11-05,US,Evanston,Illinois,42.0411,-87.6901,9.49,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Ewa Beach,Hawaii,21.3156,-158.0072,8.85,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Exeter,New Hampshire,42.9815,-70.9478,2.0,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Fairbanks,Alaska,64.8378,-147.7164,1.16,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fairfax,Virginia,38.8462,-77.3064,15.76,0,0.0,0.0,0.1220472440944882,False,False
-2026-11-05,US,Fairfield,Connecticut,41.1412,-73.2637,8.290000000000001,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fairhope,Alabama,30.523,-87.9033,5.26,0,0.0,0.0,0.1377952755905512,False,False
-2026-11-05,US,Falmouth,Maine,43.7295,-70.242,2.21,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Fargo,North Dakota,46.8772,-96.7898,3.49,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fayetteville,Arkansas,36.0626,-94.1574,5.08,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fort Collins,Colorado,40.5853,-105.0844,7.46,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fort Wayne,Indiana,41.1306,-85.1289,10.9,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Fort Worth,Texas,32.7254,-97.3208,33.52,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Franklin,Tennessee,35.9251,-86.8689,16.16,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Gilbert,Arizona,33.3528,-111.789,7.19,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Grand Forks,North Dakota,47.9253,-97.0328,0.51,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Grand Rapids,Michigan,42.9634,-85.6681,16.16,0,0.0,0.0,0.16141732283464566,False,False
-2026-11-05,US,Great Falls,Montana,47.5002,-111.3008,1.57,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Greenville,South Carolina,34.8526,-82.394,19.26,0,0.0,0.0,0.9960629921259843,True,True
-2026-11-05,US,Greenwich,Connecticut,41.0265,-73.6285,22.54,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Gulfport,Mississippi,30.3674,-89.0928,3.47,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Hampton,New Hampshire,42.9376,-70.8389,3.13,0,0.0,0.0,0.043307086614173235,False,False
-2026-11-05,US,Hattiesburg,Mississippi,31.3271,-89.2903,1.96,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Henderson,Nevada,36.0397,-114.9819,11.83,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Hoboken,New Jersey,40.744,-74.0324,16.23,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Honolulu,Hawaii,21.3069,-157.8583,44.75,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Houston,Texas,29.7633,-95.3633,148.48,2,0.0,0.0,0.0,False,False
-2026-11-05,US,Huntington,West Virginia,38.4192,-82.4452,2.67,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-05,US,Huntsville,Alabama,34.7304,-86.5859,15.93,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Hurricane,West Virginia,38.4326,-82.0201,1.4,0,0.0,0.0,0.3700787401574803,True,True
-2026-11-05,US,Hyde Park,Vermont,44.5939,-72.6165,1.13,0,0.0,0.0,0.17716535433070865,False,False
-2026-11-05,US,Indianapolis,Indiana,39.7684,-86.158,25.78,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Iowa City,Iowa,41.6611,-91.5302,3.91,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Jackson,Mississippi,32.2988,-90.1848,2.13,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Jersey City,New Jersey,40.7282,-74.0776,31.46,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Jonesboro,Arkansas,35.8423,-90.7043,5.07,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Kailua,Hawaii,21.4024,-157.7405,6.16,0,0.0,0.0,0.15354330708661418,False,False
-2026-11-05,US,Kalispell,Montana,48.1958,-114.3129,1.96,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Kaneohe,Hawaii,21.3999,-157.799,5.75,0,0.0,0.0,0.15354330708661418,False,False
-2026-11-05,US,Kansas City,Missouri,39.0997,-94.5786,15.78,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Knoxville,Tennessee,35.9606,-83.9207,22.15,0,0.0,0.0,0.9291338582677166,True,True
-2026-11-05,US,Kuna,Idaho,43.4918,-116.4201,4.0600000000000005,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Lafayette,Louisiana,30.2241,-92.0198,13.1,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Lake Oswego,Oregon,45.4207,-122.6706,9.67,0,0.0,0.0,0.16535433070866143,False,False
-2026-11-05,US,Lancaster,Pennsylvania,40.0379,-76.3055,9.63,0,0.0,0.0,0.1889763779527559,False,False
-2026-11-05,US,Las Cruces,New Mexico,32.3123,-106.7783,3.83,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Las Vegas,Nevada,36.175,-115.1372,32.26,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Lawrence,Kansas,38.9717,-95.2352,3.77,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Leawood,Kansas,38.9667,-94.6169,3.41,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Lennox,South Dakota,43.3541,-96.892,0.99,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-05,US,Lewes,Delaware,38.7746,-75.1393,4.91,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Lexington,Kentucky,37.9887,-84.4777,19.37,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Lincoln,Nebraska,40.8,-96.667,5.61,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Little Rock,Arkansas,34.7465,-92.2896,13.77,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Littleton,Colorado,39.6133,-105.0166,8.76,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Los Alamos,New Mexico,35.8881,-106.307,1.77,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Los Angeles,California,34.0522,-118.2437,129.75,4,0.0,0.0,0.0,False,False
-2026-11-05,US,Louisville,Kentucky,38.2542,-85.7594,28.13,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Macomb,Michigan,42.7009,-82.9591,5.0,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Madison,Alabama,34.6993,-86.7483,6.26,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Madison,Mississippi,32.4618,-90.1154,4.03,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Madison,South Dakota,44.0061,-97.114,0.65,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Madison,Wisconsin,43.073,-89.4012,11.03,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Manchester,New Hampshire,42.9956,-71.4548,4.5,0,0.0,0.0,0.07874015748031496,False,False
-2026-11-05,US,Marietta,Georgia,33.9526,-84.5499,30.17,0,0.0,0.0,0.20078740157480313,True,True
-2026-11-05,US,Memphis,Tennessee,35.1495,-90.049,17.21,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Meridian,Idaho,43.6121,-116.3915,5.26,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Mesa,Arizona,33.4223,-111.8226,7.43,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Metairie,Louisiana,29.9841,-90.1528,8.02,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Miami,Florida,25.7743,-80.1937,145.06,0,0.0,0.0,0.027559055118110232,False,False
-2026-11-05,US,Middlesboro,Kentucky,36.6084,-83.7166,1.22,0,0.0,0.0,0.452755905511811,True,True
-2026-11-05,US,Middletown,Delaware,39.4496,-75.7163,2.58,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Mililani,Hawaii,21.4504,-158.015,4.76,0,0.0,0.0,0.12598425196850394,False,False
-2026-11-05,US,Milwaukee,Wisconsin,43.0389,-87.9065,13.96,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Minneapolis,Minnesota,44.98,-93.2638,27.98,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-05,US,Minnetonka,Minnesota,44.9133,-93.5033,3.56,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Missoula,Montana,46.8722,-113.994,1.49,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Mobile,Alabama,30.6944,-88.043,8.72,0,0.0,0.0,0.043307086614173235,False,False
-2026-11-05,US,Morgantown,West Virginia,39.6295,-79.9559,5.47,0,0.0,0.0,0.2992125984251968,True,True
-2026-11-05,US,Morristown,New Jersey,40.7968,-74.4815,10.85,0,0.0,0.0,0.2913385826771654,True,True
-2026-11-05,US,Mount Pleasant,South Carolina,32.7941,-79.8626,11.32,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Myrtle Beach,South Carolina,33.6891,-78.8867,13.23,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-05,US,Naperville,Illinois,41.7859,-88.1473,16.24,0,0.0,0.0,0.08661417322834647,False,False
-2026-11-05,US,Naples,Florida,26.1423,-81.796,40.85,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Nashua,New Hampshire,42.7654,-71.4676,4.6,0,0.0,0.0,0.16535433070866143,False,False
-2026-11-05,US,Nashville,Tennessee,36.1659,-86.7844,37.980000000000004,0,0.0,0.0,0.0,False,False
-2026-11-05,US,New Canaan,Connecticut,41.1468,-73.4948,8.92,0,0.0,0.0,0.06692913385826771,False,False
-2026-11-05,US,New Castle,Delaware,39.6595,-75.5636,5.2700000000000005,0,0.0,0.0,0.03543307086614173,False,False
-2026-11-05,US,New Orleans,Louisiana,29.9546,-90.0751,17.31,0,0.0,0.0,0.0,False,False
-2026-11-05,US,New York,New York,40.7143,-74.006,418.74,34,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Newark,Delaware,39.6837,-75.7497,5.79,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-05,US,Norman,Oklahoma,35.2226,-97.4395,6.11,0,0.0,0.0,0.18503937007874016,False,False
-2026-11-05,US,North Las Vegas,Nevada,36.1989,-115.1175,1.15,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Norwalk,Connecticut,41.1176,-73.4079,7.32,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Oakland,California,37.8044,-122.2708,35.81,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Oklahoma City,Oklahoma,35.4676,-97.5164,12.3,0,0.0,0.0,0.1062992125984252,False,False
-2026-11-05,US,Olathe,Kansas,38.8814,-94.8191,6.18,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Omaha,Nebraska,41.2563,-95.9404,12.46,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Orlando,Florida,28.5383,-81.3792,52.3,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Overland Park,Kansas,38.9822,-94.6708,11.63,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Paducah,Kentucky,37.0834,-88.6,4.45,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Papillion,Nebraska,41.1544,-96.0422,1.98,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Park City,Utah,40.6461,-111.498,3.91,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Philadelphia,Pennsylvania,39.9524,-75.1636,58.480000000000004,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Phoenix,Arizona,33.4484,-112.074,24.57,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,36.36,0,0.0,0.0,0.14173228346456693,False,False
-2026-11-05,US,Plymouth,Michigan,42.3714,-83.4702,5.83,0,0.0,0.0,0.1377952755905512,False,False
-2026-11-05,US,Plymouth,Minnesota,45.0105,-93.4555,6.52,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-05,US,Portland,Maine,43.6574,-70.2589,4.88,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-05,US,Portland,Oregon,45.5234,-122.6762,54.84,0,0.0,0.0,0.11417322834645668,False,False
-2026-11-05,US,Portsmouth,New Hampshire,43.077,-70.7577,2.75,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Princeton,New Jersey,40.3487,-74.659,8.08,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Providence,Rhode Island,41.824,-71.4128,7.96,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,Raleigh,North Carolina,35.7721,-78.6386,36.01,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Rapid City,South Dakota,44.0805,-103.231,1.73,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Reading,Massachusetts,42.5256,-71.0953,50.95,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Reno,Nevada,39.5296,-119.8138,10.6,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Richmond,Virginia,37.5538,-77.4603,25.21,0,0.0,0.0,0.01968503937007874,False,False
-2026-11-05,US,Rock Springs,Wyoming,41.5875,-109.2029,1.77,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Rockville,Maryland,39.084,-77.1528,11.07,0,0.0,0.0,0.12992125984251968,False,False
-2026-11-05,US,Rogers,Arkansas,36.332,-94.1185,5.48,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Saint Charles,Missouri,38.7839,-90.4812,5.99,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Saint Louis,Missouri,38.6517,-90.2053,26.96,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Saint Paul,Minnesota,44.9444,-93.0933,14.120000000000001,0,0.0,0.0,0.08661417322834647,False,False
-2026-11-05,US,Salem,Oregon,44.9429,-123.0351,5.67,0,0.0,0.0,0.0905511811023622,False,False
-2026-11-05,US,Salt Lake City,Utah,40.7608,-111.891,9.08,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,San Antonio,Texas,29.4241,-98.4936,41.07,0,0.0,0.0,0.0,False,False
-2026-11-05,US,San Diego,California,32.7157,-117.1647,66.24,0,0.0,0.0,0.0,False,False
-2026-11-05,US,San Francisco,California,37.7749,-122.4194,133.69,3,0.0,0.0,0.0,False,False
-2026-11-05,US,San Jose,California,37.3394,-121.895,52.56,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Sandy,Utah,40.5916,-111.8841,3.15,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Santa Fe,New Mexico,35.687,-105.9378,5.43,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Savannah,Georgia,32.0835,-81.0998,17.17,0,0.0,0.0,0.03543307086614173,False,False
-2026-11-05,US,Scarborough,Maine,43.5781,-70.3217,3.23,0,0.0,0.0,0.1377952755905512,False,False
-2026-11-05,US,Scottsdale,Arizona,33.5092,-111.899,20.07,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Seattle,Washington,47.6062,-122.3321,82.54,0,0.0,0.0,0.08267716535433071,False,False
-2026-11-05,US,Sheridan,Wyoming,44.7972,-106.9562,2.17,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Shreveport,Louisiana,32.5251,-93.7502,15.56,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Silver Spring,Maryland,38.9907,-77.0261,11.83,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Sioux Falls,South Dakota,43.55,-96.7003,3.28,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Sitka,Alaska,57.0532,-135.3309,0.85,0,0.0,0.0,1.7244094488188975,True,True
-2026-11-05,US,Somerville,Massachusetts,42.3876,-71.0995,9.82,0,0.0,0.0,0.011811023622047244,False,False
-2026-11-05,US,South Burlington,Vermont,44.467,-73.171,2.5100000000000002,0,0.0,0.0,0.16141732283464566,False,False
-2026-11-05,US,South Jordan,Utah,40.5622,-111.9297,4.890000000000001,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Southaven,Mississippi,34.989,-90.0126,2.22,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Spokane,Washington,47.6569,-117.425,5.22,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Springfield,Missouri,37.2153,-93.2982,6.09,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Stamford,Connecticut,41.0534,-73.5387,8.7,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Staten Island,New York,40.5623,-74.1399,26.61,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Stowe,Vermont,44.4653,-72.6846,1.77,0,0.0,0.0,0.17322834645669294,False,False
-2026-11-05,US,Tacoma,Washington,47.2529,-122.4443,11.99,0,0.0,0.0,0.09842519685039369,False,False
-2026-11-05,US,Tampa,Florida,27.9475,-82.4584,37.32,0,0.0,0.0,0.19291338582677167,False,False
-2026-11-05,US,Tijeras,New Mexico,35.0809,-106.3881,1.53,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Tucson,Arizona,32.2217,-110.9265,21.56,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Tulsa,Oklahoma,36.154,-95.9928,24.15,0,0.0,0.0,0.14173228346456693,False,False
-2026-11-05,US,Vancouver,Washington,45.6387,-122.6615,14.55,0,0.0,0.0,0.10236220472440945,False,False
-2026-11-05,US,Virginia Beach,Virginia,36.8529,-75.978,25.62,0,0.0,0.0,0.023622047244094488,False,False
-2026-11-05,US,Warwick,Rhode Island,41.7001,-71.4162,2.5,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,Washington,District of Columbia,38.8951,-77.0364,94.41,0,0.0,0.0,0.06299212598425197,False,False
-2026-11-05,US,Wasilla,Alaska,61.5809,-149.4415,0.5700000000000001,0,0.0,0.0,0.047244094488188976,False,False
-2026-11-05,US,Waukesha,Wisconsin,43.0117,-88.2315,3.5,0,0.0,0.0,0.03543307086614173,False,False
-2026-11-05,US,West Chester,Pennsylvania,39.961,-75.608,9.38,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,West Des Moines,Iowa,41.5772,-93.7113,2.92,0,0.0,0.0,0.007874015748031496,False,False
-2026-11-05,US,West Fargo,North Dakota,46.875,-96.9004,2.11,0,0.0,0.0,0.0,False,False
-2026-11-05,US,West Lafayette,Indiana,40.4259,-86.9081,4.91,0,0.0,0.0,0.003937007874015748,False,False
-2026-11-05,US,Westfield,New Jersey,40.659,-74.3474,10.0,0,0.0,0.0,0.031496062992125984,False,False
-2026-11-05,US,Wheeling,West Virginia,40.064,-80.7209,3.11,0,0.0,0.0,0.2559055118110236,True,True
-2026-11-05,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,3.58,0,0.0,0.0,0.03937007874015748,False,False
-2026-11-05,US,Wichita,Kansas,37.6922,-97.3375,12.47,0,0.0,0.0,0.0,False,False
-2026-11-05,US,Wilmette,Illinois,42.0722,-87.7228,8.82,0,0.0,0.0,0.051181102362204724,False,False
-2026-11-05,US,Wilmington,Delaware,39.746,-75.5466,14.84,0,0.0,0.0,0.015748031496062992,False,False
-2026-11-05,US,Wilmington,North Carolina,34.2356,-77.946,16.8,0,0.0,0.0,0.043307086614173235,False,False
+2026-11-04,US,Wichita,Kansas,37.6922,-97.3375,36.98,0,0.0,0.0,0.0,False,False
+2026-11-04,US,Wilmette,Illinois,42.0722,-87.7228,26.11,0,0.0,0.0,0.421259842519685,True,True
+2026-11-04,US,Wilmington,Delaware,39.746,-75.5466,44.04,3,0.0,0.0,0.0,False,False
+2026-11-04,US,Wilmington,North Carolina,34.2356,-77.946,49.92,3,0.0,0.0,0.007874015748031496,False,False
+2026-11-05,CAN,Blainville,Quebec,45.6668,-73.8825,1.8900000000000001,0,0.0,0.0,0.11811023622047244,False,False
+2026-11-05,CAN,Brossard,Quebec,45.4501,-73.4658,1.36,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-05,CAN,Burnaby,British Columbia,49.2664,-122.9526,17.72,0,0.0,0.0,0.37401574803149606,True,True
+2026-11-05,CAN,Calgary,Alberta,51.0501,-114.0853,28.93,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-05,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,1.1600000000000001,0,0.0,0.0,0.06299212598425197,False,False
+2026-11-05,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.55,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-05,CAN,Dieppe,New Brunswick,46.0784,-64.6874,2.1399999999999997,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Dorval,Quebec,45.4473,-73.7534,1.27,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-05,CAN,Edmonton,Alberta,53.5501,-113.4687,12.42,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.65,0,0.0,0.0,0.03937007874015748,False,False
+2026-11-05,CAN,Guelph,Ontario,43.5459,-80.256,5.24,0,0.0,0.0,0.13385826771653542,False,False
+2026-11-05,CAN,Halifax,Nova Scotia,44.6427,-63.5769,4.15,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Headingley,Manitoba,49.8753,-97.409,0.57,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Kingston,Ontario,44.2298,-76.481,3.67,0,0.0,0.0,0.2755905511811024,True,True
+2026-11-05,CAN,Markham,Ontario,43.8668,-79.2663,6.87,0,0.0,0.0,0.14173228346456693,False,False
+2026-11-05,CAN,Moncton,New Brunswick,46.0945,-64.7965,1.02,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Montreal,Quebec,45.5088,-73.5878,16.98,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-05,CAN,North Vancouver,British Columbia,49.3164,-123.0693,13.31,0,0.0,0.0,0.44488188976377957,True,True
+2026-11-05,CAN,Ottawa,Ontario,45.4112,-75.6981,27.87,0,0.0,0.0,0.17322834645669294,False,False
+2026-11-05,CAN,Paradise,Newfoundland and Labrador,47.5333,-52.9667,0.65,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Regina,Saskatchewan,50.4501,-104.6178,0.62,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Saskatoon,Saskatchewan,52.1324,-106.6689,2.9499999999999997,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,St. Albert,Alberta,53.6334,-113.6353,1.53,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,St. John'S,Newfoundland and Labrador,47.5649,-52.7093,0.7100000000000001,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Surrey,British Columbia,49.1064,-122.8251,20.46,0,0.0,0.0,0.1377952755905512,False,False
+2026-11-05,CAN,Toronto,Ontario,43.7064,-79.3986,85.37,6,0.0,0.0,0.0905511811023622,False,False
+2026-11-05,CAN,Vancouver,British Columbia,49.2497,-123.1193,65.37,1,0.0,0.0,0.2047244094488189,True,True
+2026-11-05,CAN,Victoria,British Columbia,48.4359,-123.3516,15.45,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-05,CAN,Wainwright,Alberta,52.8348,-110.8534,0.47,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,West Baptiste,Alberta,54.7502,-113.5688,0.26,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Winnipeg,Manitoba,49.8844,-97.147,3.21,0,0.0,0.0,0.0,False,False
+2026-11-05,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.78,0,0.0,0.0,0.0,False,False
+2026-11-05,US,Aberdeen,South Dakota,45.4647,-98.4865,1.35,0,0.01,0.0,0.0,False,False
+2026-11-05,US,Albuquerque,New Mexico,35.0845,-106.6511,47.85,0,0.25,0.0,0.0,False,False
+2026-11-05,US,Alexandria,Virginia,38.8048,-77.0469,130.19,1,0.68,0.0,0.1889763779527559,False,False
+2026-11-05,US,Alpharetta,Georgia,34.0754,-84.2941,40.7,0,0.21,0.0,0.17716535433070865,False,False
+2026-11-05,US,Ames,Iowa,42.0347,-93.6199,7.29,0,0.04,0.0,0.051181102362204724,False,False
+2026-11-05,US,Anchorage,Alaska,61.2181,-149.9003,11.79,0,0.06,0.0,0.17716535433070865,False,False
+2026-11-05,US,Ann Arbor,Michigan,42.2776,-83.7409,42.34,0,0.22,0.0,0.07086614173228346,False,False
+2026-11-05,US,Annapolis,Maryland,38.9786,-76.4918,29.69,0,0.15,0.0,0.09448818897637795,False,False
+2026-11-05,US,Appleton,Wisconsin,44.2619,-88.4154,9.36,0,0.05,0.0,0.051181102362204724,False,False
+2026-11-05,US,Arlington,Virginia,38.881,-77.1043,93.45,0,0.48,0.0,0.16929133858267714,False,False
+2026-11-05,US,Astoria,New York,40.772,-73.9301,41.9,0,0.22,0.0,0.16929133858267714,False,False
+2026-11-05,US,Atlanta,Georgia,33.749,-84.388,184.85,2,0.96,0.0,0.23622047244094488,True,True
+2026-11-05,US,Aurora,Colorado,39.7294,-104.8319,20.57,0,0.11,0.0,0.0,False,False
+2026-11-05,US,Austin,Texas,30.2672,-97.7431,237.82,2,1.23,0.0,0.0,False,False
+2026-11-05,US,Baltimore,Maryland,39.2904,-76.6122,57.07,0,0.29,0.0,0.40157480314960625,True,True
+2026-11-05,US,Bangor,Maine,44.7988,-68.7726,4.6,0,0.02,0.0,0.12992125984251968,False,False
+2026-11-05,US,Barrington,Rhode Island,41.7407,-71.3087,12.09,0,0.06,0.0,0.023622047244094488,False,False
+2026-11-05,US,Baton Rouge,Louisiana,30.4433,-91.1875,64.07,0,0.33,0.0,0.0,False,False
+2026-11-05,US,Beaverton,Oregon,45.4871,-122.8037,18.57,0,0.1,0.0,0.10236220472440945,False,False
+2026-11-05,US,Bellevue,Nebraska,41.1367,-95.8908,3.81,0,0.02,0.0,0.011811023622047244,False,False
+2026-11-05,US,Bellevue,Washington,47.6104,-122.2007,41.77,0,0.21,0.0,0.10236220472440945,False,False
+2026-11-05,US,Bentonville,Arkansas,36.3728,-94.2088,21.48,0,0.12,0.0,0.0,False,False
+2026-11-05,US,Berkley,Massachusetts,41.8459,-71.0828,15.99,0,0.08,0.0,0.031496062992125984,False,False
+2026-11-05,US,Bethesda,Maryland,38.9807,-77.1003,59.68,0,0.31,0.0,0.1220472440944882,False,False
+2026-11-05,US,Billings,Montana,45.7833,-108.5007,9.790000000000001,0,0.05,0.0,0.0,False,False
+2026-11-05,US,Birmingham,Alabama,33.5207,-86.8025,57.12,0,0.3,0.0,0.0,False,False
+2026-11-05,US,Bismarck,North Dakota,46.8083,-100.7837,4.2,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Bloomfield Hills,Michigan,42.5836,-83.2455,27.77,0,0.14,0.0,0.15748031496062992,False,False
+2026-11-05,US,Bloomington,Indiana,39.1653,-86.5264,22.55,0,0.12,0.0,0.003937007874015748,False,False
+2026-11-05,US,Boca Raton,Florida,26.3587,-80.0831,92.17,0,0.48,0.0,0.007874015748031496,False,False
+2026-11-05,US,Boise,Idaho,43.6135,-116.2034,25.59,0,0.13,0.0,0.0,False,False
+2026-11-05,US,Boston,Massachusetts,42.3584,-71.0598,152.55,1,0.79,0.0,0.023622047244094488,False,False
+2026-11-05,US,Bowling Green,Kentucky,36.9903,-86.4436,10.46,0,0.05,0.0,0.0,False,False
+2026-11-05,US,Bozeman,Montana,45.6796,-111.0386,7.63,0,0.04,0.0,0.0,False,False
+2026-11-05,US,Broken Arrow,Oklahoma,36.0526,-95.7908,13.66,0,0.07,0.0,0.0,False,False
+2026-11-05,US,Bronx,New York,40.8499,-73.8664,69.62,0,0.37,0.0,0.19291338582677167,False,False
+2026-11-05,US,Brooklyn,New York,40.6501,-73.9496,601.01,35,3.12,0.0,0.1811023622047244,False,False
+2026-11-05,US,Burlington,Vermont,44.4759,-73.2121,5.6,0,0.03,0.0,0.1456692913385827,False,False
+2026-11-05,US,Cambridge,Massachusetts,42.3751,-71.1056,54.839999999999996,0,0.28,0.0,0.023622047244094488,False,False
+2026-11-05,US,Carmel,Indiana,39.9784,-86.118,41.64,0,0.22,0.0,0.007874015748031496,False,False
+2026-11-05,US,Carson City,Nevada,39.1638,-119.7674,3.41,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Casper,Wyoming,42.8666,-106.3131,1.6400000000000001,0,0.01,0.0,0.0,False,False
+2026-11-05,US,Cedar Rapids,Iowa,42.0083,-91.6441,15.26,0,0.08,0.0,0.03543307086614173,False,False
+2026-11-05,US,Chapel Hill,North Carolina,35.9132,-79.0558,35.94,0,0.19,0.0,0.015748031496062992,False,False
+2026-11-05,US,Charleston,South Carolina,32.7763,-79.9328,49.4,0,0.25,0.0,0.0,False,False
+2026-11-05,US,Charleston,West Virginia,38.3498,-81.6326,6.55,0,0.03,0.0,0.42913385826771655,True,True
+2026-11-05,US,Charlotte,North Carolina,35.2271,-80.8431,162.19,1,0.84,0.0,0.1377952755905512,False,False
+2026-11-05,US,Chattanooga,Tennessee,35.0456,-85.3097,28.2,0,0.15,0.0,0.07086614173228346,False,False
+2026-11-05,US,Chesterfield,Missouri,38.6631,-90.5771,23.67,0,0.12,0.0,0.0,False,False
+2026-11-05,US,Cheyenne,Wyoming,41.14,-104.8202,7.78,0,0.04,0.0,0.0,False,False
+2026-11-05,US,Chicago,Illinois,41.85,-87.65,451.61,19,2.35,0.0,0.10236220472440945,False,False
+2026-11-05,US,Cincinnati,Ohio,39.1271,-84.5144,114.12,0,0.59,0.0,0.06299212598425197,False,False
+2026-11-05,US,Cleveland,Ohio,41.4995,-81.6954,23.01,0,0.12,0.0,0.3779527559055118,True,True
+2026-11-05,US,Cody,Wyoming,44.5263,-109.0565,2.1,0,0.01,0.0,0.0,False,False
+2026-11-05,US,Coeur D'Alene,Idaho,47.6777,-116.7805,1.61,0,0.01,0.0,0.1062992125984252,False,False
+2026-11-05,US,Colorado Springs,Colorado,38.8339,-104.8214,44.6,0,0.23,0.0,0.12598425196850394,False,False
+2026-11-05,US,Columbia,South Carolina,34.0007,-81.0348,35.38,0,0.18,0.0,0.06299212598425197,False,False
+2026-11-05,US,Columbus,Ohio,39.9612,-82.9988,95.2,0,0.49,0.0,0.19291338582677167,False,False
+2026-11-05,US,Cordova,Alaska,60.5432,-145.7587,4.5600000000000005,0,0.02,0.0,0.3661417322834646,True,True
+2026-11-05,US,Cranston,Rhode Island,41.7798,-71.4373,6.37,0,0.03,0.0,0.027559055118110232,False,False
+2026-11-05,US,Dallas,Texas,32.7831,-96.8067,230.64,2,1.19,0.0,0.0,False,False
+2026-11-05,US,Dayton,Ohio,39.759,-84.1916,36.35,0,0.19,0.0,0.03937007874015748,False,False
+2026-11-05,US,Decatur,Georgia,33.7748,-84.2963,30.669999999999998,0,0.16,0.0,0.2440944881889764,True,True
+2026-11-05,US,Denver,Colorado,39.7392,-104.9847,86.35,0,0.45,0.0,0.0,False,False
+2026-11-05,US,Des Moines,Iowa,41.6005,-93.6091,10.48,0,0.06,0.0,0.047244094488188976,False,False
+2026-11-05,US,Dickinson,North Dakota,46.8792,-102.7896,4.05,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Downers Grove,Illinois,41.8089,-88.0112,22.19,0,0.12,0.0,0.09448818897637795,False,False
+2026-11-05,US,Doylestown,Pennsylvania,40.3101,-75.1299,24.93,0,0.13,0.0,0.22440944881889766,True,True
+2026-11-05,US,Dublin,Ohio,40.0992,-83.1141,25.05,0,0.13,0.0,0.16535433070866143,False,False
+2026-11-05,US,Durham,North Carolina,35.994,-78.8986,34.28,0,0.18,0.0,0.0,False,False
+2026-11-05,US,Eagle,Idaho,43.6954,-116.354,6.95,0,0.04,0.0,0.0,False,False
+2026-11-05,US,Eagle Mountain,Utah,40.3144,-111.9849,2.08,0,0.01,0.0,0.003937007874015748,False,False
+2026-11-05,US,East Greenwich,Rhode Island,41.6604,-71.4559,5.72,0,0.03,0.0,0.031496062992125984,False,False
+2026-11-05,US,Eden Prairie,Minnesota,44.8547,-93.4708,12.57,0,0.07,0.0,0.06299212598425197,False,False
+2026-11-05,US,Edmond,Oklahoma,35.6528,-97.4781,58.370000000000005,0,0.3,0.0,0.6377952755905512,True,True
+2026-11-05,US,Eliot,Maine,43.1531,-70.8001,3.6300000000000003,0,0.02,0.0,0.0905511811023622,False,False
+2026-11-05,US,Elkhorn,Nebraska,41.345,-96.256,9.0,0,0.05,0.0,0.003937007874015748,False,False
+2026-11-05,US,Essex Junction,Vermont,44.4906,-73.111,3.74,0,0.02,0.0,0.16929133858267714,False,False
+2026-11-05,US,Eugene,Oregon,44.0521,-123.0868,19.68,0,0.1,0.0,0.055118110236220465,False,False
+2026-11-05,US,Evanston,Illinois,42.0411,-87.6901,27.26,0,0.14,0.0,0.05905511811023622,False,False
+2026-11-05,US,Ewa Beach,Hawaii,21.3156,-158.0072,25.45,0,0.13,0.0,0.031496062992125984,False,False
+2026-11-05,US,Exeter,New Hampshire,42.9815,-70.9478,5.76,0,0.03,0.0,0.14173228346456693,False,False
+2026-11-05,US,Fairbanks,Alaska,64.8378,-147.7164,3.4000000000000004,0,0.01,0.0,0.0,False,False
+2026-11-05,US,Fairfax,Virginia,38.8462,-77.3064,45.1,0,0.24,0.0,0.15354330708661418,False,False
+2026-11-05,US,Fairfield,Connecticut,41.1412,-73.2637,23.86,0,0.12,0.0,0.07086614173228346,False,False
+2026-11-05,US,Fairhope,Alabama,30.523,-87.9033,15.09,0,0.08,0.0,0.1377952755905512,False,False
+2026-11-05,US,Falmouth,Maine,43.7295,-70.242,6.37,0,0.03,0.0,0.20866141732283464,True,True
+2026-11-05,US,Fargo,North Dakota,46.8772,-96.7898,10.06,0,0.05,0.0,0.0,False,False
+2026-11-05,US,Fayetteville,Arkansas,36.0626,-94.1574,14.49,0,0.08,0.0,0.0,False,False
+2026-11-05,US,Fort Collins,Colorado,40.5853,-105.0844,21.4,0,0.11,0.0,0.0,False,False
+2026-11-05,US,Fort Wayne,Indiana,41.1306,-85.1289,31.36,0,0.16,0.0,0.003937007874015748,False,False
+2026-11-05,US,Fort Worth,Texas,32.7254,-97.3208,96.05,0,0.5,0.0,0.007874015748031496,False,False
+2026-11-05,US,Franklin,Tennessee,35.9251,-86.8689,46.25,0,0.24,0.0,0.0,False,False
+2026-11-05,US,Gilbert,Arizona,33.3528,-111.789,20.56,0,0.11,0.0,0.0,False,False
+2026-11-05,US,Grand Forks,North Dakota,47.9253,-97.0328,1.41,0,0.01,0.0,0.0,False,False
+2026-11-05,US,Grand Rapids,Michigan,42.9634,-85.6681,46.37,0,0.24,0.0,0.16535433070866143,False,False
+2026-11-05,US,Great Falls,Montana,47.5002,-111.3008,4.5200000000000005,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Greenville,South Carolina,34.8526,-82.394,55.1,0,0.29,0.0,0.9448818897637795,True,True
+2026-11-05,US,Greenwich,Connecticut,41.0265,-73.6285,64.77,0,0.33,0.0,0.11023622047244093,False,False
+2026-11-05,US,Gulfport,Mississippi,30.3674,-89.0928,9.98,0,0.05,0.0,0.003937007874015748,False,False
+2026-11-05,US,Hampton,New Hampshire,42.9376,-70.8389,8.97,0,0.05,0.0,0.07874015748031496,False,False
+2026-11-05,US,Hattiesburg,Mississippi,31.3271,-89.2903,5.51,0,0.03,0.0,0.0,False,False
+2026-11-05,US,Henderson,Nevada,36.0397,-114.9819,34.08,0,0.17,0.0,0.0,False,False
+2026-11-05,US,Hoboken,New Jersey,40.744,-74.0324,46.55,0,0.24,0.0,0.22047244094488186,True,True
+2026-11-05,US,Honolulu,Hawaii,21.3069,-157.8583,128.19,0,0.67,0.0,0.0905511811023622,False,False
+2026-11-05,US,Houston,Texas,29.7633,-95.3633,425.59,6,2.21,0.0,0.0,False,False
+2026-11-05,US,Huntington,West Virginia,38.4192,-82.4452,7.69,0,0.04,0.0,0.11417322834645668,False,False
+2026-11-05,US,Huntsville,Alabama,34.7304,-86.5859,45.61,0,0.24,0.0,0.0,False,False
+2026-11-05,US,Hurricane,West Virginia,38.4326,-82.0201,3.96,0,0.02,0.0,0.3700787401574803,True,True
+2026-11-05,US,Hyde Park,Vermont,44.5939,-72.6165,3.19,0,0.02,0.0,0.18503937007874016,False,False
+2026-11-05,US,Indianapolis,Indiana,39.7684,-86.158,74.05,0,0.38,0.0,0.011811023622047244,False,False
+2026-11-05,US,Iowa City,Iowa,41.6611,-91.5302,11.24,0,0.06,0.0,0.031496062992125984,False,False
+2026-11-05,US,Jackson,Mississippi,32.2988,-90.1848,6.16,0,0.03,0.0,0.0,False,False
+2026-11-05,US,Jersey City,New Jersey,40.7282,-74.0776,90.08,0,0.47,0.0,0.22047244094488186,True,True
+2026-11-05,US,Jonesboro,Arkansas,35.8423,-90.7043,14.46,0,0.08,0.0,0.0,False,False
+2026-11-05,US,Kailua,Hawaii,21.4024,-157.7405,17.79,0,0.09,0.0,0.1496062992125984,False,False
+2026-11-05,US,Kalispell,Montana,48.1958,-114.3129,5.57,0,0.03,0.0,0.003937007874015748,False,False
+2026-11-05,US,Kaneohe,Hawaii,21.3999,-157.799,16.35,0,0.09,0.0,0.1496062992125984,False,False
+2026-11-05,US,Kansas City,Missouri,39.0997,-94.5786,45.3,0,0.23,0.0,0.0,False,False
+2026-11-05,US,Knoxville,Tennessee,35.9606,-83.9207,63.43,0,0.33,0.0,0.9291338582677166,True,True
+2026-11-05,US,Kuna,Idaho,43.4918,-116.4201,11.71,0,0.06,0.0,0.0,False,False
+2026-11-05,US,Lafayette,Louisiana,30.2241,-92.0198,37.57,0,0.19,0.0,0.0,False,False
+2026-11-05,US,Lake Oswego,Oregon,45.4207,-122.6706,27.7,0,0.14,0.0,0.08267716535433071,False,False
+2026-11-05,US,Lancaster,Pennsylvania,40.0379,-76.3055,27.75,0,0.14,0.0,0.26377952755905515,True,True
+2026-11-05,US,Las Cruces,New Mexico,32.3123,-106.7783,11.01,0,0.06,0.0,0.0,False,False
+2026-11-05,US,Las Vegas,Nevada,36.175,-115.1372,92.45,0,0.48,0.0,0.0,False,False
+2026-11-05,US,Lawrence,Kansas,38.9717,-95.2352,10.74,0,0.06,0.0,0.0,False,False
+2026-11-05,US,Leawood,Kansas,38.9667,-94.6169,9.93,0,0.05,0.0,0.0,False,False
+2026-11-05,US,Lennox,South Dakota,43.3541,-96.892,2.82,0,0.01,0.0,0.023622047244094488,False,False
+2026-11-05,US,Lewes,Delaware,38.7746,-75.1393,14.09,0,0.07,0.0,0.011811023622047244,False,False
+2026-11-05,US,Lexington,Kentucky,37.9887,-84.4777,55.55,0,0.29,0.0,0.051181102362204724,False,False
+2026-11-05,US,Lincoln,Nebraska,40.8,-96.667,16.18,0,0.08,0.0,0.0,False,False
+2026-11-05,US,Little Rock,Arkansas,34.7465,-92.2896,39.339999999999996,0,0.21,0.0,0.0,False,False
+2026-11-05,US,Littleton,Colorado,39.6133,-105.0166,25.06,0,0.13,0.0,0.0,False,False
+2026-11-05,US,Los Alamos,New Mexico,35.8881,-106.307,4.98,0,0.03,0.0,0.003937007874015748,False,False
+2026-11-05,US,Los Angeles,California,34.0522,-118.2437,371.96,13,1.93,0.0,0.0,False,False
+2026-11-05,US,Louisville,Kentucky,38.2542,-85.7594,80.61,0,0.42,0.0,0.007874015748031496,False,False
+2026-11-05,US,Macomb,Michigan,42.7009,-82.9591,14.34,0,0.07,0.0,0.043307086614173235,False,False
+2026-11-05,US,Madison,Alabama,34.6993,-86.7483,17.98,0,0.09,0.0,0.0,False,False
+2026-11-05,US,Madison,Mississippi,32.4618,-90.1154,11.54,0,0.06,0.0,0.0,False,False
+2026-11-05,US,Madison,South Dakota,44.0061,-97.114,1.9000000000000001,0,0.01,0.0,0.03937007874015748,False,False
+2026-11-05,US,Madison,Wisconsin,43.073,-89.4012,31.69,0,0.16,0.0,0.031496062992125984,False,False
+2026-11-05,US,Manchester,New Hampshire,42.9956,-71.4548,12.89,0,0.07,0.0,0.08661417322834647,False,False
+2026-11-05,US,Marietta,Georgia,33.9526,-84.5499,86.42999999999999,0,0.45,0.0,0.20866141732283464,True,True
+2026-11-05,US,Memphis,Tennessee,35.1495,-90.049,49.21,0,0.26,0.0,0.0,False,False
+2026-11-05,US,Meridian,Idaho,43.6121,-116.3915,15.12,0,0.08,0.0,0.0,False,False
+2026-11-05,US,Mesa,Arizona,33.4223,-111.8226,21.25,0,0.11,0.0,0.0,False,False
+2026-11-05,US,Metairie,Louisiana,29.9841,-90.1528,22.95,0,0.12,0.0,0.0,False,False
+2026-11-05,US,Miami,Florida,25.7743,-80.1937,415.75,3,2.16,0.0,0.03937007874015748,False,False
+2026-11-05,US,Middlesboro,Kentucky,36.6084,-83.7166,3.48,0,0.02,0.0,0.452755905511811,True,True
+2026-11-05,US,Middletown,Delaware,39.4496,-75.7163,7.38,0,0.04,0.0,0.15354330708661418,False,False
+2026-11-05,US,Mililani,Hawaii,21.4504,-158.015,13.71,0,0.07,0.0,0.11023622047244093,False,False
+2026-11-05,US,Milwaukee,Wisconsin,43.0389,-87.9065,39.97,0,0.21,0.0,0.07874015748031496,False,False
+2026-11-05,US,Minneapolis,Minnesota,44.98,-93.2638,80.32,0,0.41,0.0,0.08267716535433071,False,False
+2026-11-05,US,Minnetonka,Minnesota,44.9133,-93.5033,10.370000000000001,0,0.05,0.0,0.06299212598425197,False,False
+2026-11-05,US,Missoula,Montana,46.8722,-113.994,4.33,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Mobile,Alabama,30.6944,-88.043,24.96,0,0.13,0.0,0.043307086614173235,False,False
+2026-11-05,US,Morgantown,West Virginia,39.6295,-79.9559,15.65,0,0.08,0.0,0.2952755905511811,True,True
+2026-11-05,US,Morristown,New Jersey,40.7968,-74.4815,31.21,0,0.16,0.0,0.15354330708661418,False,False
+2026-11-05,US,Mount Pleasant,South Carolina,32.7941,-79.8626,32.49,0,0.17,0.0,0.0,False,False
+2026-11-05,US,Myrtle Beach,South Carolina,33.6891,-78.8867,37.83,0,0.2,0.0,0.047244094488188976,False,False
+2026-11-05,US,Naperville,Illinois,41.7859,-88.1473,46.53,0,0.24,0.0,0.09448818897637795,False,False
+2026-11-05,US,Naples,Florida,26.1423,-81.796,117.12,0,0.61,0.0,0.03543307086614173,False,False
+2026-11-05,US,Nashua,New Hampshire,42.7654,-71.4676,13.22,0,0.07,0.0,0.09448818897637795,False,False
+2026-11-05,US,Nashville,Tennessee,36.1659,-86.7844,108.89999999999999,0,0.56,0.0,0.0,False,False
+2026-11-05,US,New Canaan,Connecticut,41.1468,-73.4948,25.65,0,0.13,0.0,0.1811023622047244,False,False
+2026-11-05,US,New Castle,Delaware,39.6595,-75.5636,15.16,0,0.08,0.0,0.18503937007874016,False,False
+2026-11-05,US,New Orleans,Louisiana,29.9546,-90.0751,49.47,0,0.26,0.0,0.0,False,False
+2026-11-05,US,New York,New York,40.7143,-74.006,1197.02,65,6.28,1.0,0.22047244094488186,True,True
+2026-11-05,US,Newark,Delaware,39.6837,-75.7497,16.48,0,0.09,0.0,0.1377952755905512,False,False
+2026-11-05,US,Norman,Oklahoma,35.2226,-97.4395,17.52,0,0.09,0.0,0.35826771653543305,True,True
+2026-11-05,US,North Las Vegas,Nevada,36.1989,-115.1175,3.23,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Norwalk,Connecticut,41.1176,-73.4079,20.94,0,0.11,0.0,0.0905511811023622,False,False
+2026-11-05,US,Oakland,California,37.8044,-122.2708,102.69,0,0.53,0.0,0.0,False,False
+2026-11-05,US,Oklahoma City,Oklahoma,35.4676,-97.5164,35.36,0,0.18,0.0,0.2795275590551181,True,True
+2026-11-05,US,Olathe,Kansas,38.8814,-94.8191,17.8,0,0.09,0.0,0.0,False,False
+2026-11-05,US,Omaha,Nebraska,41.2563,-95.9404,35.660000000000004,0,0.19,0.0,0.015748031496062992,False,False
+2026-11-05,US,Orlando,Florida,28.5383,-81.3792,149.91,0,0.78,0.0,0.007874015748031496,False,False
+2026-11-05,US,Overland Park,Kansas,38.9822,-94.6708,33.31,0,0.17,0.0,0.0,False,False
+2026-11-05,US,Paducah,Kentucky,37.0834,-88.6,12.71,0,0.07,0.0,0.0,False,False
+2026-11-05,US,Papillion,Nebraska,41.1544,-96.0422,5.7299999999999995,0,0.03,0.0,0.007874015748031496,False,False
+2026-11-05,US,Park City,Utah,40.6461,-111.498,11.23,0,0.06,0.0,0.0,False,False
+2026-11-05,US,Philadelphia,Pennsylvania,39.9524,-75.1636,167.72,2,0.87,0.0,0.19685039370078738,False,False
+2026-11-05,US,Phoenix,Arizona,33.4484,-112.074,70.51,0,0.36,0.0,0.0,False,False
+2026-11-05,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,104.34,0,0.54,0.0,0.1496062992125984,False,False
+2026-11-05,US,Plymouth,Michigan,42.3714,-83.4702,16.63,0,0.09,0.0,0.14173228346456693,False,False
+2026-11-05,US,Plymouth,Minnesota,45.0105,-93.4555,18.67,0,0.1,0.0,0.08267716535433071,False,False
+2026-11-05,US,Portland,Maine,43.6574,-70.2589,13.97,0,0.07,0.0,0.12598425196850394,False,False
+2026-11-05,US,Portland,Oregon,45.5234,-122.6762,157.11,2,0.82,0.0,0.11023622047244093,False,False
+2026-11-05,US,Portsmouth,New Hampshire,43.077,-70.7577,7.96,0,0.04,0.0,0.0905511811023622,False,False
+2026-11-05,US,Princeton,New Jersey,40.3487,-74.659,23.23,0,0.12,0.0,0.19685039370078738,False,False
+2026-11-05,US,Providence,Rhode Island,41.824,-71.4128,22.69,0,0.12,0.0,0.01968503937007874,False,False
+2026-11-05,US,Raleigh,North Carolina,35.7721,-78.6386,103.35,0,0.53,0.0,0.043307086614173235,False,False
+2026-11-05,US,Rapid City,South Dakota,44.0805,-103.231,4.88,0,0.03,0.0,0.0,False,False
+2026-11-05,US,Reading,Massachusetts,42.5256,-71.0953,145.99,4,0.76,0.0,0.031496062992125984,False,False
+2026-11-05,US,Reno,Nevada,39.5296,-119.8138,30.39,0,0.16,0.0,0.0,False,False
+2026-11-05,US,Richmond,Virginia,37.5538,-77.4603,72.28999999999999,0,0.38,0.0,0.051181102362204724,False,False
+2026-11-05,US,Rock Springs,Wyoming,41.5875,-109.2029,5.0200000000000005,0,0.03,0.0,0.015748031496062992,False,False
+2026-11-05,US,Rockville,Maryland,39.084,-77.1528,31.61,0,0.17,0.0,0.20078740157480313,True,True
+2026-11-05,US,Rogers,Arkansas,36.332,-94.1185,15.73,0,0.08,0.0,0.0,False,False
+2026-11-05,US,Saint Charles,Missouri,38.7839,-90.4812,17.2,0,0.09,0.0,0.0,False,False
+2026-11-05,US,Saint Louis,Missouri,38.6517,-90.2053,77.34,0,0.4,0.0,0.0,False,False
+2026-11-05,US,Saint Paul,Minnesota,44.9444,-93.0933,40.47,0,0.21,0.0,0.08661417322834647,False,False
+2026-11-05,US,Salem,Oregon,44.9429,-123.0351,16.22,0,0.09,0.0,0.08267716535433071,False,False
+2026-11-05,US,Salt Lake City,Utah,40.7608,-111.891,25.96,0,0.14,0.0,0.01968503937007874,False,False
+2026-11-05,US,San Antonio,Texas,29.4241,-98.4936,117.71000000000001,0,0.61,0.0,0.0,False,False
+2026-11-05,US,San Diego,California,32.7157,-117.1647,189.93,2,0.98,0.0,0.0,False,False
+2026-11-05,US,San Francisco,California,37.7749,-122.4194,383.13,9,1.99,0.0,0.0,False,False
+2026-11-05,US,San Jose,California,37.3394,-121.895,150.54,2,0.79,0.0,0.0,False,False
+2026-11-05,US,Sandy,Utah,40.5916,-111.8841,9.01,0,0.05,0.0,0.015748031496062992,False,False
+2026-11-05,US,Santa Fe,New Mexico,35.687,-105.9378,15.65,0,0.08,0.0,0.003937007874015748,False,False
+2026-11-05,US,Savannah,Georgia,32.0835,-81.0998,49.18,0,0.26,0.0,0.031496062992125984,False,False
+2026-11-05,US,Scarborough,Maine,43.5781,-70.3217,9.290000000000001,0,0.05,0.0,0.12598425196850394,False,False
+2026-11-05,US,Scottsdale,Arizona,33.5092,-111.899,57.47,0,0.3,0.0,0.0,False,False
+2026-11-05,US,Seattle,Washington,47.6062,-122.3321,236.52,3,1.23,0.0,0.08267716535433071,False,False
+2026-11-05,US,Sheridan,Wyoming,44.7972,-106.9562,6.3,0,0.03,0.0,0.0,False,False
+2026-11-05,US,Shreveport,Louisiana,32.5251,-93.7502,44.62,0,0.23,0.0,0.0,False,False
+2026-11-05,US,Silver Spring,Maryland,38.9907,-77.0261,33.81,0,0.18,0.0,0.1220472440944882,False,False
+2026-11-05,US,Sioux Falls,South Dakota,43.55,-96.7003,9.36,0,0.05,0.0,0.06299212598425197,False,False
+2026-11-05,US,Sitka,Alaska,57.0532,-135.3309,2.43,0,0.01,0.0,1.5708661417322833,True,True
+2026-11-05,US,Somerville,Massachusetts,42.3876,-71.0995,28.080000000000002,0,0.15,0.0,0.01968503937007874,False,False
+2026-11-05,US,South Burlington,Vermont,44.467,-73.171,7.15,0,0.04,0.0,0.1456692913385827,False,False
+2026-11-05,US,South Jordan,Utah,40.5622,-111.9297,14.01,0,0.07,0.0,0.015748031496062992,False,False
+2026-11-05,US,Southaven,Mississippi,34.989,-90.0126,6.41,0,0.03,0.0,0.0,False,False
+2026-11-05,US,Spokane,Washington,47.6569,-117.425,14.9,0,0.08,0.0,0.08267716535433071,False,False
+2026-11-05,US,Springfield,Missouri,37.2153,-93.2982,17.39,0,0.09,0.0,0.0,False,False
+2026-11-05,US,Stamford,Connecticut,41.0534,-73.5387,24.94,0,0.13,0.0,0.1220472440944882,False,False
+2026-11-05,US,Staten Island,New York,40.5623,-74.1399,76.34,0,0.39,0.0,0.22047244094488186,True,True
+2026-11-05,US,Stowe,Vermont,44.4653,-72.6846,5.01,0,0.03,0.0,0.1889763779527559,False,False
+2026-11-05,US,Tacoma,Washington,47.2529,-122.4443,34.36,0,0.18,0.0,0.11417322834645668,False,False
+2026-11-05,US,Tampa,Florida,27.9475,-82.4584,106.88000000000001,0,0.56,0.0,0.17322834645669294,False,False
+2026-11-05,US,Tijeras,New Mexico,35.0809,-106.3881,4.43,0,0.02,0.0,0.0,False,False
+2026-11-05,US,Tucson,Arizona,32.2217,-110.9265,61.87,0,0.32,0.0,0.0,False,False
+2026-11-05,US,Tulsa,Oklahoma,36.154,-95.9928,69.17,0,0.36,0.0,0.0,False,False
+2026-11-05,US,Vancouver,Washington,45.6387,-122.6615,41.85,0,0.21,0.0,0.11023622047244093,False,False
+2026-11-05,US,Virginia Beach,Virginia,36.8529,-75.978,73.5,0,0.38,0.0,0.031496062992125984,False,False
+2026-11-05,US,Warwick,Rhode Island,41.7001,-71.4162,7.29,0,0.03,0.0,0.03937007874015748,False,False
+2026-11-05,US,Washington,District of Columbia,38.8951,-77.0364,270.52,3,1.41,0.0,0.16929133858267714,False,False
+2026-11-05,US,Wasilla,Alaska,61.5809,-149.4415,1.57,0,0.01,0.0,0.03543307086614173,False,False
+2026-11-05,US,Waukesha,Wisconsin,43.0117,-88.2315,10.1,0,0.05,0.0,0.08267716535433071,False,False
+2026-11-05,US,West Chester,Pennsylvania,39.961,-75.608,26.94,0,0.14,0.0,0.20078740157480313,True,True
+2026-11-05,US,West Des Moines,Iowa,41.5772,-93.7113,8.53,0,0.04,0.0,0.031496062992125984,False,False
+2026-11-05,US,West Fargo,North Dakota,46.875,-96.9004,6.05,0,0.03,0.0,0.0,False,False
+2026-11-05,US,West Lafayette,Indiana,40.4259,-86.9081,14.07,0,0.07,0.0,0.003937007874015748,False,False
+2026-11-05,US,Westfield,New Jersey,40.659,-74.3474,28.57,0,0.15,0.0,0.26771653543307083,True,True
+2026-11-05,US,Wheeling,West Virginia,40.064,-80.7209,8.79,0,0.05,0.0,0.25984251968503935,True,True
+2026-11-05,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,10.290000000000001,0,0.05,0.0,0.06299212598425197,False,False
+2026-11-05,US,Wichita,Kansas,37.6922,-97.3375,35.74,0,0.19,0.0,0.027559055118110232,False,False
+2026-11-05,US,Wilmette,Illinois,42.0722,-87.7228,25.27,0,0.13,0.0,0.05905511811023622,False,False
+2026-11-05,US,Wilmington,Delaware,39.746,-75.5466,42.55,0,0.22,0.0,0.15354330708661418,False,False
+2026-11-05,US,Wilmington,North Carolina,34.2356,-77.946,48.21,0,0.25,0.0,0.08661417322834647,False,False
+2026-11-06,CAN,Blainville,Quebec,45.6668,-73.8825,1.36,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,CAN,Brossard,Quebec,45.4501,-73.4658,0.9500000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Burnaby,British Columbia,49.2664,-122.9526,12.63,0,0.0,0.0,1.1929133858267718,True,True
+2026-11-06,CAN,Calgary,Alberta,51.0501,-114.0853,20.58,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Cote-Saint-Luc,Quebec,45.4654,-73.6659,0.8099999999999999,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Dartmouth,Nova Scotia,44.6713,-63.5772,0.4,0,0.0,0.0,0.19685039370078738,False,False
+2026-11-06,CAN,Dieppe,New Brunswick,46.0784,-64.6874,1.53,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-06,CAN,Dorval,Quebec,45.4473,-73.7534,0.92,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Edmonton,Alberta,53.5501,-113.4687,8.83,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,CAN,Fredericton,New Brunswick,45.9454,-66.6656,0.47000000000000003,0,0.0,0.0,0.15354330708661418,False,False
+2026-11-06,CAN,Guelph,Ontario,43.5459,-80.256,3.7,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-06,CAN,Halifax,Nova Scotia,44.6427,-63.5769,2.95,0,0.0,0.0,0.15354330708661418,False,False
+2026-11-06,CAN,Headingley,Manitoba,49.8753,-97.409,0.41,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Kingston,Ontario,44.2298,-76.481,2.61,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Markham,Ontario,43.8668,-79.2663,4.89,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-06,CAN,Moncton,New Brunswick,46.0945,-64.7965,0.74,0,0.0,0.0,0.043307086614173235,False,False
+2026-11-06,CAN,Montreal,Quebec,45.5088,-73.5878,12.09,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,North Vancouver,British Columbia,49.3164,-123.0693,9.45,0,0.0,0.0,1.4527559055118109,True,True
+2026-11-06,CAN,Ottawa,Ontario,45.4112,-75.6981,19.83,0,0.0,0.0,0.1062992125984252,False,False
+2026-11-06,CAN,Paradise,Newfoundland and Labrador,47.5333,-52.9667,0.47000000000000003,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Regina,Saskatchewan,50.4501,-104.6178,0.44,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Saskatoon,Saskatchewan,52.1324,-106.6689,2.08,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-06,CAN,St. Albert,Alberta,53.6334,-113.6353,1.08,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-06,CAN,St. John'S,Newfoundland and Labrador,47.5649,-52.7093,0.49000000000000005,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Surrey,British Columbia,49.1064,-122.8251,14.56,0,0.0,0.0,0.9448818897637795,True,True
+2026-11-06,CAN,Toronto,Ontario,43.7064,-79.3986,60.78,4,0.0,0.0,0.043307086614173235,False,False
+2026-11-06,CAN,Vancouver,British Columbia,49.2497,-123.1193,46.519999999999996,0,0.0,0.0,1.1023622047244095,True,True
+2026-11-06,CAN,Victoria,British Columbia,48.4359,-123.3516,10.969999999999999,0,0.0,0.0,0.26377952755905515,True,True
+2026-11-06,CAN,Wainwright,Alberta,52.8348,-110.8534,0.34,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,West Baptiste,Alberta,54.7502,-113.5688,0.2,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-06,CAN,Winnipeg,Manitoba,49.8844,-97.147,2.27,0,0.0,0.0,0.0,False,False
+2026-11-06,CAN,Yellow Grass,Saskatchewan,49.8001,-104.1678,0.55,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Aberdeen,South Dakota,45.4647,-98.4865,0.6,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Albuquerque,New Mexico,35.0845,-106.6511,21.57,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Alexandria,Virginia,38.8048,-77.0469,58.660000000000004,0,0.0,0.0,0.9566929133858267,True,True
+2026-11-06,US,Alpharetta,Georgia,34.0754,-84.2941,18.24,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Ames,Iowa,42.0347,-93.6199,3.29,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Anchorage,Alaska,61.2181,-149.9003,5.2299999999999995,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Ann Arbor,Michigan,42.2776,-83.7409,19.03,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-06,US,Annapolis,Maryland,38.9786,-76.4918,13.39,0,0.0,0.0,1.1653543307086616,True,True
+2026-11-06,US,Appleton,Wisconsin,44.2619,-88.4154,4.22,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Arlington,Virginia,38.881,-77.1043,42.08,0,0.0,0.0,0.9015748031496063,True,True
+2026-11-06,US,Astoria,New York,40.772,-73.9301,18.87,0,0.0,0.0,0.44488188976377957,True,True
+2026-11-06,US,Atlanta,Georgia,33.749,-84.388,83.24,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Aurora,Colorado,39.7294,-104.8319,9.290000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Austin,Texas,30.2672,-97.7431,107.17,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Baltimore,Maryland,39.2904,-76.6122,25.68,0,0.0,0.0,0.7007874015748031,True,True
+2026-11-06,US,Bangor,Maine,44.7988,-68.7726,2.05,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-06,US,Barrington,Rhode Island,41.7407,-71.3087,5.47,0,0.0,0.0,0.5787401574803149,True,True
+2026-11-06,US,Baton Rouge,Louisiana,30.4433,-91.1875,28.88,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Beaverton,Oregon,45.4871,-122.8037,8.35,0,0.0,0.0,0.06692913385826771,False,False
+2026-11-06,US,Bellevue,Nebraska,41.1367,-95.8908,1.71,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Bellevue,Washington,47.6104,-122.2007,18.72,0,0.0,0.0,0.5393700787401574,True,True
+2026-11-06,US,Bentonville,Arkansas,36.3728,-94.2088,9.71,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Berkley,Massachusetts,41.8459,-71.0828,7.23,0,0.0,0.0,0.5669291338582677,True,True
+2026-11-06,US,Bethesda,Maryland,38.9807,-77.1003,26.85,0,0.0,0.0,0.610236220472441,True,True
+2026-11-06,US,Billings,Montana,45.7833,-108.5007,4.36,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Birmingham,Alabama,33.5207,-86.8025,25.76,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Bismarck,North Dakota,46.8083,-100.7837,1.9100000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Bloomfield Hills,Michigan,42.5836,-83.2455,12.52,0,0.0,0.0,0.09842519685039369,False,False
+2026-11-06,US,Bloomington,Indiana,39.1653,-86.5264,10.19,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Boca Raton,Florida,26.3587,-80.0831,41.56,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Boise,Idaho,43.6135,-116.2034,11.43,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Boston,Massachusetts,42.3584,-71.0598,68.76,0,0.0,0.0,0.8858267716535433,True,True
+2026-11-06,US,Bowling Green,Kentucky,36.9903,-86.4436,4.68,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Bozeman,Montana,45.6796,-111.0386,3.3800000000000003,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Broken Arrow,Oklahoma,36.0526,-95.7908,6.09,0,0.0,0.0,0.1889763779527559,False,False
+2026-11-06,US,Bronx,New York,40.8499,-73.8664,31.39,0,0.0,0.0,0.5236220472440946,True,True
+2026-11-06,US,Brooklyn,New York,40.6501,-73.9496,270.81,15,0.0,0.0,0.5078740157480315,True,True
+2026-11-06,US,Burlington,Vermont,44.4759,-73.2121,2.52,0,0.0,0.0,0.25196850393700787,True,True
+2026-11-06,US,Cambridge,Massachusetts,42.3751,-71.1056,24.66,0,0.0,0.0,0.8858267716535433,True,True
+2026-11-06,US,Carmel,Indiana,39.9784,-86.118,18.790000000000003,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Carson City,Nevada,39.1638,-119.7674,1.55,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Casper,Wyoming,42.8666,-106.3131,0.71,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Cedar Rapids,Iowa,42.0083,-91.6441,6.92,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Chapel Hill,North Carolina,35.9132,-79.0558,16.23,0,0.0,0.0,1.8818897637795273,True,True
+2026-11-06,US,Charleston,South Carolina,32.7763,-79.9328,22.17,0,0.0,0.0,0.10236220472440945,False,False
+2026-11-06,US,Charleston,West Virginia,38.3498,-81.6326,2.86,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Charlotte,North Carolina,35.2271,-80.8431,73.13,0,0.0,0.0,0.1889763779527559,False,False
+2026-11-06,US,Chattanooga,Tennessee,35.0456,-85.3097,12.74,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Chesterfield,Missouri,38.6631,-90.5771,10.65,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Cheyenne,Wyoming,41.14,-104.8202,3.45,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Chicago,Illinois,41.85,-87.65,203.56,8,0.0,0.0,0.0748031496062992,False,False
+2026-11-06,US,Cincinnati,Ohio,39.1271,-84.5144,51.45,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Cleveland,Ohio,41.4995,-81.6954,10.39,0,0.0,0.0,0.16141732283464566,False,False
+2026-11-06,US,Cody,Wyoming,44.5263,-109.0565,0.96,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Coeur D'Alene,Idaho,47.6777,-116.7805,0.6900000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Colorado Springs,Colorado,38.8339,-104.8214,20.09,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Columbia,South Carolina,34.0007,-81.0348,15.9,0,0.0,0.0,0.1889763779527559,False,False
+2026-11-06,US,Columbus,Ohio,39.9612,-82.9988,42.84,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Cordova,Alaska,60.5432,-145.7587,2.05,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Cranston,Rhode Island,41.7798,-71.4373,2.9,0,0.0,0.0,0.5905511811023622,True,True
+2026-11-06,US,Dallas,Texas,32.7831,-96.8067,103.88,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Dayton,Ohio,39.759,-84.1916,16.37,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Decatur,Georgia,33.7748,-84.2963,13.82,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Denver,Colorado,39.7392,-104.9847,38.88,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Des Moines,Iowa,41.6005,-93.6091,4.75,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Dickinson,North Dakota,46.8792,-102.7896,1.81,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Downers Grove,Illinois,41.8089,-88.0112,9.99,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-06,US,Doylestown,Pennsylvania,40.3101,-75.1299,11.23,0,0.0,0.0,0.12598425196850394,False,False
+2026-11-06,US,Dublin,Ohio,40.0992,-83.1141,11.27,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Durham,North Carolina,35.994,-78.8986,15.48,0,0.0,0.0,2.1417322834645667,True,True
+2026-11-06,US,Eagle,Idaho,43.6954,-116.354,3.16,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Eagle Mountain,Utah,40.3144,-111.9849,0.89,0,0.0,0.0,0.0,False,False
+2026-11-06,US,East Greenwich,Rhode Island,41.6604,-71.4559,2.56,0,0.0,0.0,0.7322834645669292,True,True
+2026-11-06,US,Eden Prairie,Minnesota,44.8547,-93.4708,5.74,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Edmond,Oklahoma,35.6528,-97.4781,26.32,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Eliot,Maine,43.1531,-70.8001,1.62,0,0.0,0.0,0.4409448818897637,True,True
+2026-11-06,US,Elkhorn,Nebraska,41.345,-96.256,4.05,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Essex Junction,Vermont,44.4906,-73.111,1.69,0,0.0,0.0,0.3267716535433071,True,True
+2026-11-06,US,Eugene,Oregon,44.0521,-123.0868,8.85,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Evanston,Illinois,42.0411,-87.6901,12.24,0,0.0,0.0,0.051181102362204724,False,False
+2026-11-06,US,Ewa Beach,Hawaii,21.3156,-158.0072,11.4,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Exeter,New Hampshire,42.9815,-70.9478,2.57,0,0.0,0.0,0.41732283464566927,True,True
+2026-11-06,US,Fairbanks,Alaska,64.8378,-147.7164,1.5,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Fairfax,Virginia,38.8462,-77.3064,20.31,0,0.0,0.0,0.3110236220472441,True,True
+2026-11-06,US,Fairfield,Connecticut,41.1412,-73.2637,10.71,0,0.0,0.0,1.736220472440945,True,True
+2026-11-06,US,Fairhope,Alabama,30.523,-87.9033,6.8,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Falmouth,Maine,43.7295,-70.242,2.9,0,0.0,0.0,0.5314960629921259,True,True
+2026-11-06,US,Fargo,North Dakota,46.8772,-96.7898,4.54,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Fayetteville,Arkansas,36.0626,-94.1574,6.56,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Fort Collins,Colorado,40.5853,-105.0844,9.65,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Fort Wayne,Indiana,41.1306,-85.1289,14.1,0,0.0,0.0,0.055118110236220465,False,False
+2026-11-06,US,Fort Worth,Texas,32.7254,-97.3208,43.3,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Franklin,Tennessee,35.9251,-86.8689,20.88,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Gilbert,Arizona,33.3528,-111.789,9.280000000000001,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-06,US,Grand Forks,North Dakota,47.9253,-97.0328,0.67,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Grand Rapids,Michigan,42.9634,-85.6681,20.86,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Great Falls,Montana,47.5002,-111.3008,2.05,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Greenville,South Carolina,34.8526,-82.394,24.919999999999998,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Greenwich,Connecticut,41.0265,-73.6285,29.14,0,0.0,0.0,0.6929133858267718,True,True
+2026-11-06,US,Gulfport,Mississippi,30.3674,-89.0928,4.53,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Hampton,New Hampshire,42.9376,-70.8389,4.05,0,0.0,0.0,0.39370078740157477,True,True
+2026-11-06,US,Hattiesburg,Mississippi,31.3271,-89.2903,2.47,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Henderson,Nevada,36.0397,-114.9819,15.25,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Hoboken,New Jersey,40.744,-74.0324,20.96,0,0.0,0.0,0.41732283464566927,True,True
+2026-11-06,US,Honolulu,Hawaii,21.3069,-157.8583,57.85,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-06,US,Houston,Texas,29.7633,-95.3633,191.8,2,0.0,0.0,0.0,False,False
+2026-11-06,US,Huntington,West Virginia,38.4192,-82.4452,3.43,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Huntsville,Alabama,34.7304,-86.5859,20.62,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Hurricane,West Virginia,38.4326,-82.0201,1.76,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Hyde Park,Vermont,44.5939,-72.6165,1.47,0,0.0,0.0,0.4330708661417323,True,True
+2026-11-06,US,Indianapolis,Indiana,39.7684,-86.158,33.3,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-06,US,Iowa City,Iowa,41.6611,-91.5302,5.01,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Jackson,Mississippi,32.2988,-90.1848,2.75,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Jersey City,New Jersey,40.7282,-74.0776,40.56,0,0.0,0.0,0.41732283464566927,True,True
+2026-11-06,US,Jonesboro,Arkansas,35.8423,-90.7043,6.54,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Kailua,Hawaii,21.4024,-157.7405,7.96,0,0.0,0.0,0.1496062992125984,False,False
+2026-11-06,US,Kalispell,Montana,48.1958,-114.3129,2.49,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Kaneohe,Hawaii,21.3999,-157.799,7.39,0,0.0,0.0,0.1496062992125984,False,False
+2026-11-06,US,Kansas City,Missouri,39.0997,-94.5786,20.36,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Knoxville,Tennessee,35.9606,-83.9207,28.57,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Kuna,Idaho,43.4918,-116.4201,5.22,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Lafayette,Louisiana,30.2241,-92.0198,16.88,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Lake Oswego,Oregon,45.4207,-122.6706,12.44,0,0.0,0.0,0.08661417322834647,False,False
+2026-11-06,US,Lancaster,Pennsylvania,40.0379,-76.3055,12.459999999999999,0,0.0,0.0,0.027559055118110232,False,False
+2026-11-06,US,Las Cruces,New Mexico,32.3123,-106.7783,4.97,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Las Vegas,Nevada,36.175,-115.1372,41.68,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Lawrence,Kansas,38.9717,-95.2352,4.9,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Leawood,Kansas,38.9667,-94.6169,4.42,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Lennox,South Dakota,43.3541,-96.892,1.29,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Lewes,Delaware,38.7746,-75.1393,6.35,0,0.0,0.0,0.8976377952755906,True,True
+2026-11-06,US,Lexington,Kentucky,37.9887,-84.4777,25.02,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Lincoln,Nebraska,40.8,-96.667,7.26,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Little Rock,Arkansas,34.7465,-92.2896,17.76,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Littleton,Colorado,39.6133,-105.0166,11.26,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Los Alamos,New Mexico,35.8881,-106.307,2.26,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Los Angeles,California,34.0522,-118.2437,167.59,6,0.0,0.0,0.0,False,False
+2026-11-06,US,Louisville,Kentucky,38.2542,-85.7594,36.32,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Macomb,Michigan,42.7009,-82.9591,6.41,0,0.0,0.0,0.0905511811023622,False,False
+2026-11-06,US,Madison,Alabama,34.6993,-86.7483,8.11,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Madison,Mississippi,32.4618,-90.1154,5.15,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Madison,South Dakota,44.0061,-97.114,0.8200000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Madison,Wisconsin,43.073,-89.4012,14.24,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Manchester,New Hampshire,42.9956,-71.4548,5.83,0,0.0,0.0,0.7007874015748031,True,True
+2026-11-06,US,Marietta,Georgia,33.9526,-84.5499,38.96,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Memphis,Tennessee,35.1495,-90.049,22.23,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Meridian,Idaho,43.6121,-116.3915,6.82,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Mesa,Arizona,33.4223,-111.8226,9.55,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Metairie,Louisiana,29.9841,-90.1528,10.39,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Miami,Florida,25.7743,-80.1937,187.4,1,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Middlesboro,Kentucky,36.6084,-83.7166,1.57,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Middletown,Delaware,39.4496,-75.7163,3.33,0,0.0,0.0,0.7637795275590551,True,True
+2026-11-06,US,Mililani,Hawaii,21.4504,-158.015,6.1899999999999995,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Milwaukee,Wisconsin,43.0389,-87.9065,18.03,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Minneapolis,Minnesota,44.98,-93.2638,36.02,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Minnetonka,Minnesota,44.9133,-93.5033,4.57,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Missoula,Montana,46.8722,-113.994,1.8900000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Mobile,Alabama,30.6944,-88.043,11.200000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Morgantown,West Virginia,39.6295,-79.9559,7.08,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Morristown,New Jersey,40.7968,-74.4815,14.01,0,0.0,0.0,0.22440944881889766,True,True
+2026-11-06,US,Mount Pleasant,South Carolina,32.7941,-79.8626,14.59,0,0.0,0.0,0.1456692913385827,False,False
+2026-11-06,US,Myrtle Beach,South Carolina,33.6891,-78.8867,17.07,0,0.0,0.0,0.3267716535433071,True,True
+2026-11-06,US,Naperville,Illinois,41.7859,-88.1473,20.98,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-06,US,Naples,Florida,26.1423,-81.796,52.77,0,0.0,0.0,0.01968503937007874,False,False
+2026-11-06,US,Nashua,New Hampshire,42.7654,-71.4676,5.930000000000001,0,0.0,0.0,0.4960629921259842,True,True
+2026-11-06,US,Nashville,Tennessee,36.1659,-86.7844,49.1,0,0.0,0.0,0.0,False,False
+2026-11-06,US,New Canaan,Connecticut,41.1468,-73.4948,11.52,0,0.0,0.0,0.9448818897637795,True,True
+2026-11-06,US,New Castle,Delaware,39.6595,-75.5636,6.82,0,0.0,0.0,1.1889763779527558,True,True
+2026-11-06,US,New Orleans,Louisiana,29.9546,-90.0751,22.41,0,0.0,0.0,0.0,False,False
+2026-11-06,US,New York,New York,40.7143,-74.006,542.95,49,0.0,0.0,0.41732283464566927,True,True
+2026-11-06,US,Newark,Delaware,39.6837,-75.7497,7.45,0,0.0,0.0,1.3188976377952755,True,True
+2026-11-06,US,Norman,Oklahoma,35.2226,-97.4395,7.92,0,0.0,0.0,0.2559055118110236,True,True
+2026-11-06,US,North Las Vegas,Nevada,36.1989,-115.1175,1.48,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Norwalk,Connecticut,41.1176,-73.4079,9.450000000000001,0,0.0,0.0,1.204724409448819,True,True
+2026-11-06,US,Oakland,California,37.8044,-122.2708,46.28,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Oklahoma City,Oklahoma,35.4676,-97.5164,15.8,0,0.0,0.0,0.0905511811023622,False,False
+2026-11-06,US,Olathe,Kansas,38.8814,-94.8191,8.0,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Omaha,Nebraska,41.2563,-95.9404,16.1,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Orlando,Florida,28.5383,-81.3792,67.57,0,0.0,0.0,0.023622047244094488,False,False
+2026-11-06,US,Overland Park,Kansas,38.9822,-94.6708,15.040000000000001,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Paducah,Kentucky,37.0834,-88.6,5.7700000000000005,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Papillion,Nebraska,41.1544,-96.0422,2.56,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Park City,Utah,40.6461,-111.498,5.01,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Philadelphia,Pennsylvania,39.9524,-75.1636,75.53999999999999,0,0.0,0.0,1.0354330708661417,True,True
+2026-11-06,US,Phoenix,Arizona,33.4484,-112.074,31.75,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Pittsburgh,Pennsylvania,40.4406,-79.9959,46.980000000000004,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Plymouth,Michigan,42.3714,-83.4702,7.5,0,0.0,0.0,0.07874015748031496,False,False
+2026-11-06,US,Plymouth,Minnesota,45.0105,-93.4555,8.379999999999999,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Portland,Maine,43.6574,-70.2589,6.27,0,0.0,0.0,0.49999999999999994,True,True
+2026-11-06,US,Portland,Oregon,45.5234,-122.6762,70.8,0,0.0,0.0,0.047244094488188976,False,False
+2026-11-06,US,Portsmouth,New Hampshire,43.077,-70.7577,3.5500000000000003,0,0.0,0.0,0.4409448818897637,True,True
+2026-11-06,US,Princeton,New Jersey,40.3487,-74.659,10.45,0,0.0,0.0,0.4251968503937008,True,True
+2026-11-06,US,Providence,Rhode Island,41.824,-71.4128,10.27,0,0.0,0.0,0.6377952755905512,True,True
+2026-11-06,US,Raleigh,North Carolina,35.7721,-78.6386,46.46,0,0.0,0.0,1.6220472440944882,True,True
+2026-11-06,US,Rapid City,South Dakota,44.0805,-103.231,2.25,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Reading,Massachusetts,42.5256,-71.0953,65.77,2,0.0,0.0,0.6614173228346457,True,True
+2026-11-06,US,Reno,Nevada,39.5296,-119.8138,13.690000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Richmond,Virginia,37.5538,-77.4603,32.62,0,0.0,0.0,1.0118110236220472,True,True
+2026-11-06,US,Rock Springs,Wyoming,41.5875,-109.2029,2.27,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Rockville,Maryland,39.084,-77.1528,14.27,0,0.0,0.0,0.15354330708661418,False,False
+2026-11-06,US,Rogers,Arkansas,36.332,-94.1185,7.1000000000000005,0,0.0,0.0,0.003937007874015748,False,False
+2026-11-06,US,Saint Charles,Missouri,38.7839,-90.4812,7.75,0,0.0,0.0,0.011811023622047244,False,False
+2026-11-06,US,Saint Louis,Missouri,38.6517,-90.2053,34.83,0,0.0,0.0,0.007874015748031496,False,False
+2026-11-06,US,Saint Paul,Minnesota,44.9444,-93.0933,18.22,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Salem,Oregon,44.9429,-123.0351,7.33,0,0.0,0.0,0.0748031496062992,False,False
+2026-11-06,US,Salt Lake City,Utah,40.7608,-111.891,11.72,0,0.0,0.0,0.0,False,False
+2026-11-06,US,San Antonio,Texas,29.4241,-98.4936,53.0,0,0.0,0.0,0.05905511811023622,False,False
+2026-11-06,US,San Diego,California,32.7157,-117.1647,85.5,0,0.0,0.0,0.0,False,False
+2026-11-06,US,San Francisco,California,37.7749,-122.4194,172.66,5,0.0,0.0,0.0,False,False
+2026-11-06,US,San Jose,California,37.3394,-121.895,67.94,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Sandy,Utah,40.5916,-111.8841,4.05,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Santa Fe,New Mexico,35.687,-105.9378,6.98,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Savannah,Georgia,32.0835,-81.0998,22.21,0,0.0,0.0,0.08267716535433071,False,False
+2026-11-06,US,Scarborough,Maine,43.5781,-70.3217,4.19,0,0.0,0.0,0.4409448818897637,True,True
+2026-11-06,US,Scottsdale,Arizona,33.5092,-111.899,25.87,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Seattle,Washington,47.6062,-122.3321,106.7,0,0.0,0.0,0.27165354330708663,True,True
+2026-11-06,US,Sheridan,Wyoming,44.7972,-106.9562,2.84,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Shreveport,Louisiana,32.5251,-93.7502,20.05,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Silver Spring,Maryland,38.9907,-77.0261,15.31,0,0.0,0.0,0.610236220472441,True,True
+2026-11-06,US,Sioux Falls,South Dakota,43.55,-96.7003,4.22,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Sitka,Alaska,57.0532,-135.3309,1.08,0,0.0,0.0,1.8188976377952757,True,True
+2026-11-06,US,Somerville,Massachusetts,42.3876,-71.0995,12.639999999999999,0,0.0,0.0,0.8110236220472441,True,True
+2026-11-06,US,South Burlington,Vermont,44.467,-73.171,3.2600000000000002,0,0.0,0.0,0.25196850393700787,True,True
+2026-11-06,US,South Jordan,Utah,40.5622,-111.9297,6.27,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Southaven,Mississippi,34.989,-90.0126,2.91,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Spokane,Washington,47.6569,-117.425,6.72,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Springfield,Missouri,37.2153,-93.2982,7.82,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Stamford,Connecticut,41.0534,-73.5387,11.25,0,0.0,0.0,0.7716535433070867,True,True
+2026-11-06,US,Staten Island,New York,40.5623,-74.1399,34.31,0,0.0,0.0,0.3464566929133859,True,True
+2026-11-06,US,Stowe,Vermont,44.4653,-72.6846,2.26,0,0.0,0.0,0.2795275590551181,True,True
+2026-11-06,US,Tacoma,Washington,47.2529,-122.4443,15.5,0,0.0,0.0,0.39370078740157477,True,True
+2026-11-06,US,Tampa,Florida,27.9475,-82.4584,48.21,0,0.0,0.0,0.15354330708661418,False,False
+2026-11-06,US,Tijeras,New Mexico,35.0809,-106.3881,1.99,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Tucson,Arizona,32.2217,-110.9265,27.82,0,0.0,0.0,0.07086614173228346,False,False
+2026-11-06,US,Tulsa,Oklahoma,36.154,-95.9928,31.18,0,0.0,0.0,0.2480314960629921,True,True
+2026-11-06,US,Vancouver,Washington,45.6387,-122.6615,18.77,0,0.0,0.0,0.0748031496062992,False,False
+2026-11-06,US,Virginia Beach,Virginia,36.8529,-75.978,33.089999999999996,0,0.0,0.0,0.8779527559055118,True,True
+2026-11-06,US,Warwick,Rhode Island,41.7001,-71.4162,3.16,0,0.0,0.0,0.5708661417322834,True,True
+2026-11-06,US,Washington,District of Columbia,38.8951,-77.0364,121.95,1,0.0,0.0,0.9015748031496063,True,True
+2026-11-06,US,Wasilla,Alaska,61.5809,-149.4415,0.6900000000000001,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Waukesha,Wisconsin,43.0117,-88.2315,4.54,0,0.0,0.0,0.0,False,False
+2026-11-06,US,West Chester,Pennsylvania,39.961,-75.608,12.15,0,0.0,0.0,0.2795275590551181,True,True
+2026-11-06,US,West Des Moines,Iowa,41.5772,-93.7113,3.72,0,0.0,0.0,0.0,False,False
+2026-11-06,US,West Fargo,North Dakota,46.875,-96.9004,2.74,0,0.0,0.0,0.0,False,False
+2026-11-06,US,West Lafayette,Indiana,40.4259,-86.9081,6.32,0,0.0,0.0,0.031496062992125984,False,False
+2026-11-06,US,Westfield,New Jersey,40.659,-74.3474,12.88,0,0.0,0.0,0.4330708661417323,True,True
+2026-11-06,US,Wheeling,West Virginia,40.064,-80.7209,4.03,0,0.0,0.0,0.015748031496062992,False,False
+2026-11-06,US,Whitefish Bay,Wisconsin,43.1133,-87.9001,4.63,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Wichita,Kansas,37.6922,-97.3375,16.12,0,0.0,0.0,0.0,False,False
+2026-11-06,US,Wilmette,Illinois,42.0722,-87.7228,11.33,0,0.0,0.0,0.051181102362204724,False,False
+2026-11-06,US,Wilmington,Delaware,39.746,-75.5466,19.23,0,0.0,0.0,1.1062992125984252,True,True
+2026-11-06,US,Wilmington,North Carolina,34.2356,-77.946,21.71,0,0.0,0.0,0.1377952755905512,False,False
