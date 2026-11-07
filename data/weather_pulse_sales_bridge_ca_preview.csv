@@ -14,7 +14,13 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-11-05,blocked,,CA,amazon,,FBA-1K000-790-00005,1,33.47,,0.0,0.0,0.0,
 2026-11-05,blocked,,CA,amazon,,FBA-1K001-DT1-00001,1,38.4,,0.0,0.0,0.0,
 2026-11-05,blocked,,CA,amazon,,FBA3-12005-001-221-51,1,70.06,,0.0,0.0,0.0,
-2026-11-06,blocked,,CA,amazon,,1K000-732-00013,1,33.69,Scale Umbrellas,1.197,0.0,2.55,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.272 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
-2026-11-06,blocked,,CA,amazon,,FBA2-12005-600-221-51,1,67.43,Scale Umbrellas,1.197,0.0,2.55,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.272 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
-2026-11-06,blocked,,CA,amazon,,FBA3-12005-001-221-51,1,72.39,Scale Umbrellas,1.197,0.0,2.55,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.272 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
-2026-11-06,blocked,,CA,amazon,,FBA_12005-310-00003,1,72.39,Scale Umbrellas,1.197,0.0,2.55,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.272 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
+2026-11-06,blocked,,CA,amazon,,14M01-AP2-00010,2,176.0,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,1K000-732-00013,1,33.67,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA 10001-310-00007,1,67.47,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA-10001-790-321-44,1,67.47,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA-11005-001-221-55,1,82.13,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA-14M00-001-00001,0,0.0,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA2-12005-600-221-51,1,67.4,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA3-12005-001-221-51,1,72.36,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,amazon,,FBA_12005-310-00003,2,144.71,,0.0,0.0,0.0,
+2026-11-06,blocked,,CA,shopify,web,11005-310-00002,1,84.2,,0.0,0.0,0.0,
