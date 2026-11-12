@@ -1,216 +1,216 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary,Quantity_Sold,Order_Revenue
-2026-11-11,Acton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Alderley Edge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Aldershot,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Altrincham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Amersham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Armscote,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Ashley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Aylesbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Banbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Barking,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Barrow-In-Furness, Westmorland And Furness",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Basingstoke,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bath,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Beaconsfield,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bedford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bedlington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Berwick-Upon-Tweed,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bicester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Billericay,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Birmingham,England,UK,Baseline,0.0,0.059,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.059 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,1.81
-2026-11-11,Blackburn,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bolton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Bolton Percy, York",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Bracknell,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Brentwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Brigg,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Brighton,England,UK,Baseline,0.004,0.236,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.236 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,1.47
-2026-11-11,Bristol,England,UK,Baseline,0.004,0.48,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.480 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,6.32
-2026-11-11,Bromley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Bromley, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Buckhurst Hill,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Burntwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Burton-On-Trent,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Cabus,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Calne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Calne, Wiltshire",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Cambridge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Camden, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Carlisle,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Carshalton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Castleford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Chearsley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Chertsey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Cheshire West And Chester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Chester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Chichester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Chiswick,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Christchurch,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Crawley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Crowborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Croydon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Danbury, Chelmsford",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Deal,",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Derby,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Dereham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Didcot,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Dorchester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Droitwich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,East Horsley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Eastbourne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Eastleigh,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Edgware,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Esher,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Evesham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Exeter,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Farnborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Gerrards Cross,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Gosport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Guildford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Hackney, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hadley Wood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Harrow,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hayling Island,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Headley Down,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Henley-On-Thames,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hertford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,High Peak,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,High Wycombe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hitchin,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hoddesdon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Holmfirth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Hove,England,UK,Baseline,0.004,0.236,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.236 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,1.82
-2026-11-11,Hull,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Huntingdon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Ilford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Ipswich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Kenilworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Kingston Upon Thames,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Knebworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Lakes Cp, South Lakeland",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lancaster,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Leamington Spa,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Leatherhead,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Leeds,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Leicester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lincoln,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Littlehampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Liverpool,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,London,England,UK,Baseline,0.0,0.189,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.189 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,1,46.86
-2026-11-11,Looe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lostwithiel,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lower Dean,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lytham St. Annes,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Macclesfield,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Maidenhead,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Manchester,England,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,1.73
-2026-11-11,Marlborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Melksham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Melton Mowbray,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Middleton-On-Sea, Arun",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Milcombe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Moore,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Morecambe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Mursley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,New Malden,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Newcastle Upon Tyne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Newham, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Newport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,North Shields,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Northwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Norwich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Nottingham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Oakham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Offton, Ipswich",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Orpington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Oxford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Peterlee,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Plymouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Poole,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Portsmouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Preston,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Pudsey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Radcliffe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Reading,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Redhill,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Richmond,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Rickmansworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Rotherham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Runcorn,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Salford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Sevenoaks,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Sheffield,England,UK,Baseline,0.0,0.004,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.004 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,2.72
-2026-11-11,Shepshed,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Shrewsbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Sidcup,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Slough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,South Croydon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,South Shields,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Southampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"Southwark, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Spalding,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,St Albans,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Stockport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Stowmarket,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Stroud,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Surrey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Swindon,England,UK,Baseline,0.004,0.39,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.390 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,3.31
-2026-11-11,Taunton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Tewkesbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Tunbridge Wells,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Ulverston,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Umberleigh,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wallingford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Walsall,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Warley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Warrington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Watford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Welling,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wellingborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"West Horsley, Leatherhead",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Weybridge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Weymouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Whalley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Whitley Bay,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wigan,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wirral,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Witney,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wolverhampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Worcester Park,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Wotton-Under-Edge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,York,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Belfast,Northern Ireland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.43
-2026-11-11,Craigavon,Northern Ireland,UK,Baseline,0.0,0.0,0.45,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,0.4
-2026-11-11,Dromara,Northern Ireland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.37
-2026-11-11,Londonderry,Northern Ireland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Newry,Northern Ireland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.82
-2026-11-11,Aberdeen,Scotland,UK,Scale Umbrellas,0.343,0.0,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.343 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in,0,0.88
-2026-11-11,Aboyne,Scotland,UK,Baseline,0.071,0.0,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.071 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,0.34
-2026-11-11,Balerno,Scotland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.41
-2026-11-11,Banchory,Scotland,UK,Scale Umbrellas,0.205,0.0,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.205 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in,0,0.54
-2026-11-11,Barrhead,Scotland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.45
-2026-11-11,Bridge Of Weir,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Buckie,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Dalry,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Dumbarton,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Dunfermline,Scotland,UK,Baseline,0.0,0.012,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.012 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.88
-2026-11-11,Dunoon,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Edinburgh,Scotland,UK,Baseline,0.0,0.02,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.020 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,1.76
-2026-11-11,Elgin,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Glasgow,Scotland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,2.23
-2026-11-11,Inverkeithing,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Isle Of Skye,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Lybster,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Aberdare,Wales,UK,Baseline,0.0,0.421,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.421 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.83
-2026-11-11,Cardiff,Wales,UK,Baseline,0.0,0.366,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.366 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,1.19
-2026-11-11,Clarbeston Road,Wales,UK,Baseline,0.0,0.402,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.402 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.4
-2026-11-11,Cwm Y Glo,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Cwmbran,Wales,UK,Baseline,0.0,0.445,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.445 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.39
-2026-11-11,Llanidloes,Wales,UK,Baseline,0.0,0.181,0.15,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.181 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.1 (threshold 8) | No marketing threshold met.,0,0.37
-2026-11-11,Merthyr Tydfil,Wales,UK,Baseline,0.0,0.421,0.35,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.421 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.3 (threshold 8) | No marketing threshold met.,0,0.44
-2026-11-11,Port Talbot,Wales,UK,Baseline,0.004,0.386,0.3,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.386 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.3 (threshold 8) | No marketing threshold met.,0,0.46
-2026-11-11,Porthcawl,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,"St. Fagans, Cardiff",Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-11-11,Swansea,Wales,UK,Baseline,0.0,0.465,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.465 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.38
-2026-11-11,Treharris,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Acton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Alderley Edge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Aldershot,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Altrincham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Amersham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Armscote,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Ashley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Aylesbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Banbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Barking,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Barrow-In-Furness, Westmorland And Furness",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Basingstoke,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bath,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Beaconsfield,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bedford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bedlington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Berwick-Upon-Tweed,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bicester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Billericay,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Birmingham,England,UK,Baseline,0.0,0.417,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.417 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,1.8
+2026-11-12,Blackburn,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bolton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Bolton Percy, York",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Bracknell,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Brentwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Brigg,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Brighton,England,UK,Baseline,0.0,0.15,0.75,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.150 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.8 (threshold 8) | No marketing threshold met.,0,1.46
+2026-11-12,Bristol,England,UK,Baseline,0.0,0.071,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.071 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,6.28
+2026-11-12,Bromley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Bromley, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Buckhurst Hill,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Burntwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Burton-On-Trent,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Cabus,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Calne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Calne, Wiltshire",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Cambridge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Camden, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Carlisle,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Carshalton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Castleford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Chearsley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Chertsey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Cheshire West And Chester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Chester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Chichester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Chiswick,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Christchurch,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Crawley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Crowborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Croydon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Danbury, Chelmsford",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Deal,",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Derby,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Dereham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Didcot,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Dorchester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Droitwich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,East Horsley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Eastbourne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Eastleigh,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Edgware,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Esher,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Evesham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Exeter,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Farnborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Gerrards Cross,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Gosport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Guildford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Hackney, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hadley Wood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Harrow,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hayling Island,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Headley Down,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Henley-On-Thames,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hertford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,High Peak,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,High Wycombe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hitchin,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hoddesdon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Holmfirth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Hove,England,UK,Baseline,0.0,0.15,0.7,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.150 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,1.81
+2026-11-12,Hull,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Huntingdon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Ilford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Ipswich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Kenilworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Kingston Upon Thames,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Knebworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Lakes Cp, South Lakeland",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lancaster,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Leamington Spa,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Leatherhead,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Leeds,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Leicester,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lincoln,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Littlehampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Liverpool,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,London,England,UK,Baseline,0.0,0.213,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.213 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,1,46.58
+2026-11-12,Looe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lostwithiel,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lower Dean,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lytham St. Annes,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Macclesfield,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Maidenhead,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Manchester,England,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,1.72
+2026-11-12,Marlborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Melksham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Melton Mowbray,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Middleton-On-Sea, Arun",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Milcombe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Moore,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Morecambe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Mursley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,New Malden,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Newcastle Upon Tyne,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Newham, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Newport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,North Shields,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Northwood,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Norwich,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Nottingham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Oakham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Offton, Ipswich",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Orpington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Oxford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Peterlee,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Plymouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Poole,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Portsmouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Preston,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Pudsey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Radcliffe,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Reading,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Redhill,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Richmond,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Rickmansworth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Rotherham,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Runcorn,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Salford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Sevenoaks,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Sheffield,England,UK,Baseline,0.0,0.004,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.004 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,2.7
+2026-11-12,Shepshed,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Shrewsbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Sidcup,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Slough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,South Croydon,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,South Shields,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Southampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"Southwark, London",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Spalding,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,St Albans,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Stockport,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Stowmarket,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Stroud,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Surrey,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Swindon,England,UK,Baseline,0.0,0.161,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.161 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,3.29
+2026-11-12,Taunton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Tewkesbury,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Tunbridge Wells,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Ulverston,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Umberleigh,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wallingford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Walsall,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Warley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Warrington,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Watford,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Welling,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wellingborough,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"West Horsley, Leatherhead",England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Weybridge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Weymouth,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Whalley,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Whitley Bay,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wigan,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wirral,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Witney,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wolverhampton,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Worcester Park,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Wotton-Under-Edge,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,York,England,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Belfast,Northern Ireland,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,0.43
+2026-11-12,Craigavon,Northern Ireland,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,0.39
+2026-11-12,Dromara,Northern Ireland,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,0.37
+2026-11-12,Londonderry,Northern Ireland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Newry,Northern Ireland,UK,Baseline,0.0,0.0,0.5,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.5 (threshold 8) | No marketing threshold met.,0,0.82
+2026-11-12,Aberdeen,Scotland,UK,Baseline,0.114,0.004,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.114 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.004 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,0.87
+2026-11-12,Aboyne,Scotland,UK,Baseline,0.106,0.004,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.106 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.004 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,0.34
+2026-11-12,Balerno,Scotland,UK,Baseline,0.02,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.020 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.41
+2026-11-12,Banchory,Scotland,UK,Baseline,0.13,0.0,0.25,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.130 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.2 (threshold 8) | No marketing threshold met.,0,0.53
+2026-11-12,Barrhead,Scotland,UK,Baseline,0.0,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.45
+2026-11-12,Bridge Of Weir,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Buckie,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Dalry,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Dumbarton,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Dunfermline,Scotland,UK,Baseline,0.004,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,0.88
+2026-11-12,Dunoon,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Edinburgh,Scotland,UK,Baseline,0.008,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.008 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,1.75
+2026-11-12,Elgin,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Glasgow,Scotland,UK,Baseline,0.004,0.0,0.4,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.004 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.4 (threshold 8) | No marketing threshold met.,0,2.21
+2026-11-12,Inverkeithing,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Isle Of Skye,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Lybster,Scotland,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Aberdare,Wales,UK,Baseline,0.0,0.063,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.063 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.83
+2026-11-12,Cardiff,Wales,UK,Baseline,0.0,0.106,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.106 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,1.18
+2026-11-12,Clarbeston Road,Wales,UK,Baseline,0.0,0.012,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.012 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.4
+2026-11-12,Cwm Y Glo,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Cwmbran,Wales,UK,Baseline,0.0,0.075,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.075 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.39
+2026-11-12,Llanidloes,Wales,UK,Baseline,0.0,0.169,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.169 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.37
+2026-11-12,Merthyr Tydfil,Wales,UK,Baseline,0.0,0.063,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.063 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.43
+2026-11-12,Port Talbot,Wales,UK,Baseline,0.0,0.047,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.047 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.46
+2026-11-12,Porthcawl,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,"St. Fagans, Cardiff",Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-11-12,Swansea,Wales,UK,Baseline,0.0,0.031,0.65,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.031 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.7 (threshold 8) | No marketing threshold met.,0,0.37
+2026-11-12,Treharris,Wales,UK,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
