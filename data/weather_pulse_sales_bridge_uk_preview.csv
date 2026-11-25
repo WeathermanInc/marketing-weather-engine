@@ -1,6 +1,7 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-11-18,blocked,,UK,shopify,web,WM-10001-000-O/S,1,52.68,,0.0,0.0,0.0,
 2026-11-20,blocked,,UK,shopify,web,14M00-001-00001,1,91.7,,0.0,0.0,0.0,
 2026-11-21,blocked,,UK,shopify,web,14M00-001-00001,1,91.57,,0.0,0.0,0.0,
 2026-11-22,blocked,,UK,shopify,web,WM-10001-000-O/S,1,52.34,,0.0,0.0,0.0,
 2026-11-23,blocked,,UK,shopify,web,12005-001-221-51,1,78.62,,0.0,0.0,0.0,
+2026-11-24,blocked,,UK,shopify,web,10001-001-00001,1,78.7,,0.0,0.0,0.0,
+2026-11-24,blocked,,UK,shopify,web,12005-001-221-51,1,78.7,,0.0,0.0,0.0,
