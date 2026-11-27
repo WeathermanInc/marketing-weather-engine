@@ -1,7 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-11-20,blocked,,CA,amazon,,FBA- 10001-997-00015,1,66.35,,0.0,0.0,0.0,
-2026-11-20,blocked,,CA,amazon,,FBA-11005-001-221-55,1,80.78,,0.0,0.0,0.0,
-2026-11-20,blocked,,CA,amazon,,FBA2-12005-600-221-51,1,71.16,,0.0,0.0,0.0,
 2026-11-21,blocked,,CA,amazon,,1K00-310-00019-FBA,1,38.02,,0.0,0.0,0.0,
 2026-11-21,blocked,,CA,amazon,,FBA-10001-790-321-44,1,66.37,,0.0,0.0,0.0,
 2026-11-21,blocked,,CA,amazon,,FBA-12005-200-221-51,1,71.18,,0.0,0.0,0.0,
@@ -18,3 +15,8 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-11-25,blocked,,CA,amazon,,FBA-10001-001-00001,1,66.98,,0.0,0.0,0.0,
 2026-11-25,blocked,,CA,amazon,,FBA-14M00-001-00001,1,87.37,,0.0,0.0,0.0,
 2026-11-25,blocked,,CA,amazon,,FBA-1K001-DT1-00001,1,37.86,,0.0,0.0,0.0,
+2026-11-26,blocked,,CA,amazon,,14M00-790-00012,1,87.19,,0.0,0.0,0.0,
+2026-11-26,blocked,,CA,amazon,,FBA_12005-310-00003,1,71.69,,0.0,0.0,0.0,
+2026-11-27,blocked,,CA,amazon,,1K000-200-00012,1,33.35,Scale Umbrellas (Residual Demand),1.248,2.008,1.75,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.059 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 1.713 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.3 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-11-27,blocked,,CA,amazon,,FBA-13004-001-219-62,1,86.2,Scale Umbrellas (Residual Demand),1.248,2.008,1.75,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.059 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 1.713 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.3 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-11-27,blocked,,CA,amazon,,FBA3-12005-001-221-51,1,71.67,Scale Umbrellas (Residual Demand),1.248,2.008,1.75,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.059 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 1.713 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.3 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
